@@ -1,0 +1,2413 @@
+[CIM: AHG - Management Presentation - February 2026.pdf]
+[Deal: Project Dunecrest]
+[Augmentation: vision-augmented via opus by augment_cims.py]
+
+[PAGE 1]
+IMAGE REDACTED
+exterior of AHG Central, the flagship hospital, at dusk
+Arvenna Health Group
+Management Presentation
+February 2026
+Prepared by the management of Arvenna Health Group with Quenlow Advisory (advisor)
+Country A's only integrated private hospital group
+
+[PAGE 2]
+Agenda
+Arvenna Health Group - Management Presentation
+February 2026   |   2
+Overview of the Company
+1
+Overview of the Company
+Page 3
+2
+Strategy Roadmap
+Page 22
+Appendix - definitions, KPI reconciliation and basis of preparation
+Page 26
+This presentation has been prepared by the management of Arvenna Health Group with the assistance of Quenlow Advisory for discussion with prospective investors. Financial information for 2021A-2024A is
+taken from audited group accounts, 2025A figures are preliminary and unaudited management accounts, and 2026B is the budget approved by the board in January 2026. Local-currency amounts (LCA) are
+converted to US dollars at 0.235 USD/LCA throughout. Operational KPIs are drawn from the group hospital management information system.
+Source: Company information
+
+[PAGE 3]
+Built through buy-and-build between 2019 and 2023 into the only integrated hospital group in Country A
+Four hospitals and a diagnostics platform assembled in four years around a flagship founded in 2011, with the founder still leading the group
+Arvenna Health Group - Management Presentation
+February 2026   |   3
+Overview of the Company
+Group history
+2019
+2020
+July 2021
+2022
+2023
+G
+G
+G
+G
+G
+Group formed by Dr. Karim Sfaxi-Mellouli
+around AHG Central (founded by him in 2011
+with 140 beds), by then the 168-bed flagship
+hospital in the capital; group holding company
+incorporated
+AHG Central acquires 80% of AHG Coast and
+90% of AHG North (1); the country's only
+private radiotherapy unit is commissioned at
+AHG North; shared services and group
+procurement start
+Kessport Frontier Fund II and DFI partners
+invest through a primary capital increase;
+single HMIS rolled out group-wide; build-out
+of AHG Diagnostics begins
+Acquisition of AHG Park (site held on a
+25-year lease to 2039), funded by Fund II's
+June 2022 follow-on; AHG Diagnostics carved
+out as a standalone laboratory and imaging
+entity
+Second-phase oncology expansion at AHG
+North funded by the June 2023 follow-on; 32
+beds added across the four hospitals
+Mission
+Vision
+Core values
+We deliver safe, high-quality care to every patient through well-trained staff,
+evidence-based protocols and modern medical technology, at a cost that
+keeps specialised medicine accessible to the families and employers of
+Country A.
+To be the leading integrated private healthcare provider in Country A and
+the reference platform for patients travelling from the wider region,
+combining Centres of Excellence with the convenience of a general hospital
+network.
+Patient first in every decision; our network is the first point of care for the
+communities we serve; respect for our doctors and staff; transparency with
+payors and partners; stewardship of the resources entrusted to us.
+Group development 2021A to 2025A
+510 to 542
+Inpatient beds
+$32.8M to $54.9M
+Revenue (USD equivalent)
+$8.2M to $13.0M
+EBITDA
+3.40x to 1.85x
+Net debt / EBITDA
+$14.0M
+Capex invested 2021A-2025A
+Today the group operates 4 hospitals with 542 inpatient beds (620 bed-equivalents including 46 ICU beds and 32 day-case bays), a diagnostics entity and roughly 1,900 employees. 2025A group revenue reached LCA
+233.8M ($54.9M (2)), a 13.8% compound annual growth rate since 2021, with EBITDA of $13.0M.
+(1) Ownership at acquisition; minority co-shareholders remain at facility level.  (2) At the reference rate of 0.235 USD/LCA.  Source: Company information
+
+[PAGE 4]
+AHG at a glance
+542 inpatient beds, 37,924 admissions and 117,000 outpatient visits in 2025A; 42% of patients travel from abroad
+Arvenna Health Group - Management Presentation
+February 2026   |   4
+Overview of the Company
+Group overview
+I
+Headquartered in the capital of Country A, AHG is the largest and only integrated private hospital network in the country, formed in 2019 by the founder of AHG Central; Kessport Frontier Fund II and our DFI partners have been shareholders since July 2021.
+I
+International patients account for 42% of patient volumes and 59% of revenues, making AHG the regional leader in medical value tourism, with 6 regional source markets served through 14 partner clinics.
+I
+We operate 4 hospitals structured around seven Centres of Excellence (cardiac surgery and cardiology, oncology and radiotherapy, neurosurgery, orthopaedics and trauma, IVF and maternity, emergency and endoscopy, physiotherapy and rehabilitation) plus AHG Diagnostics,
+our laboratory and imaging entity.
+Group facilities and Centres of Excellence
+AHG Central
+AHG Coast
+AHG North
+AHG Park
+176 beds - cardiac surgery and cardiology, neurosurgery, IVF and maternity
+120 beds - orthopaedics and trauma, emergency and endoscopy
+142 beds - oncology and radiotherapy, cardiac cath lab
+104 beds - maternity and IVF, physiotherapy and rehabilitation
+2025A key financials (1)
+LCA 233.8M
+Revenues (local currency)
+$54.9M
+Revenues (USD equivalent)
+$13.0M (23.6%)
+EBITDA (margin)
+$9.4M (17.0%)
+EBIT (margin)
+$24.0M (1.85x)
+Net debt (2) (x EBITDA)
+2025A operational KPIs
+4 + 1
+Hospitals + diagnostics entity
+$55.9M
+Net tangible assets (owned real estate & equipment)
+542
+Inpatient beds
+46
+ICU beds
+38
+Operating rooms
+5
+MRI scanners
+6
+CT scanners
+2
+Catheterisation labs
+3 of 4
+Owned hospital sites
+588,679
+Diagnostic tests (lab, imaging, cardiac)
+37,924
+Inpatient admissions
+42%
+International patients
+117,000
+Outpatient visits (excl. ER)
+71,602
+Emergency visits
+70.3%
+Bed-weighted occupancy
+310
+Physicians (salaried and partner)
+640
+Nurses and technicians (3)
+1,900
+Employees
+46
+Payer relationships
+1.2M
+Unique medical records
+Institutional shareholders since July 2021 (1)
+Kessport Frontier Fund II (58%)
+Kessport Frontier Fund III (12%)
+DFI Partner 1 (15%)
+DFI Partner 2 (15%)
+(1) Management accounts, 2025 preliminary, unaudited; USD at 0.235 USD/LCA; shareholdings per the transaction model.  (2) Gross debt less cash, incl. overdrafts.  (3) Employed nurses and technicians, excl. physicians.  Source: Company information
+[PAGE 5]
+An experienced and committed management team with long tenure across the group
+Arvenna Health Group - Management Presentation
+February 2026   |   5
+Overview of the Company
+Founder and group leadership
+IMAGE
+REDACTED
+Headshot
+Dr. Karim Sfaxi-Mellouli
+Founder & Chairman (2011)
+Over 30 years in hospital medicine and management; founded
+AHG Central in 2011 and formed the group around it in 2019;
+qualified physician with a hospital-management degree from an
+overseas university.
+IMAGE
+REDACTED
+Headshot
+Leila Bouhlel-Aziz
+Group Chief Executive Officer (2019)
+Former country manager of an international healthcare services
+company; led the acquisitions and integration of AHG Coast,
+North and Park; engineering degree and MBA.
+IMAGE
+REDACTED
+Headshot
+Omar Trabelsi-Farah
+Group Chief Financial Officer (2021)
+Joined ahead of Fund II's investment; previously audit senior
+manager and CFO of a listed services company in Country A;
+chartered accountant; leads finance, treasury and investor
+reporting.
+Key executives (2)
+IMAGE
+REDACTED
+Headshot
+Group Chief
+Operating
+Officer
+Joined 2021
+18 years in hospital
+operations; leads
+integration and
+capacity; master in
+health management.
+IMAGE
+REDACTED
+Headshot
+Group
+Management
+Controller
+Joined 2021
+Built the group
+reporting and budget
+cycle; 12 years in
+controlling;
+business-school
+graduate.
+IMAGE
+REDACTED
+Headshot
+General
+Secretary
+Joined 2020
+Legal, regulatory and
+governance; 15
+years in corporate
+law; bar admission in
+Country A.
+IMAGE
+REDACTED
+Headshot
+General
+Manager, AHG
+North
+Joined 2020
+Led the integration of
+the North site and its
+oncology centre after
+acquisition; 14 years
+in facility
+management;
+pharmacist.
+IMAGE
+REDACTED
+Headshot
+General
+Manager, AHG
+Coast
+Joined 2020
+Ten years managing
+the Coast hospital
+before and after its
+acquisition; nurse
+and MBA.
+IMAGE
+REDACTED
+Headshot
+Dr. Hela
+Chaabane
+Chief Medical
+Officer (2021)
+Chairs the medical
+council and quality
+committee; 20 years
+in internal medicine
+and public health.
+Medical leadership (2)
+IMAGE
+REDACTED
+Headshot
+International Medical
+Advisor
+Joined 2021
+Academic oncologist at an
+overseas university hospital;
+advises on protocols, tumour
+boards and research.
+IMAGE
+REDACTED
+Headshot
+Medical Director, AHG
+Central
+Joined 2016
+Cardiac surgeon; 22 years of
+practice; leads the cardiac
+surgery Centre of Excellence
+and the university teaching
+agreement.
+IMAGE
+REDACTED
+Headshot
+Medical Director, AHG
+North
+Joined 2020
+Radiation oncologist; 16
+years in public and private
+oncology; heads the
+radiotherapy unit.
+IMAGE
+REDACTED
+Headshot
+Medical Director, AHG
+Coast
+Joined 2018
+Orthopaedic and trauma
+surgeon; 19 years of practice;
+built the orthopaedics and
+emergency Centre of
+Excellence.
+IMAGE
+REDACTED
+Headshot
+Medical Director, AHG
+Park
+Joined 2022
+Obstetrician-gynaecologist
+and IVF specialist; 17 years
+of practice incl. fellowships
+abroad; leads maternity and
+IVF.
+(1) Year in brackets = joining date; photographs redacted.  (2) Executives and medical directors below board level are identified by role only in this version.  Source: Company information
+[PAGE 6]
+AHG is by far the largest, and the only integrated, private hospital group in Country A
+25.3% of private beds in the capital metro area and 11.1% nationally; share expected to reach 27.7% in the metro area by 2030
+Arvenna Health Group - Management Presentation
+February 2026   |   6
+Overview of the Company
+Largest institutional hospital group in the metro area by number of beds and facilities
+Significant barriers to entry
+I Brand equity and track record
+– 15 years of outcomes data at AHG Central (founded 2011), a 91% patient recommendation rate
+and a group brand recognised by patients, referring doctors and payers across the region.
+I Economies of scale
+– Group procurement saves an estimated 6-8% on consumables and pharmacy; shared back
+office, a single HMIS and one radiotherapy unit serving all sites - which no single-site operator
+can replicate.
+I Strategic geographic coverage
+– Three of four hospitals within 15 minutes of the international airport; the fourth serves the
+business district and the fast-growing southern residential belt; six collection points for AHG
+Diagnostics.
+I Healthcare partner of choice
+– Direct contracts with 46 payers (28 corporate accounts and 18 insurers); first-call provider for
+evacuation and assistance companies.
+Competitor facilities
+AHG operates 4 hospitals and a diagnostics entity with six collection points; the six largest
+local competitors are single-site operators of 118-310 beds, none with an integrated
+referral network or a radiotherapy unit.
+(1) AHG bed plan includes the 24-bed Park ward (H1 2026) and the optional Park and Coast extensions (2027-2029), none of which are in the budgeted bed count; competitor data from company market mapping.  Source: Company information
+
+[FIGURE auto-augmented from PDF page 6, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Inpatient beds and facilities by operator, capital metro area (2025)
+description: |
+  Vertical bar chart showing number of inpatient beds by operator:
+  - AHG (4 facilities): 542 beds
+  - Competitor A (1 facility): 310 beds
+  - Competitor B (1 facility): 236 beds
+  - Competitor C (1 facility): 198 beds
+  - Competitor D (1 facility): 164 beds
+  - Competitor E (1 facility): 141 beds
+  - Competitor F (1 facility): 118 beds
+</figure>
+<figure>
+type: bar chart
+title: Private beds in the metro area and AHG share (2025LE-2030E) (1)
+description: |
+  Stacked bar chart (AHG beds + Other operators = total private beds) with overlaid line showing AHG share %:
+  - 2025LE: Total 2,140 beds; AHG share 25.3%
+  - 2026E: Total 2,178 beds; AHG share 26.0%
+  - 2027E: Total 2,237 beds; AHG share 27.1%
+  - 2028E: Total 2,261 beds; AHG share 26.8%
+  - 2029E: Total 2,322 beds; AHG share 27.8%
+  - 2030E: Total 2,336 beds; AHG share 27.7%
+  Footnote (1): AHG bed plan includes the 24-bed Park ward (H1 2026) and the optional Park and Coast extensions (2027-2029), none of which are in the budgeted bed count; competitor data from company market mapping.
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 7]
+Extensive network coverage in prime locations across the capital metro area
+Three of our four hospitals are within 15 minutes of the international airport, the entry point for international patients; three of the four sites are owned
+Arvenna Health Group - Management Presentation
+February 2026   |   7
+Overview of the Company
+Facility map
+IMAGE REDACTED
+Capital metro area - facility map
+Central, Coast, North: owned sites; Park: leased to 2039; Diagnostics: 6 collection points
+AHG Central sits in the central district next to the diplomatic quarter and the hotel stock
+used by international patients and their families; AHG Coast (coastal district, 12 minutes
+from the airport) and AHG North (northern suburb) are within 15 minutes of the airport.
+AHG Park anchors the business district and the southern residential belt, where population
+growth is fastest and where the group holds an option on adjacent land for an extension.
+Facility cards - 2025A
+Facility
+Built-up area
+Beds
+Occupancy
+Inpatients
+Outpatients
+ER visits
+Revenue
+AHG Central
+21,400 sqm
+176
+75.7%
+13,328
+37,600
+22,982
+LCA 74.4M
+AHG Coast
+13,800 sqm
+120
+66.0%
+8,140
+25,800
+15,234
+LCA 48.5M
+AHG North
+17,900 sqm
+142
+72.2%
+9,467
+31,000
+18,984
+LCA 66.2M
+AHG Park
+11,600 sqm
+104
+63.5%
+6,989
+22,600
+14,402
+LCA 41.1M
+AHG Diagnostics
+2,100 sqm
+-
+-
+-
+-
+-
+LCA 8.0M
+Group
+66,800 sqm
+542
+70.3%
+37,924
+117,000
+71,602
+LCA 233.8M
+I AHG Central is the flagship and the largest site (176 beds, 75.7% occupancy); AHG North combines a general hospital with
+the only private radiotherapy unit in the country.
+I Inpatient admissions are derived from 137,155 occupied bed nights and facility-level average length of stay of 3.4 to 3.9
+days.
+I Every hospital runs a 24/7 emergency department, an intensive care unit and an on-site laboratory, and refers complex
+cases to the relevant Centre of Excellence within the network; AHG Park is held on a 25-year lease to 2039, the other three
+sites are owned.
+Occupancy = occupied bed nights / available bed nights (beds x 360). Outpatients exclude emergency visits. Revenue in local currency, before doctors' fees invoiced directly by partner doctors.  Source: Company information
+
+[PAGE 8]
+Centres of Excellence and specialisation within a general hospital structure (1/2)
+Surgery, cath lab and accommodation generate 52% of hospital revenue; outpatient activity is already 42% of hospital revenue, well placed for the shift to ambulatory care
+Arvenna Health Group - Management Presentation
+February 2026   |   8
+Overview of the Company
+2025A hospital revenue by service line (USD M) (1)
+Service line
+2025A revenue (USD M)
+% of total
+Growth vs 2024A
+Accommodation
+15.5
+28.6%
+9.1%
+Surgery
+11.5
+21.3%
+14.5%
+Laboratory
+5.7
+10.6%
+16.3%
+Radiology
+4.2
+7.8%
+15.5%
+Emergency
+3.7
+6.8%
+16.6%
+Pharmacy
+2.9
+5.4%
+11.9%
+Radiotherapy
+2.1
+3.8%
+9.4%
+Endoscopy
+1.6
+2.9%
+17.9%
+Cardiac tests
+1.5
+2.8%
+16.9%
+Pathology
+1.4
+2.5%
+14.8%
+Cardiac catheterisation
+1.4
+2.5%
+16.6%
+Nursing fees
+1.1
+2.0%
+16.0%
+Physiotherapy
+0.8
+1.5%
+18.2%
+IVF
+0.7
+1.3%
+13.8%
+Four hospitals - total
+54.1
+100.0%
+13.2%
+Four hospitals, 14 billable service lines; AHG Diagnostics adds $1.9M of laboratory and imaging revenue, largely from
+third-party clinics.
+2025A breakdown by type of patient
+37,924
+Inpatient admissions
+117,000
+Outpatient visits
+58%
+Inpatient share of
+hospital revenue (3)
+42%
+Outpatient share of
+hospital revenue (3)
+2025A revenue by department (2)
+A comprehensive specialisation offering: every department except radiotherapy is present in at
+least three hospitals, and the group refers patients internally so that each Centre of Excellence
+reaches critical mass.
+(1) Four hospitals, before the intercompany elimination of $1.0M; USD at 0.235 USD/LCA.  (2) Incl. AHG Diagnostics; revenues net of doctors' fees.  (3) Inpatient = accommodation, surgery, cath lab and pharmacy.  Source: Company information
+
+[FIGURE auto-augmented from PDF page 8, source: claude-opus-4-7]
+<figures>
+<figure>
+type: table
+title: 2025A hospital revenue by service line (USD M)
+description: |
+  Columns: Service line | 2025A revenue (USD M) | % of total | Growth vs 2024A
+  Accommodation | 15.5 | 28.6% | 9.1%
+  Surgery | 11.5 | 21.3% | 14.5%
+  Laboratory | 5.7 | 10.6% | 16.3%
+  Radiology | 4.2 | 7.8% | 15.5%
+  Emergency | 3.7 | 6.8% | 16.6%
+  Pharmacy | 2.9 | 5.4% | 11.9%
+  Radiotherapy | 2.1 | 3.8% | 9.4%
+  Endoscopy | 1.6 | 2.9% | 17.9%
+  Cardiac tests | 1.5 | 2.8% | 16.9%
+  Pathology | 1.4 | 2.5% | 14.8%
+  Cardiac catheterisation | 1.4 | 2.5% | 16.6%
+  Nursing fees | 1.1 | 2.0% | 16.0%
+  Physiotherapy | 0.8 | 1.5% | 18.2%
+  IVF | 0.7 | 1.3% | 13.8%
+  Four hospitals - total | 54.1 | 100.0% | 13.2%
+</figure>
+<figure>
+type: pie chart
+title: 2025A revenue by department
+description: |
+  Segments with percentages:
+  - Accommodation: 28%
+  - Surgery & cath lab: 23%
+  - Laboratory & pathology: 16%
+  - Radiology & cardiac tests: 10%
+  - Emergency: 7%
+  - Pharmacy: 5%
+  - Radiotherapy: 4%
+  - Other (endoscopy, physio, IVF, nursing): 7%
+  Note (2): Incl. AHG Diagnostics; revenues net of doctors' fees.
+</figure>
+<figure>
+type: infographic
+title: 2025A breakdown by type of patient
+description: |
+  - Inpatient admissions: 37,924
+  - Outpatient visits: 117,000
+  - Inpatient share of hospital revenue: 58%
+  - Outpatient share of hospital revenue: 42%
+  (Inpatient defined as accommodation, surgery, cath lab and pharmacy.)
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 9]
+Centres of Excellence and specialisation within a general hospital structure (2/2)
+Positioning by level of care: AHG already delivers tertiary care in five of seven specialties and is building quaternary capability in oncology and cardiology
+Arvenna Health Group - Management Presentation
+February 2026   |   9
+Overview of the Company
+Level of care
+Cardiac surgery &
+cardiology
+Oncology & radiotherapy
+Neurosurgery
+Orthopaedics & trauma
+IVF & maternity
+Emergency & endoscopy
+Physiotherapy &
+rehabilitation
+Quaternary - highly
+specialised, experimental or
+rare procedures
+In progress: structural heart
+programme (transcatheter
+valve procedures) with visiting
+proctors
+In progress: stereotactic
+radiotherapy and clinical-trial
+participation
+Awake craniotomy and
+deep-brain stimulation referred
+abroad; complex spine
+programme in progress
+Complex revision arthroplasty
+referred to partner centres
+Fetal surgery referred abroad
+Not applicable
+Not applicable
+Tertiary - specialised hospital
+care by referral
+Two cath labs, 961 catheter
+procedures in 2025A, cardiac
+surgery at AHG Central,
+paediatric cardiac outreach
+programme at AHG North
+Radiotherapy unit at AHG
+North (6,588 sessions in
+2025A), chemotherapy day
+unit, tumour boards
+Neurosurgery and spine
+surgery at AHG Central, stroke
+unit
+Joint replacement, arthroscopy
+and trauma surgery led from
+AHG Coast
+IVF laboratories at AHG
+Central and AHG Park;
+high-risk pregnancy unit at
+AHG Park
+Trauma-receiving emergency
+department and advanced
+endoscopy suite at AHG Coast
+Neuro-rehabilitation and
+cardiac rehabilitation
+programmes at AHG Park
+Secondary - general hospital
+care
+Non-invasive cardiology, heart
+tests, coronary care beds at
+every hospital
+Oncology consultations and
+follow-up at every hospital
+Neurology outpatient clinics
+and EEG/EMG labs
+Fracture clinics and sports
+medicine
+Obstetrics and gynaecology at
+three hospitals
+24/7 emergency department
+and diagnostic endoscopy at
+every hospital
+Outpatient physiotherapy at
+every hospital
+Primary - first point of care
+Health checks and
+cardiovascular risk screening
+Screening programmes
+(breast, cervical, colorectal)
+Headache and epilepsy clinics
+Occupational health and
+ergonomics for corporate
+clients
+Antenatal classes and
+well-woman clinics
+Urgent-care walk-in clinics and
+telephone triage
+Preventive and occupational
+physiotherapy
+Specialisation offering by facility
+Facility
+Cardiac surgery &
+cardiology
+Oncology & radiotherapy
+Neurosurgery
+Orthopaedics & trauma
+IVF & maternity
+Emergency & endoscopy
+Physiotherapy &
+rehabilitation
+AHG Central
+Centre of Excellence (cardiac
+surgery, two cath labs)
+Visiting consultants
+Centre of Excellence
+Department
+Centre of Excellence (IVF)
+Department
+Service
+AHG Coast
+Service
+Consultations
+Consultations
+Centre of Excellence
+Consultations
+Centre of Excellence
+Service
+AHG North
+Department (cath lab)
+Centre of Excellence
+(radiotherapy)
+Visiting consultants
+Visiting consultants
+Consultations
+Department
+Service
+AHG Park
+Consultations
+Consultations
+Consultations
+Visiting consultants
+Centre of Excellence
+(maternity, IVF)
+Department
+Centre of Excellence
+(rehabilitation)
+Shaded row = minimum expected level of care for a specialised hospital. "In progress" items are funded in the capex programme described on the asset-base page; items referred abroad are covered through our international academic
+partnerships.
+Source: Company information
+
+[PAGE 10]
+Well-invested asset base: $14.0M of capex in infrastructure and technology since 2021
+Advanced equipment underpins complex care, attracts and retains leading doctors; average age of high-value equipment is 4.2 years
+Arvenna Health Group - Management Presentation
+February 2026   |   10
+Overview of the Company
+IMAGE REDACTED
+Imaging suite - 3T MRI
+IMAGE REDACTED
+Radiotherapy bunker and linear accelerator, AHG North
+IMAGE REDACTED
+Hybrid operating theatre, AHG Central
+Capital expenditure 2021A-2026B (1)
+2021A
+2022A
+2023A
+2024A
+2025A
+2026B
+Capital expenditure (USD M)
+1.9
+2.7
+2.8
+3.5
+3.1
+3.9
+% of revenue
+5.7%
+7.3%
+6.5%
+7.2%
+5.7%
+6.2%
+Capex programme 2026-2028
+Project
+Scope
+Timing
+Status
+Second linear accelerator, AHG
+North
+Doubles radiotherapy capacity from 36 to 72 patients per
+day; unit ran at 75% of capacity in 2025A; oncology
+day-care expansion
+2026-27
+In 2026 budget; permit
+filed
+Bed expansion, AHG Park - phase 1
+24-bed ward fitted out within the existing building;
+commissioning in H1 2026
+H1 2026
+In 2026 budget (2)
+Bed expansion, AHG Park - phase 2
+40-bed extension on adjacent land held under option;
+second IVF laboratory; design completed
+2027-28
+Decision H2 2026 (3)
+Ward renovation and bed
+expansion, AHG Coast
+Ward renovation in 2027; 40-bed orthopaedic and
+surgical wing at feasibility stage
+2027-29
+Renovation planned;
+wing optional (3)
+Imaging renewal cycle
+Replacement of two CT scanners and one MRI; PACS
+upgrade
+2026-27
+In 2026 budget
+Hybrid theatre and cath lab upgrade
+Structural heart programme at AHG Central
+2027
+Planning
+Capex averaged 6.5% of revenue over 2021A-2025A ($14.0M in aggregate), keeping theatres, the imaging fleet and the radiotherapy
+unit within manufacturer life cycles. The 2026 budget provides $3.9M (6.2% of revenue); the plan carries capex at about 5.5% of revenue
+by 2030.
+(1) Organic capex per management accounts; USD at 0.235 USD/LCA.  (2) Not in the 2026B bed count, shown at 2025 licensed capacity.  (3) Not in the 2026 budget or in the bed counts shown.  Source: Company information; management accounts; 2026 budget
+
+[PAGE 11]
+Best in class for quality, valued by patients, doctors, payors and corporates
+91% of surveyed patients would recommend AHG; 46 direct payer contracts; consultant churn below 5% per year
+Arvenna Health Group - Management Presentation
+February 2026   |   11
+Overview of the Company
+Patients are highly satisfied
+I Independent patient surveys (4,200 responses in 2025) score above 4.5 out of 5 on all criteria: medical
+care, nursing, cleanliness, waiting time and billing transparency.
+I To the question "would you recommend AHG to family and friends", 91% answered yes in 2025, up
+from 84% in 2021; the net promoter score rose from 55 to 68 over the same period.
+I Complaint resolution within 48 hours in 95% of cases; a group patient-experience office reports monthly
+to the board.
+Blue-chip corporates and insurers partner with AHG
+Direct contracts with 46 payers: 28 corporate accounts and 18 insurers, incl. the four largest private insurers in Country A -
+selected
+Insurer 1
+Insurer 2
+Insurer 3
+Insurer 4
+Corporate A (energy)
+Corporate B (banking)
+Corporate C (telecom)
+Corporate D (mining)
+Doctors are loyal and committed - medical staff and talent
+I 310 physicians practise within the group, of whom 160 are exclusive partner doctors; 60% trained
+abroad and 38 hold university teaching positions; 640 employed nurses and technicians support them.
+I Talent retention is a board-level priority: consultant churn is below 5% a year and 72% of consultants
+have practised with AHG for more than five years; a doctors' council at each hospital and
+revenue-sharing aligned with quality indicators.
+I Retention and recruitment initiatives
+– Modern working environment and equipment renewal cycle
+– Centres of Excellence offering complex case mix and research
+– Sponsorship of conferences and international fellowships
+– Doctors involved in hiring committees and protocol design
+– Doctors as ambassadors in the group's marketing
+Certifications and evidenced high quality standard
+International hospital
+accreditation - three hospitals (1)
+International laboratory
+accreditation - AHG Diagnostics
+Quality-management certification
+- group
+Oncology network audit -
+radiotherapy unit (annual)
+National health ministry licences -
+all sites
+Insurer quality label
+(1) Obtained through an independent international accreditation body; renewed in 2024 for three years.  Source: Company information
+
+[PAGE 12]
+Integration across all operations lets AHG leverage scale, market position and referrals
+Seven integration workstreams delivered since 2021; procurement savings and case mix lifted group gross margin from 69.2% in 2022A to 69.7% in 2025A
+Arvenna Health Group - Management Presentation
+February 2026   |   12
+Overview of the Company
+Integration and optimisation of operations
+#
+Workstream
+Key initiatives
+1
+Institutionalising the group
+Group holding, board committees, delegation matrix, group policies, internal audit, monthly
+reporting pack, budget cycle, code of conduct
+2
+Human resources
+Single grading and pay scale, nursing academy, e-learning platform, performance reviews, talent
+pipeline, staff clinic, engagement survey
+3
+Supply chain and synergies
+Central purchasing, framework contracts with suppliers, consignment stock for implants,
+pharmacy formulary, inventory control, logistics hub
+4
+Infrastructure and technology
+Single HMIS, PACS, laboratory information system, ERP, cybersecurity, biomedical
+maintenance contracts, energy retrofits, telemedicine
+5
+Quality
+Group quality manual, accreditation programme, incident reporting, infection control, clinical
+audits, patient-experience office, protocols
+6
+Business development
+Group payor contracts, corporate sales team, international patient desk, referral network, brand
+architecture, digital marketing, alliances
+7
+Capacity and patient flow
+Bed management, theatre scheduling, discharge planning, day-case conversion, ER triage,
+cross-site referrals, demand forecasting
+Integration indicators 2025A
+$0.9M
+Procurement savings vs 2022
+baseline (6-8% on
+consumables and pharmacy)
+210
+Shared-services staff
+(finance, HR, IT, purchasing)
+4,300
+Cross-site patient referrals
+69.7%
+Group gross margin (2022A:
+69.2%)
+Synergy extraction resulting from scale and integration
+I Scale efficiencies
+– Bargaining power with suppliers and equipment vendors
+– No duplication of back-office and support functions
+– Cross-site training and pooled specialist rosters
+I Attractiveness for practitioners and payors
+– Career management across four hospitals
+– One contract, one tariff grid and one billing interface for payors
+I Diversification of business model and risk
+– Balanced local and foreign patient base, three payor types
+– Reduced dependence on any one facility or specialty
+I In-market cross patient referrals
+– Complex cases referred to the relevant Centre of Excellence
+– Higher utilisation of high-value equipment
+Effect on the group
+Standardised quality, enhanced margins, stronger partnerships, easier recruitment,
+established Centres of Excellence, shared cost benefits and improved billing and collection.
+Source: Company information
+
+[PAGE 13]
+An integrated hospital management information system with over one million patient records
+A single HMIS across all sites since 2021 gives management a live view of activity, revenue and quality
+Arvenna Health Group - Management Presentation
+February 2026   |   13
+Overview of the Company
+Integrated HMIS since 2021
+Integrated
+HMIS - single
+patient record
+OPD &
+emergency
+Wards & bed
+management
+Theatre & OT
+notes
+Pharmacy &
+inventory
+Laboratory &
+PACS
+Billing &
+accounting
+HR & nursing
+I Fourteen modules cover the full patient journey from registration to discharge summary, including the pathology,
+radiology and pharmacy systems, with one medical record number per patient across the four hospitals and AHG
+Diagnostics.
+I Billing is generated at the point of care, which has held days sales outstanding at 66-67 days (65.7 in 2021, 67.4 in
+2025) despite a rising share of insured and corporate patients, and cut billing disputes with insurers by about a
+third.
+I The data warehouse feeds a management dashboard refreshed daily: occupancy, theatre utilisation, revenue per
+bed night, waiting times and clinical indicators by hospital and by doctor.
+Patient health information data
+1.2M
+Unique medical records
+2.4M
+Radiology images archived (PACS)
+4.8M
+Laboratory results
+3.1M
+Electronic prescriptions
+I Inpatient vitals and nursing observations captured electronically at the bedside.
+I Pharmacy data linked to the formulary and to inventory, with automated reorder points.
+I PACS data available to referring doctors through a secure portal.
+I Laboratory data integrated with AHG Diagnostics for third-party clients.
+The HMIS supports a live business-performance view and analytics, and the volume of
+structured clinical data is a foundation for the data-driven Centres of Excellence described in
+the strategy roadmap.
+Source: Company information
+
+[FIGURE auto-augmented from PDF page 13, source: claude-opus-4-7]
+<figures>
+<figure>
+type: infographic
+title: Integrated HMIS since 2021
+description: |
+  Central node labeled "Integrated HMIS - single patient record" connects to seven modules representing the HMIS coverage:
+  - OPD & emergency
+  - Wards & bed management
+  - Theatre & OT notes
+  - Pharmacy & inventory
+  - Laboratory & PACS
+  - Billing & accounting
+  - HR & nursing
+</figure>
+<figure>
+type: infographic
+title: Patient health information data
+description: |
+  Four key metric tiles:
+  - 1.2M — Unique medical records
+  - 2.4M — Radiology images archived (PACS)
+  - 4.8M — Laboratory results
+  - 3.1M — Electronic prescriptions
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 14]
+AHG leads medical value tourism in the region, backed by a B2C, B2B and B2D marketing roadmap
+42% of patients and 59% of revenues come from abroad; 38% of revenues are financed out of pocket
+Arvenna Health Group - Management Presentation
+February 2026   |   14
+Overview of the Company
+2025A patients by geography and revenues by payor
+IMAGE REDACTED
+Regional map - domestic, current and potential MVT markets
+Domestic: Country A; Current MVT: 6 regional source markets; Potential MVT: 5 markets (feeder centres, not in plan)
+Key comments
+I Largest medical value tourism provider in the region, with an estimated 27% share of cross-border private hospital
+revenue; direct flights from all 6 current source markets.
+I Three hospitals within 15 minutes of the airport and close to the hotel district; a dedicated international patient desk
+handles visas, transfers, interpreters and quotes within 48 hours.
+I Procedures priced at 25-35% of private tariffs in high-income markets with comparable outcomes, internationally
+accredited quality and recognised doctors.
+I Source markets: 6 regional source markets, served through 14 partner clinics and two airline partnerships; the
+neighbouring-country corridors, opened through corporate tenders and insurer onboarding in 2025, already represent
+about 10% of inpatient revenue and are the fastest-growing segment.
+I Platform for regional expansion through feeder centres, acquisitions or operations-and-management contracts, as
+described in the strategy roadmap.
+Marketing roadmap - targets for 2026
+Objective
+Key actions
+Target 2026
+Boosting online presence
+Press relations programme, doctor interviews, patient stories
++40 media appearances
+Social media optimisation
+Editorial calendar per Centre of Excellence, paid campaigns in source
+markets
++25% engagement
+Website
+Multilingual site, online quotes, appointment booking, patient portal
++15% conversion
+Scientific conferences
+Speaker slots for AHG doctors, AHG-hosted symposia
+12 conferences
+International exhibitions
+Presence at regional health and travel fairs; facilitator agreements
+6 trade shows
+B2B
+Corporate health packages, insurer co-marketing, assistance-company
+protocols
+20 commercial initiatives
+Payor mix and geography per management analysis of 2025A billing data; out-of-pocket = patients without third-party coverage, incl. most international patients.  Source: Company information
+
+[FIGURE auto-augmented from PDF page 14, source: claude-opus-4-7]
+<figures>
+<figure>
+type: pie chart
+title: 2025A patients by geography
+description: |
+  Patient breakdown by geography:
+  - Domestic patients: 58%
+  - Foreign patients: 42%
+</figure>
+<figure>
+type: pie chart
+title: 2025A revenues by payor
+description: |
+  Revenue breakdown by payor:
+  - Private insurance: 46%
+  - Out of pocket: 38%
+  - National payer programme: 16%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 15]
+AHG has embraced an ESG strategy and delivers healthcare impact across the region
+ESG action plan agreed with our DFI shareholders in 2022; annual sustainability report since 2023
+Arvenna Health Group - Management Presentation
+February 2026   |   15
+Overview of the Company
+Environment
+I Energy: LED retrofits and solar panels at AHG Central and AHG North cut electricity consumption per bed
+night by 14% since 2022.
+I Waste: segregated medical-waste streams with licensed contractors; 100% of hazardous waste traced.
+I Eco-purchasing: supplier code of conduct and preference for reusable instruments where clinically
+appropriate.
+Social
+I Staff safety and anti-harassment policy with an independent whistle-blowing channel; zero tolerance enforced
+by the board.
+I Internal communication: quarterly town halls and a staff app used by 85% of employees.
+I Training: 31 hours per employee in 2025 through the nursing academy and e-learning platform.
+Governance
+I Compliance function reporting to the audit committee; anti-corruption and data-protection policies.
+I Board with independent members and DFI observers; audit, remuneration and medical-quality committees.
+I Transparency: audited group accounts, quarterly ESG reporting and annual risk assessments.
+G2G and private-sector healthcare impact
+Neighbouring source market 1
+Neighbouring source market 2
+Wider regional bloc
+Pro-bono training of 60 nurses and
+technicians per year at AHG
+hospitals under a
+government-to-government
+agreement
+Free check-up caravans reaching
+5,000 people a year with local
+partner clinics
+Telemedicine second-opinion
+service for two public hospitals;
+surgeons visit twice a year
+Referral protocol for complex
+cardiology and oncology cases
+Screening campaigns for breast and
+cervical cancer
+Feeder-centre partnership under
+evaluation (see M&A page)
+Example impact project - congenital heart screening
+IMAGE REDACTED
+Campaign graphic - children screened
+Since 2022 the group has screened 3,400 children from the region for congenital heart conditions under an
+outreach programme co-funded with a development finance institution (1); 184 subsidised procedures were
+performed at AHG North in 2025 alone. The programme trains local paediatricians in echocardiography and
+follows every child through the telemedicine service.
+(1) Co-funded by a development finance institution and a private foundation; the balance is funded by the group.  Source: Company information
+
+[PAGE 16]
+AHG Central - the flagship hospital and cardiac surgery Centre of Excellence
+Founded in 2011 by Dr. Karim Sfaxi-Mellouli with 140 beds, AHG Central is the largest and best-known private hospital in Country A
+Arvenna Health Group - Management Presentation
+February 2026   |   16
+Overview of the Company
+Key performance indicators 2021A-2026B
+KPI
+2021A
+2022A
+2023A
+2024A
+2025A
+2026B
+Inpatient beds
+168
+168
+176
+176
+176
+176
+Bed occupancy
+72.5%
+69.3%
+76.5%
+71.9%
+75.7%
+76.9%
+Occupied bed nights
+43,843
+41,924
+48,487
+45,538
+47,982
+48,724
+Surgeries (incl. cath lab)
+4,327
+4,716
+5,177
+5,555
+5,938
+6,196
+Laboratory tests
+103,537
+110,725
+121,389
+128,622
+136,349
+142,485
+Radiology exams
+27,841
+30,119
+31,770
+33,965
+36,270
+38,519
+Emergency visits
+16,691
+18,341
+19,896
+21,576
+22,982
+24,246
+Revenue (LCA M)
+45.4
+50.1
+59.4
+65.3
+74.4
+84.0
+Revenue (USD M) (1)
+10.7
+11.8
+14.0
+15.3
+17.5
+19.7
+Growth (USD)
+-
+10.3%
+18.7%
+9.9%
+14.0%
+12.8%
+EBITDA (USD M)
+2.6
+2.5
+3.1
+2.9
+3.9
+4.1
+EBITDA margin
+24.3%
+21.0%
+22.4%
+18.9%
+22.3%
+21.0%
+Revenue (USD M) and EBITDA margin
+I Centres of Excellence in cardiac surgery and interventional cardiology (two cath labs, structural
+heart programme in progress), neurosurgery and IVF and maternity; university teaching
+agreement; the group's main receiving site for international patients.
+I Bed count increased from 168 to 176 in 2023 with the opening of a new surgical ward;
+occupancy has since run at 72-77%, the highest in the group.
+I Hybrid operating theatre commissioned in 2024; a second-phase upgrade for the structural heart
+programme is planned for 2027.
+I Contributes 32% of group revenue with the widest case mix; 2026 budget assumes continued
+price and volume growth in surgery and accommodation.
+(1) USD at 0.235 USD/LCA; revenues net of doctors' fees; 2025A preliminary, unaudited; 2026B = budget.  Source: Company information; management accounts; 2026 budget
+
+[FIGURE auto-augmented from PDF page 16, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: "Revenue (USD M) and EBITDA margin"
+description: |
+  Combo chart with green bars showing Revenue (USD M) and an orange line overlay showing EBITDA margin %.
+  - 2021A: Revenue $10.7M, EBITDA margin 24.3%
+  - 2022A: Revenue $11.8M, EBITDA margin 21.0%
+  - 2023A: Revenue $14.0M, EBITDA margin 22.4%
+  - 2024A: Revenue $15.3M, EBITDA margin 18.9%
+  - 2025A: Revenue $17.5M, EBITDA margin 22.3%
+  - 2026B: Revenue $19.7M, EBITDA margin 21.0%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 17]
+AHG Coast - orthopaedics, trauma, emergency and endoscopy, 12 minutes from the airport
+Acquired in 2020 (80%) through AHG Central, AHG Coast has been repositioned around orthopaedics and trauma, emergency care and endoscopy
+Arvenna Health Group - Management Presentation
+February 2026   |   17
+Overview of the Company
+Key performance indicators 2021A-2026B
+KPI
+2021A
+2022A
+2023A
+2024A
+2025A
+2026B
+Inpatient beds
+112
+112
+120
+120
+120
+120
+Bed occupancy
+67.3%
+67.1%
+70.8%
+66.4%
+66.0%
+67.1%
+Occupied bed nights
+27,138
+27,068
+30,584
+28,672
+28,489
+28,987
+Surgeries (incl. cath lab)
+2,814
+3,094
+3,237
+3,526
+3,875
+4,042
+Laboratory tests
+73,822
+82,138
+89,179
+100,453
+111,021
+116,905
+Radiology exams
+18,274
+19,518
+21,243
+22,998
+24,489
+26,056
+Emergency visits
+11,134
+11,546
+12,384
+13,731
+15,234
+16,270
+Revenue (LCA M)
+28.6
+32.6
+37.8
+42.1
+48.5
+54.1
+Revenue (USD M) (1)
+6.7
+7.7
+8.9
+9.9
+11.4
+12.7
+Growth (USD)
+-
+14.1%
+15.9%
+11.4%
+15.1%
+11.7%
+EBITDA (USD M)
+1.4
+1.6
+2.1
+2.1
+2.4
+2.8
+EBITDA margin
+21.2%
+21.0%
+23.1%
+21.1%
+20.8%
+22.1%
+Revenue (USD M) and EBITDA margin
+I Orthopaedics and trauma Centre of Excellence with the emergency department that receives the
+most visits in the group relative to its size (new department commissioned in 2022) and an
+advanced endoscopy suite; 120 beds after the 2023 extension.
+I Occupancy of 66-71% leaves headroom for growth without additional beds; a ward renovation is
+planned for 2027.
+I Cardiac catheterisation, IVF and radiotherapy are referred to AHG Central, AHG Park and AHG
+North rather than duplicated on site.
+I A 40-bed orthopaedic and surgical wing is at feasibility stage and is not included in the 2026
+budget.
+(1) USD at 0.235 USD/LCA; revenues net of doctors' fees; 2025A preliminary, unaudited; 2026B = budget.  Source: Company information; management accounts; 2026 budget
+
+[FIGURE auto-augmented from PDF page 17, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Revenue (USD M) and EBITDA margin
+description: |
+  Combined bar + line chart showing Revenue in USD M (green bars) and EBITDA margin % (orange line) by year:
+  - 2021A: Revenue $6.7M, EBITDA margin 21.2%
+  - 2022A: Revenue $7.7M, EBITDA margin 21.0%
+  - 2023A: Revenue $8.9M, EBITDA margin 23.1%
+  - 2024A: Revenue $9.9M, EBITDA margin 21.1%
+  - 2025A: Revenue $11.4M, EBITDA margin 20.8%
+  - 2026B: Revenue $12.7M, EBITDA margin 22.1%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 18]
+AHG North - oncology Centre of Excellence with the only private radiotherapy unit
+Acquired in 2020 (90%) and expanded in a second oncology phase in 2023, AHG North combines a general hospital with a comprehensive cancer centre
+Arvenna Health Group - Management Presentation
+February 2026   |   18
+Overview of the Company
+Key performance indicators 2021A-2026B
+KPI
+2021A
+2022A
+2023A
+2024A
+2025A
+2026B
+Inpatient beds
+134
+134
+142
+142
+142
+142
+Bed occupancy
+66.5%
+71.4%
+69.1%
+71.8%
+72.2%
+73.4%
+Occupied bed nights
+32,090
+34,421
+35,332
+36,682
+36,921
+37,522
+Surgeries (incl. cath lab)
+3,555
+3,902
+4,132
+4,382
+4,626
+4,975
+Laboratory tests
+89,725
+96,714
+100,874
+108,543
+116,434
+123,071
+Radiology exams
+21,601
+23,313
+24,821
+25,868
+28,657
+30,548
+Emergency visits
+13,986
+15,535
+16,371
+17,413
+18,984
+19,781
+Radiotherapy sessions
+4,598
+5,368
+5,832
+6,396
+6,588
+6,917
+Revenue (LCA M)
+39.6
+46.4
+53.1
+59.4
+66.2
+75.9
+Revenue (USD M) (1)
+9.3
+10.9
+12.5
+13.9
+15.6
+17.8
+Growth (USD)
+-
+17.1%
+14.3%
+11.9%
+11.5%
+14.7%
+EBITDA (USD M)
+2.3
+2.3
+2.6
+2.7
+3.4
+4.0
+EBITDA margin
+24.2%
+21.2%
+21.1%
+19.6%
+21.9%
+22.2%
+Revenue (USD M) and EBITDA margin
+I Radiotherapy unit delivered 6,588 sessions in 2025A, treating 27 patients per day on a single
+linear accelerator against a maximum of 36; the second machine in the capex programme
+doubles capacity.
+I Chemotherapy day unit, weekly multidisciplinary tumour boards with our international academic
+advisor, and a nuclear-medicine partnership.
+I Cath lab and interventional cardiology since 2021; bed count increased from 134 to 142 in 2023
+with the second-phase oncology expansion; host site of the congenital-heart outreach
+programme (184 subsidised procedures in 2025).
+I Radiotherapy alone contributed 13% of the hospital's revenue in 2025A and is the single most
+important driver of international oncology referrals.
+(1) USD at 0.235 USD/LCA; revenues net of doctors' fees; 2025A preliminary, unaudited; 2026B = budget.  Source: Company information; management accounts; 2026 budget
+
+[FIGURE auto-augmented from PDF page 18, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Revenue (USD M) and EBITDA margin
+description: |
+  Combo chart with green bars (Revenue in USD M) and an orange line overlay (EBITDA margin %) across years 2021A-2026B:
+  - 2021A: Revenue $9.3M, EBITDA margin 24.2%
+  - 2022A: Revenue $10.9M, EBITDA margin 21.2%
+  - 2023A: Revenue $12.5M, EBITDA margin 21.1%
+  - 2024A: Revenue $13.9M, EBITDA margin 19.6%
+  - 2025A: Revenue $15.6M, EBITDA margin 21.9%
+  - 2026B: Revenue $17.8M, EBITDA margin 22.2%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 19]
+AHG Park - maternity, IVF and rehabilitation in the business district
+Acquired in 2022 with Fund II's follow-on, AHG Park serves the business district and hosts the maternity & IVF and rehabilitation Centres of Excellence
+Arvenna Health Group - Management Presentation
+February 2026   |   19
+Overview of the Company
+Key performance indicators 2021A-2026B
+KPI
+2021A
+2022A
+2023A
+2024A
+2025A
+2026B
+Inpatient beds
+96
+96
+104
+104
+104
+104
+Bed occupancy
+60.1%
+65.9%
+60.9%
+61.8%
+63.5%
+64.7%
+Occupied bed nights
+20,772
+22,772
+22,783
+23,143
+23,763
+24,224
+Surgeries (incl. cath lab)
+2,427
+2,634
+2,817
+3,041
+3,216
+3,367
+Laboratory tests
+63,531
+69,282
+76,441
+82,362
+90,213
+95,085
+Radiology exams
+17,340
+18,721
+19,759
+21,541
+23,467
+24,617
+Emergency visits
+10,481
+11,443
+12,320
+13,474
+14,402
+15,655
+Revenue (LCA M)
+24.5
+28.6
+32.1
+36.5
+41.1
+46.5
+Revenue (USD M) (1)
+5.8
+6.7
+7.5
+8.6
+9.7
+10.9
+Growth (USD)
+-
+16.7%
+12.0%
+13.8%
+12.5%
+13.2%
+EBITDA (USD M)
+1.3
+1.4
+1.7
+1.7
+2.2
+2.4
+EBITDA margin
+23.1%
+20.5%
+22.7%
+19.5%
+22.7%
+22.3%
+Revenue (USD M) and EBITDA margin
+I Maternity and IVF Centre of Excellence with a high-risk pregnancy unit, a rehabilitation centre
+(neuro- and cardiac rehabilitation) and an insurer preferred-provider network; 104 beds after the
+2023 extension; site held on a 25-year lease to 2039.
+I Occupancy of 61-65% reflects the young catchment area; a 24-bed ward is being commissioned
+in H1 2026 within the existing building, and a 40-bed extension with a second IVF laboratory on
+adjacent land held under option is planned from 2027 (decision in H2 2026).
+I Endoscopy, cardiac catheterisation and neurosurgery are referred within the network; the
+hospital in turn receives maternity, IVF and rehabilitation referrals from the other three sites.
+I Highest EBITDA margin among the hospitals in 2025A thanks to a lean cost base and the
+rehabilitation activity.
+(1) USD at 0.235 USD/LCA; revenues net of doctors' fees; 2025A preliminary, unaudited; 2026B = budget. 2021A pro forma (AHG Park consolidated from its acquisition in 2022).  Source: Company information; management accounts; 2026 budget
+
+[FIGURE auto-augmented from PDF page 19, source: claude-opus-4-7]
+<figures>
+<figure>
+type: table
+title: Key performance indicators 2021A-2026B
+description: |
+  KPI | 2021A | 2022A | 2023A | 2024A | 2025A | 2026B
+  Inpatient beds | 96 | 96 | 104 | 104 | 104 | 104
+  Bed occupancy | 60.1% | 65.9% | 60.9% | 61.8% | 63.5% | 64.7%
+  Occupied bed nights | 20,772 | 22,772 | 22,783 | 23,143 | 23,763 | 24,224
+  Surgeries (incl. cath lab) | 2,427 | 2,634 | 2,817 | 3,041 | 3,216 | 3,367
+  Laboratory tests | 63,531 | 69,282 | 76,441 | 82,362 | 90,213 | 95,085
+  Radiology exams | 17,340 | 18,721 | 19,759 | 21,541 | 23,467 | 24,617
+  Emergency visits | 10,481 | 11,443 | 12,320 | 13,474 | 14,402 | 15,655
+  Revenue (LCA M) | 24.5 | 28.6 | 32.1 | 36.5 | 41.1 | 46.5
+  Revenue (USD M) (1) | 5.8 | 6.7 | 7.5 | 8.6 | 9.7 | 10.9
+  Growth (USD) | - | 16.7% | 12.0% | 13.8% | 12.5% | 13.2%
+  EBITDA (USD M) | 1.3 | 1.4 | 1.7 | 1.7 | 2.2 | 2.4
+  EBITDA margin | 23.1% | 20.5% | 22.7% | 19.5% | 22.7% | 22.3%
+</figure>
+<figure>
+type: bar chart
+title: Revenue (USD M) and EBITDA margin
+description: |
+  Combo chart with green bars showing Revenue in USD M (left axis) and an orange line showing EBITDA margin % (overlaid labels).
+  Revenue bars:
+  - 2021A: $5.8
+  - 2022A: $6.7
+  - 2023A: $7.5
+  - 2024A: $8.6
+  - 2025A: $9.7
+  - 2026B: $10.9
+  EBITDA margin line:
+  - 2021A: 23.1%
+  - 2022A: 20.5%
+  - 2023A: 22.7%
+  - 2024A: 19.5%
+  - 2025A: 22.7%
+  - 2026B: 22.3%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 20]
+AHG Diagnostics - laboratory and imaging platform for the group and third-party clinics
+Revenue of LCA 8.0M in 2025A (+11.8%) at a 26.2% EBITDA margin; the fastest-growing entity in the group
+Arvenna Health Group - Management Presentation
+February 2026   |   20
+Overview of the Company
+Key performance indicators 2021A-2026B
+KPI
+2021A
+2022A
+2023A
+2024A
+2025A
+2026B
+Revenue (LCA M)
+5.1
+5.7
+6.3
+7.2
+8.0
+9.1
+Growth
+11.1%
+12.3%
+10.4%
+14.0%
+11.8%
+12.9%
+Revenue (USD M) (1)
+1.19
+1.34
+1.48
+1.69
+1.89
+2.13
+EBITDA (USD M)
+0.34
+0.37
+0.41
+0.45
+0.49
+0.60
+EBITDA margin
+28.8%
+27.7%
+27.9%
+26.6%
+26.2%
+28.2%
+Laboratory tests (000s)
+612
+689
+748
+861
+957
+1,070
+Imaging exams (000s)
+38.1
+42.6
+46.9
+53.4
+59.7
+66.8
+Third-party clients (clinics,
+employers)
+61
+74
+88
+103
+121
+135
+Laboratory tests, imaging exams and client counts are operational statistics of the entity; test volumes performed for the four
+hospitals are recorded in the hospital KPIs and billed intra-group.
+Revenue (USD M) and EBITDA margin
+I Built out from 2021 with Fund II's investment and carved out in 2022 as a standalone,
+internationally laboratory-accredited platform consolidating the group's laboratories and imaging,
+with a central reference laboratory, six collection points and a logistics hub.
+I Serves 121 third-party clients, mainly private clinics, corporate health programmes and insurers'
+check-up packages, which now generate more than half of its revenue.
+I Highest margin in the group given the automated core laboratory and the absence of hotel costs;
+2026 budget targets 12.9% growth on new corporate contracts.
+I Provides the data backbone for the screening programmes and the feeder-centre model in the
+regional bloc.
+(1) USD at 0.235 USD/LCA; 2025A preliminary, unaudited; 2026B = budget.  Source: Company information; management accounts; 2026 budget
+
+[FIGURE auto-augmented from PDF page 20, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Revenue (USD M) and EBITDA margin
+description: |
+  Combination chart with green vertical bars representing Revenue (USD M) on left Y-axis (scale $0.0-$3.5) and an orange line representing EBITDA margin % overlaid.
+  Revenue bars:
+  - 2021A: $1.2
+  - 2022A: $1.3
+  - 2023A: $1.5
+  - 2024A: $1.7
+  - 2025A: $1.9
+  - 2026B: $2.1
+  EBITDA margin line:
+  - 2021A: 28.8%
+  - 2022A: 27.7%
+  - 2023A: 27.9%
+  - 2024A: 26.6%
+  - 2025A: 26.2%
+  - 2026B: 28.2%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 21]
+Group financials: revenue CAGR 13.8%, EBITDA CAGR 12.0% over 2021A-2025A, with deleveraging
+2026 budget: revenue $62.3M (+13.4%), EBITDA $14.6M (23.5% margin), net debt down to 1.43x EBITDA
+Arvenna Health Group - Management Presentation
+February 2026   |   21
+Overview of the Company
+Consolidated income statement summary (USD M) (1)
+USD M
+2021A
+2022A
+2023A
+2024A
+2025A
+2026B
+Revenue (USD M)
+32.8
+37.5
+43.4
+48.4
+54.9
+62.3
+Growth
+16.8%
+14.3%
+15.7%
+11.7%
+13.4%
+13.4%
+Gross margin (USD M)
+23.2
+26.0
+30.7
+33.7
+38.3
+43.9
+Gross margin %
+70.7%
+69.2%
+70.8%
+69.5%
+69.7%
+70.5%
+EBITDA (USD M)
+8.2
+8.5
+10.4
+10.3
+13.0
+14.6
+EBITDA margin
+25.1%
+22.6%
+23.9%
+21.3%
+23.6%
+23.5%
+EBIT (USD M)
+6.1
+6.0
+7.5
+7.1
+9.4
+10.6
+EBIT margin
+18.5%
+16.1%
+17.4%
+14.7%
+17.0%
+16.9%
+Net income (USD M)
+2.7
+2.6
+3.8
+3.6
+5.4
+6.3
+Capex (USD M)
+1.9
+2.7
+2.8
+3.5
+3.1
+3.9
+Net debt (USD M) (2)
+28.1
+28.0
+26.4
+25.9
+24.0
+20.9
+Net debt / EBITDA
+3.40x
+3.30x
+2.54x
+2.50x
+1.85x
+1.43x
+Interest coverage (EBITDA / net
+interest)
+2.9x
+3.1x
+3.7x
+3.9x
+5.2x
+5.8x
+Revenue (USD M) and EBITDA margin
+Outlook and 2026 budget
+I Revenue growth of 13.4% in 2026B is driven by price increases of 5-7% across service lines,
+higher radiotherapy utilisation and a full year of new corporate contracts at AHG Diagnostics;
+no acquisitions are assumed.
+I EBITDA margin of 23.5% after a $1.7M increase; payroll budgeted at 33% of revenue
+including the nursing pay-scale harmonisation.
+I Capex of $3.9M and scheduled debt repayment of $3.1M are funded from operating cash
+flow; after a $1.6M dividend the budget is cash-neutral (free cash flow of -0.02M USD), and net
+debt falls to $20.9M.
+I Medium-term ambition: double group EBITDA every five years through the six levers of the
+strategy roadmap, before any M&A upside.
+(1) Management accounts (2025A preliminary, unaudited); 2026B = budget approved Jan. 2026; USD at 0.235 USD/LCA; AHG Park pro forma pre-2022.  (2) Gross debt incl. overdrafts less cash.  Source: Company information; management accounts; 2026 budget
+
+[FIGURE auto-augmented from PDF page 21, source: claude-opus-4-7]
+<figures>
+<figure>
+type: table
+title: Consolidated income statement summary (USD M) (1)
+description: |
+  USD M | 2021A | 2022A | 2023A | 2024A | 2025A | 2026B
+  Revenue (USD M) | 32.8 | 37.5 | 43.4 | 48.4 | 54.9 | 62.3
+  Growth | 16.8% | 14.3% | 15.7% | 11.7% | 13.4% | 13.4%
+  Gross margin (USD M) | 23.2 | 26.0 | 30.7 | 33.7 | 38.3 | 43.9
+  Gross margin % | 70.7% | 69.2% | 70.8% | 69.5% | 69.7% | 70.5%
+  EBITDA (USD M) | 8.2 | 8.5 | 10.4 | 10.3 | 13.0 | 14.6
+  EBITDA margin | 25.1% | 22.6% | 23.9% | 21.3% | 23.6% | 23.5%
+  EBIT (USD M) | 6.1 | 6.0 | 7.5 | 7.1 | 9.4 | 10.6
+  EBIT margin | 18.5% | 16.1% | 17.4% | 14.7% | 17.0% | 16.9%
+  Net income (USD M) | 2.7 | 2.6 | 3.8 | 3.6 | 5.4 | 6.3
+  Capex (USD M) | 1.9 | 2.7 | 2.8 | 3.5 | 3.1 | 3.9
+  Net debt (USD M) (2) | 28.1 | 28.0 | 26.4 | 25.9 | 24.0 | 20.9
+  Net debt / EBITDA | 3.40x | 3.30x | 2.54x | 2.50x | 1.85x | 1.43x
+  Interest coverage (EBITDA / net interest) | 2.9x | 3.1x | 3.7x | 3.9x | 5.2x | 5.8x
+</figure>
+<figure>
+type: bar chart
+title: Revenue (USD M) and EBITDA margin
+description: |
+  Combination chart with green bars representing Revenue (USD M) on left axis and an orange line representing EBITDA margin % (data labels shown above the line).
+  Revenue bars:
+  - 2021A: $32.8
+  - 2022A: $37.5
+  - 2023A: $43.4
+  - 2024A: $48.4
+  - 2025A: $54.9
+  - 2026B: $62.3
+  EBITDA margin line:
+  - 2021A: 25.1%
+  - 2022A: 22.6%
+  - 2023A: 23.9%
+  - 2024A: 21.3%
+  - 2025A: 23.6%
+  - 2026B: 23.5%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 22]
+Agenda
+Arvenna Health Group - Management Presentation
+February 2026   |   22
+Strategy Roadmap
+1
+Overview of the Company
+Page 3
+2
+Strategy Roadmap
+Page 22
+Appendix - definitions, KPI reconciliation and basis of preparation
+Page 26
+The second part of the presentation sets out the strategic foundation of the group, the six organic growth levers of the 2026-2030 roadmap and the M&A upside available to the platform, before the appendix
+with definitions, the per-hospital KPI reconciliation and the basis of preparation.
+Source: Company information
+
+[PAGE 23]
+Strategic foundation: local-market Centres of Excellence and international patient growth
+Financial ambition: double EBITDA every five years while keeping net leverage below 1.5x
+Arvenna Health Group - Management Presentation
+February 2026   |   23
+Strategy Roadmap
+Strategic foundation
+Pillar
+Statement
+Vision
+The leading integrated private healthcare provider in Country A and the reference platform for the
+region's international patients.
+Financial ambition
+Double group EBITDA every five years ($13.0M in 2025A) with organic growth and margin expansion,
+before M&A.
+Where to play
+Patient mix: a balanced base of domestic patients (58% of volumes) and international patients from 6
+regional source markets. Specialties: seven Centres of Excellence with tertiary capability. Location: the
+capital metro area first, then selected secondary cities and the regional bloc.
+How to win - local
+patients
+Payer and corporate partnerships; first point of care through emergency and outpatient services;
+complexity of procedures that public hospitals cannot offer.
+How to win -
+international patients
+Accredited quality at 25-35% of high-income-market private tariffs; a dedicated international desk and
+facilitator network; Centres of Excellence marketed by specialty rather than by hospital.
+Centres of Excellence by facility - consolidating care under one umbrella
+AHG operates as a one-stop shop offering a full continuum of care: patients enter through any
+hospital and are treated in the Centre of Excellence best suited to their condition.
+Facility
+Centres of Excellence
+AHG Central
+Cardiac surgery and interventional cardiology, neurosurgery, IVF and
+maternity
+AHG Coast
+Orthopaedics and trauma, emergency and endoscopy
+AHG North
+Oncology and radiotherapy; cardiac cath lab
+AHG Park
+Maternity and IVF, physiotherapy and rehabilitation
+AHG
+network
+Cardiac
+surgery
+Oncology
+Neurosurge
+ry
+Ortho &
+trauma
+IVF &
+maternity
+Emergency
+&
+endoscopy
+Physio /
+rehab
+Delivery against the foundation since 2021
+I Revenue grew from $32.8M to $54.9M and EBITDA from $8.2M to $13.0M between 2021A and
+2025A (pro forma for AHG Park, acquired in 2022), with no further acquisitions since.
+I Net leverage reduced from 3.40x to 1.85x EBITDA while investing $14.0M of capex, including 32
+additional beds in 2023, the second-phase oncology expansion at AHG North and the hybrid
+theatre.
+I International patients rose to 42% of volumes; radiotherapy sessions at AHG North reached
+6,588 in 2025A; a 24-bed ward at AHG Park is being commissioned in H1 2026.
+Source: Company information
+
+[FIGURE auto-augmented from PDF page 23, source: claude-opus-4-7]
+<figures>
+<figure>
+type: table
+title: Strategic foundation
+description: |
+  Pillar | Statement
+  Vision | The leading integrated private healthcare provider in Country A and the reference platform for the region's international patients.
+  Financial ambition | Double group EBITDA every five years ($13.0M in 2025A) with organic growth and margin expansion, before M&A.
+  Where to play | Patient mix: a balanced base of domestic patients (58% of volumes) and international patients from 6 regional source markets. Specialties: seven Centres of Excellence with tertiary capability. Location: the capital metro area first, then selected secondary cities and the regional bloc.
+  How to win - local patients | Payer and corporate partnerships; first point of care through emergency and outpatient services; complexity of procedures that public hospitals cannot offer.
+  How to win - international patients | Accredited quality at 25-35% of high-income-market private tariffs; a dedicated international desk and facilitator network; Centres of Excellence marketed by specialty rather than by hospital.
+</figure>
+<figure>
+type: table
+title: Centres of Excellence by facility - consolidating care under one umbrella
+description: |
+  Facility | Centres of Excellence
+  AHG Central | Cardiac surgery and interventional cardiology, neurosurgery, IVF and maternity
+  AHG Coast | Orthopaedics and trauma, emergency and endoscopy
+  AHG North | Oncology and radiotherapy; cardiac cath lab
+  AHG Park | Maternity and IVF, physiotherapy and rehabilitation
+</figure>
+<figure>
+type: infographic
+title: AHG network
+description: |
+  Diagram showing the AHG network umbrella encompassing seven Centres of Excellence displayed as linked nodes:
+  1. Cardiac surgery
+  2. Oncology
+  3. Neurosurgery
+  4. Ortho & trauma
+  5. IVF & maternity
+  6. Emergency & endoscopy
+  7. Physio / rehab
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 24]
+A clear growth roadmap to consolidate our leading platform position: six organic levers
+Six levers, each owned by a member of the executive committee and tracked monthly in the group dashboard
+Arvenna Health Group - Management Presentation
+February 2026   |   24
+Strategy Roadmap
+Lever 1
+Lever 2
+Lever 3
+Lever 4
+Lever 5
+Lever 6
+G
+G
+G
+G
+G
+G
+Integrating the platform
+Enhancing utilisation and optimising
+capacity
+Expanding capacities and the feeder
+network
+Increasing the complexity of
+procedures
+Leveraging our position with insurers
+and corporates
+Growing Centres of Excellence and
+leveraging big data
+1. Integrating the platform
+2. Enhancing utilisation and
+optimising capacity
+3. Expanding capacities and the
+feeder network
+4. Increasing the complexity of
+procedures
+5. Leveraging our position with
+insurers and corporates
+6. Growing Centres of Excellence and
+leveraging big data
+Complete the shared-services model:
+one finance, HR, procurement and IT
+organisation for all sites
+Lift bed-weighted occupancy from 70.3%
+to 75.7% by 2030 through theatre
+scheduling and discharge management
+Park and Coast extensions (up to 80
+beds) subject to board decision
+Structural heart (transcatheter valves),
+robotic urology, complex spine and
+stereotactic radiotherapy programmes
+Multi-location corporate contracts with
+bundled pricing for the largest insurers
+and employers
+Analytics on 1.2M unique medical
+records for length-of-stay and outcome
+benchmarking
+Harmonise clinical protocols and tariffs
+across the four hospitals
+Convert 20% of elective surgery to day
+cases
+Acquire established hospitals in
+secondary cities (add-on programme)
+Oncology day-care expansion at AHG
+North with the second linear accelerator
+(2027)
+Direct billing agreements with two further
+regional insurers
+Grow the oncology, cardiac and
+orthopaedic Centres of Excellence with
+dedicated coordinators
+Extend the HMIS to AHG Diagnostics'
+third-party clients
+Renovation of AHG Coast wards (2027);
+tele-consultation for follow-ups
+Open feeder centres in two of the
+neighbouring source markets
+Second IVF laboratory at AHG Park
+Tariff indexation clauses in all renewals
+Launch two further centres (bariatric and
+spine) by 2028
+Second radiotherapy machine to remove
+the current capacity ceiling
+Border ambulatory centre for pre- and
+post-operative care
+Revenue per admission targeted to grow
+6-8% a year
+Corporate health packages sold through
+AHG Diagnostics
+Targets underpinning the roadmap (2026-2030)
+75.7%
+Bed-weighted occupancy by 2030
+(from 70.3%)
+20%
+Elective surgery as day cases
+72 / day
+Radiotherapy patients per day (from
+36)
++6-8% p.a.
+Revenue per admission
+2
+New Centres of Excellence by 2028
+2x
+EBITDA every five years
+Expected contribution
+Levers 1 and 2 support margin; levers 3 to 6 support volume and price. Together they underpin the ambition of doubling group EBITDA every five years before any M&A upside, while net leverage stays below 1.5x
+EBITDA.
+Source: Company information
+
+[FIGURE auto-augmented from PDF page 24, source: claude-opus-4-7]
+<figures>
+<figure>
+type: table
+title: A clear growth roadmap to consolidate our leading platform position: six organic levers
+description: |
+  Six-column strategy roadmap table, one column per lever. Each column has a header (lever name) and four rows of initiatives.
+
+  | Lever | 1. Integrating the platform | 2. Enhancing utilisation and optimising capacity | 3. Expanding capacities and the feeder network | 4. Increasing the complexity of procedures | 5. Leveraging our position with insurers and corporates | 6. Growing Centres of Excellence and leveraging big data |
+  | Row 1 | Complete the shared-services model: one finance, HR, procurement and IT organisation for all sites | Lift bed-weighted occupancy from 70.3% to 75.7% by 2030 through theatre scheduling and discharge management | Park and Coast extensions (up to 80 beds) subject to board decision | Structural heart (transcatheter valves), robotic urology, complex spine and stereotactic radiotherapy programmes | Multi-location corporate contracts with bundled pricing for the largest insurers and employers | Analytics on 1.2M unique medical records for length-of-stay and outcome benchmarking |
+  | Row 2 | Harmonise clinical protocols and tariffs across the four hospitals | Convert 20% of elective surgery to day cases | Acquire established hospitals in secondary cities (add-on programme) | Oncology day-care expansion at AHG North with the second linear accelerator (2027) | Direct billing agreements with two further regional insurers | Grow the oncology, cardiac and orthopaedic Centres of Excellence with dedicated coordinators |
+  | Row 3 | Extend the HMIS to AHG Diagnostics' third-party clients | Renovation of AHG Coast wards (2027); tele-consultation for follow-ups | Open feeder centres in two of the neighbouring source markets | Second IVF laboratory at AHG Park | Tariff indexation clauses in all renewals | Launch two further centres (bariatric and spine) by 2028 |
+  | Row 4 | (blank) | Second radiotherapy machine to remove the current capacity ceiling | Border ambulatory centre for pre- and post-operative care | Revenue per admission targeted to grow 6-8% a year | Corporate health packages sold through AHG Diagnostics | (blank) |
+</figure>
+<figure>
+type: infographic
+title: Targets underpinning the roadmap (2026-2030)
+description: |
+  Six KPI tiles displayed horizontally:
+  - 75.7% — Bed-weighted occupancy by 2030 (from 70.3%)
+  - 20% — Elective surgery as day cases
+  - 72 / day — Radiotherapy patients per day (from 36)
+  - +6-8% p.a. — Revenue per admission
+  - 2 — New Centres of Excellence by 2028
+  - 2x — EBITDA every five years
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 25]
+Additional upside: AHG is the natural platform for consolidation through M&A
+Domestic and regional add-ons are upside to the budget; none is included in the 2026 figures or the bed counts shown
+Arvenna Health Group - Management Presentation
+February 2026   |   25
+Strategy Roadmap
+1. Domestic
+I Add bed capacity in the medium term
+– Two established hospitals of 80-120 beds each in secondary cities; five target cities identified, two targets
+in advanced discussions at 5.0-5.5x EBITDA
+– Targets complement existing specialties (maternity, orthopaedics) and become referral sources for
+oncology and cardiac cases
+I Extend the metro-area footprint
+– Park and Coast extensions (up to 80 beds) and the fragmented local market: six single-site operators with
+118-310 beds each and no group structure
+– Integration playbook proven on three acquisitions
+2. Regional bloc
+I a. Acquire another existing platform
+– Pros: immediate scale, local licences and accretive MVT referrals; cons: valuation, governance and
+currency risk
+– One 70-bed target under review at 6.0-6.5x EBITDA
+I b. Acquire selected feeder centres
+– Outpatient and diagnostic centres in source markets that refer complex cases to AHG and treat simpler
+cases locally; feeder centres in two source markets modelled from 2028
+– Win-win: local access to specialists and a defined care pathway, AHG access to patients
+– Lower capital intensity; operations-and-management contracts as an alternative
+Add-on pipeline (illustrative, anonymised)
+Target
+Type
+Location
+Beds
+Status
+Target A
+General private hospital (maternity,
+orthopaedics)
+Secondary city 1
+96
+Advanced discussions
+Target B
+General private hospital
+Secondary city 2
+112
+Advanced discussions
+Target C
+Feeder centre (outpatient)
+Neighbouring source
+market 1
+-
+Term sheet
+Target D
+Feeder centre (dialysis and
+imaging)
+Neighbouring source
+market 2
+-
+Screening
+Target E
+Regional hospital platform
+Regional source market
+70
+Under review
+Target F
+Diagnostic and outpatient centre
+Secondary city 3
+-
+Screening
+Financial framework
+Add-ons are evaluated at 5.0-6.5x EBITDA with a minimum 20% return on invested capital after synergies,
+funded from operating cash flow, follow-on equity from shareholders and local debt, keeping net leverage
+below 2.0x EBITDA at all times.
+Source: Company information
+
+[PAGE 26]
+Appendix - definitions, KPI reconciliation and basis of preparation
+Arvenna Health Group - Management Presentation
+February 2026   |   26
+Appendix
+Definitions
+Term
+Definition
+Revenue
+Hospital and diagnostics revenue net of doctors' fees invoiced directly by partner doctors;
+consolidated after intercompany elimination
+EBITDA
+Gross margin less payroll and operating expenses, before provisions, depreciation, amortisation
+and goodwill / PPA amortisation
+EBIT
+EBITDA less provisions, depreciation and amortisation and goodwill / PPA amortisation
+Net debt
+Medium-term loans plus short-term financial liabilities and overdrafts, less cash and cash
+equivalents
+Occupancy
+Occupied bed nights divided by available bed nights (inpatient beds x 360 days)
+Inpatient admissions
+Occupied bed nights divided by facility average length of stay (3.4-3.9 days)
+USD equivalents
+Local currency (LCA) converted at 0.235 USD/LCA for all years (the transaction-model
+reference rate)
+2025A / 2026B
+2025 preliminary unaudited management accounts; 2026 budget approved by the board in
+January 2026
+KPI reconciliation - 2025A
+KPI
+Central
+Coast
+North
+Park
+Group
+Inpatient beds
+176
+120
+142
+104
+542
+Available bed nights
+63,360
+43,200
+51,120
+37,440
+195,120
+Occupied bed nights
+47,982
+28,489
+36,921
+23,763
+137,155
+Occupancy
+75.7%
+66.0%
+72.2%
+63.5%
+70.3%
+Surgeries incl. cath lab
+5,938
+3,875
+4,626
+3,216
+17,655
+Laboratory tests
+136,349
+111,021
+116,434
+90,213
+454,017
+Radiology exams
+36,270
+24,489
+28,657
+23,467
+112,883
+Revenue (USD M)
+17.5
+11.4
+15.6
+9.7
+54.1
+EBITDA (USD M)
+3.9
+2.4
+3.4
+2.2
+11.9
+Group revenue of $54.9M = four hospitals $54.1M + AHG Diagnostics $1.89M less intercompany
+elimination $1.03M. Group EBITDA of $13.0M includes AHG Diagnostics and the holding company net
+of intercompany items.
+Contacts
+Omar Trabelsi-Farah, Group CFO - o.trabelsi-farah@arvennahealth.example - +00 (555)
+010-0164 - www.arvennahealth.example. Advisor: Quenlow Advisory, deal team -
+ahg@corvaneadvisory.example - +00 (555) 010-0190.
+Source: Company information; management accounts; 2026 budget
+

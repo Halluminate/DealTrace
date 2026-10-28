@@ -1,0 +1,2472 @@
+[CIM: Orivane Clinical Laboratories - Confidential Information Memorandum.pdf]
+[Deal: Orivane Clinical Laboratories]
+[Augmentation: vision-augmented via opus by augment_cims.py]
+
+[PAGE 1]
+Project Larkspur
+Confidential Information Memorandum
+December 2026
+Prepared by Falkmere Advisory, exclusive financial advisor to Orivane Clinical Laboratories, LLC
+Orivane Clinical Laboratories: accurate, timely diagnostics for community physicians, care operators and their patients across the Northeast
+STRICTLY PRIVATE & CONFIDENTIAL
+
+[PAGE 2]
+Table of Contents
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   2
+1.
+Executive Summary
+4
+2.
+Industry Overview
+14
+3.
+Service Offerings
+17
+4.
+Organizational & Management Overview
+24
+5.
+Financial Overview & Growth Opportunities
+27
+Appendix
+38
+
+[PAGE 3]
+Important Notice
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   3
+This Confidential Information Memorandum (the "Memorandum") has been prepared by Falkmere Advisory ("Falkmere") on behalf of Orivane Clinical Laboratories, LLC (the "Company") from information supplied by the Company's
+management and from other sources believed to be reliable. Falkmere has been engaged as the Company's exclusive financial advisor in connection with a possible sale of the Company (the "Transaction"). The Memorandum is
+being furnished solely for use by prospective purchasers in considering their interest in the Transaction.
+By accepting this Memorandum, the recipient acknowledges and agrees that: (i) the Memorandum and its contents are subject to the confidentiality agreement executed by the recipient; (ii) the recipient will not copy, reproduce or
+distribute the Memorandum in whole or in part without the prior written consent of Falkmere; (iii) the recipient will use the Memorandum solely for the purpose of evaluating the Transaction; (iv) the recipient will return or destroy the
+Memorandum on request; and (v) the recipient will direct all communications regarding the Transaction to Falkmere and will not contact the Company, its employees, clients, payers or suppliers.
+Neither the Company nor Falkmere makes any representation or warranty, express or implied, as to the accuracy or completeness of the information contained in this Memorandum, and none of them shall have any liability for any
+statements, express or implied, contained in, or omissions from, this Memorandum. The information has not been independently verified. Only those representations and warranties made in a definitive agreement, when and if
+executed, and subject to such limitations and restrictions as may be specified therein, shall have any legal effect.
+Projections and forward-looking statements contained herein reflect various assumptions made by management concerning anticipated results, which may or may not prove to be correct. Prospective purchasers should conduct their
+own investigation and analysis of the Company. The Company reserves the right, in its sole discretion, to reject any or all proposals, to negotiate with any party, to change the process at any time and to terminate the process without
+notice.
+This Memorandum does not constitute an offer to sell or a solicitation of an offer to buy any securities. Nothing herein affects the terms of the confidentiality agreement. Every company, person, place and figure in this document is
+synthetic and illustrative.
+
+[PAGE 4]
+Executive Summary
+A scalable, accredited regional reference laboratory with 21.4% adjusted EBITDA margins and three funded growth engines
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   4
+Executive Summary
+I Platform
+– Founded in 2009 by Dr. Samuel Achterberg, Orivane Clinical Laboratories operates a 24,000 sq. ft. centralised core laboratory in
+State A, 6 patient service centres and a company-owned courier fleet serving physician practices, urgent-care clinics,
+behavioural-health providers and senior-living communities across the Northeast region.
+– Single-site model with an LIS/EMR-integrated workflow: 268 working days of 379 average daily accessions in 2026E, 12-24 hrs
+routine turnaround and 99.6% first-pass reporting accuracy.
+I Clinical excellence
+– National laboratory licence and independent accreditation-body accreditation maintained without deficiency since 2016; 410
+unique tests across routine chemistry and haematology, toxicology, molecular/PCR and anatomic-pathology send-outs, plus 14
+custom panels built for client specialties.
+– Board-certified laboratory and medical directors, a 41-person bench of technologists and net logo retention of 103% across the
+trailing twelve months.
+I Compelling market characteristics
+– National clinical laboratory testing spend of $91.7 billion in 2025 is projected to grow to $135.7 billion by 2035, driven by
+chronic-condition prevalence, an ageing population and the shift of hospital outreach volume to independent labs.
+– Balanced reimbursement across government programmes (43% of net revenue) and seven in-network commercial payers, none
+above 17%.
+I Strong financial profile
+– Net operating revenue of $15.0M and adjusted EBITDA of $3.2M (21.4% margin) in 2026E, an 8.5% revenue CAGR since 2024A
+with margins expanding from 19.5% to 21.4%.
+– Management projects $18.9M of revenue and $4.5M of adjusted EBITDA by 2028E, driven by the Silvermoss Senior Living
+contract, two sales representatives starting in March 2027 and utilisation of existing capacity.
+I Highly experienced management team
+– A six-person leadership team averaging 13 years with the Company, spanning laboratory science, revenue-cycle finance,
+commercial development and logistics, with a documented succession plan for the Medical Director role.
+Company snapshot
+Founded
+2009 (Dr. Samuel Achterberg)
+Headquarters
+Core laboratory - State A (Northeast region)
+Services
+Routine chemistry & haematology 71%; Molecular / PCR 19%;
+Anatomic pathology send-outs 6%; Toxicology 4% of 2026E net
+revenue (1)
+Payers
+Government programmes 43%; commercial 57% (1)
+Clients
+Physician practices & IPAs 57%; Behavioural-health providers
+12%; Urgent-care clinics 13%; Senior-living communities 8%
+Ownership
+Founder 70%; two long-tenured executives 15% each (LLC
+membership interests)
+Employees
+95 (payroll employees; couriers and per-diem phlebotomists
+included) (2)
+Certifications & accreditations
+National laboratory
+licence
+Independent
+accreditation-body
+accreditation
+State A licence
+Multi-state licences (7)
+Payer credentialing
+(1) Mix based on 2026E net operating revenue. (2) Headcount at 30 Nov 2026. (3) Market data: Industry Research Firm A (synthetic).  Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[PAGE 5]
+Company by the Numbers
+Core operating and financial metrics validate a scaled, efficient and accurate laboratory platform
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   5
+Executive Summary
+$15.0M
+2026E net operating revenue
+$3.2M
+2026E adjusted EBITDA (21.4% margin)
+95
+Employees (1)
+101,458
+2026E accessions
+14
+Custom diagnostic profiles
+410
+Unique tests on menu
+24,000
+Core laboratory sq. ft.
+6
+Patient service centres
+62
+Analytical instruments
+12-24 hrs
+Routine turnaround time
+99.6%
+First-pass reporting accuracy
+520
+Max daily accessions, single shift
+103%
+Net logo retention, LTM Nov-26
+73%
+2026E utilisation of single-shift capacity
+42.5%
+2026E collection rate (net / gross charges)
+338
+Unique ordering clients, YTD Nov-26
+The laboratory processed 100,731 accessions in the twelve months to November 2026 at an implied net reimbursement of $147.38 per accession, generating $14.8M of LTM net operating revenue. Average daily
+throughput of 379 accessions in 2026E represents 73% of single-shift capacity, leaving room to absorb the contracted senior-living volume and the 2027 sales-team build before a second shift is required.
+(1) Employees at 30 Nov 2026, including per-diem phlebotomists and couriers on payroll; excludes 4 contracted pathologists.  Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[FIGURE auto-augmented from PDF page 5, source: claude-opus-4-7]
+<figures>
+<figure>
+type: infographic
+title: Company by the Numbers
+description: |
+  Grid of KPI tiles organized in 4 rows × 4 columns (with the last row being a separate band of 4 metrics). All values are already captured in the extracted text, bound as follows:
+  - $15.0M — 2026E net operating revenue
+  - $3.2M — 2026E adjusted EBITDA (21.4% margin)
+  - 95 — Employees (per footnote: at 30 Nov 2026, including per-diem phlebotomists and couriers on payroll; excludes 4 contracted pathologists)
+  - 101,458 — 2026E accessions
+  - 14 — Custom diagnostic profiles
+  - 410 — Unique tests on menu
+  - 24,000 — Core laboratory sq. ft.
+  - 6 — Patient service centres
+  - 62 — Analytical instruments
+  - 12-24 hrs — Routine turnaround time
+  - 99.6% — First-pass reporting accuracy
+  - 520 — Max daily accessions, single shift
+  - 103% — Net logo retention, LTM Nov-26
+  - 73% — 2026E utilisation of single-shift capacity
+  - 42.5% — 2026E collection rate (net / gross charges)
+  - 338 — Unique ordering clients, YTD Nov-26
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 6]
+History and Corporate Timeline
+Seventeen years of disciplined, self-funded growth from a boutique chemistry lab to a full-menu regional reference laboratory
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   6
+Executive Summary
+2009
+2012
+2015
+2017
+2019-20
+2022
+2024
+2025
+2026-28
+G
+G
+G
+G
+G
+G
+G
+G
+G
+Founded by Dr. Samuel
+Achterberg as a
+specialty chemistry
+laboratory serving 30
+physician practices
+Licensed in four
+additional Northeast
+states; first dedicated
+courier routes and
+second draw site
+opened
+Toxicology and
+molecular departments
+launched; first
+automated chemistry
+line installed
+Relocation to the
+current 24,000 sq. ft.
+core laboratory; Dr.
+Oyelaran appointed
+Laboratory Director
+Second molecular suite
+commissioned and
+pharmacogenomic
+panels validated,
+funded from operating
+cash flow
+LIS upgrade,
+outsourced
+revenue-cycle platform
+and quality system
+rebuild; PSC network
+reaches 6 sites
+$12.7M of net revenue
+at a 19.5% adjusted
+EBITDA margin;
+senior-living channel
+strategy defined
+Silvermoss Senior
+Living contract live from
+April; revenue up 8.2%
+to $13.8M
+Re-accreditation; QoE
+completed through
+Aug-26; plan to reach
+$18.9M by 2028E with
+new reps from Mar-27
+The Company has grown without external capital, funding every expansion of the test menu, courier network and instrument base from operating cash flow. Revenue has compounded at 8.5% annually since 2024A while
+adjusted EBITDA grew 13.1% in 2025A and is estimated to grow a further 14.5% in 2026E, reflecting fixed-cost absorption as accession volume rose from 85,204 to an estimated 101,458. Management has already
+recruited a Laboratory Manager (December 2026) and budgeted a shift supervisor, an IT lead, two couriers and additional accessioners for 2027 to support the next phase.
+IMAGE REDACTED
+Laboratory photo - automated chemistry line
+Source: Company management.
+
+[PAGE 7]
+Facility Overview
+A centralised, accredited 24,000 sq. ft. laboratory engineered for 520 accessions per single shift
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   7
+Executive Summary
+IMAGE REDACTED
+Exterior photo - core laboratory, State A
+I 24,000 sq. ft. leased core laboratory housing 62 analytical instruments across chemistry, haematology,
+immunoassay, toxicology (LC-MS/MS) and molecular (real-time PCR) benches, with a dedicated
+accessioning floor and specimen archive.
+I Staffed by 41 laboratory professionals across three departments; the facility runs a single extended
+shift, processing 379 accessions per working day in 2026E against a validated single-shift ceiling of 520.
+I The lease includes a right of first refusal on 9,500 sq. ft. of adjacent space and a pre-approved
+second-floor build-out, allowing capacity to be doubled without relocating instruments or re-validating
+assays.
+IMAGE REDACTED
+Interior photo - chemistry / immunoassay line
+IMAGE REDACTED
+Interior photo - molecular suite
+Facility metric
+Value
+Core laboratory area
+24,000 sq. ft.
+Analytical instruments
+62
+Validated single-shift capacity
+520 accessions / day
+2026E average daily accessions
+379 (73% utilisation)
+Patient service centres
+6
+Courier vehicles / routes
+11 / 14
+Source: Company management.
+
+[PAGE 8]
+Diversified Customer & Payer Mix
+In-network relationships with government programmes and seven commercial payers limit concentration risk
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   8
+Executive Summary
+Contracted payers
+Federal Program A
+Vantrelle Health Plan
+State Program B
+Marrowby Mutual
+Quayside Choice Senior Plan
+Cobaltmere Health
+Lanternway Benefits
+Volume momentum
+Average daily accessions rose from 320 in January 2025 to 384 in November 2026, with
+October 2026 the first month above 400. The increase has been absorbed within the existing
+shift structure and courier network; 2026E utilisation stands at 73% of the 520-per-day
+single-shift ceiling.
+Balanced reimbursement
+Government programmes account for 43% of 2026E net revenue and no single commercial
+payer exceeds 17%. All seven commercial contracts are in-network, and the net-to-gross
+collection rate has held between 42.0% and 42.5% across 2024A-2026E, a mix that mirrors
+the regional payer demographics of the Company's client base.
+(1) Payer mix based on 2026E net operating revenue. (2) Collection rate = net operating revenue / gross charges.  Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[FIGURE auto-augmented from PDF page 8, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Average daily accessions per month (# in actuals), Jan-25 to Nov-26
+description: |
+  Monthly bar chart showing average daily accessions. Approximate readable values by month:
+  - Jan-25: ~320
+  - Feb-25: ~300
+  - Mar-25: ~330
+  - Apr-25: ~345
+  - May-25: ~355
+  - Jun-25: ~345
+  - Jul-25: ~345
+  - Aug-25: ~355
+  - Sep-25: ~355
+  - Oct-25: ~380
+  - Nov-25: ~360
+  - Dec-25: ~350
+  - Jan-26: ~370
+  - Feb-26: ~360
+  - Mar-26: ~385
+  - Apr-26: ~380
+  - May-26: ~385
+  - Jun-26: ~375
+  - Jul-26: ~370
+  - Aug-26: ~380
+  - Sep-26: ~390
+  - Oct-26: ~410 (first month above 400 per commentary)
+  - Nov-26: ~384
+  Y-axis scales 0 to 400+. Commentary confirms start at 320 (Jan-25) and end at 384 (Nov-26).
+</figure>
+<figure>
+type: pie chart
+title: Payer mix, 2026E net operating revenue
+description: |
+  Pie chart of 2026E net operating revenue by payer:
+  - Federal Program A: 31%
+  - Vantrelle Health Plan: 17%
+  - State Program B: 12%
+  - Marrowby Mutual: 11%
+  - Quayside Choice Senior Plan: 9%
+  - Cobaltmere Health: 7%
+  - Lanternway Benefits: 5%
+  - All other commercial: 8%
+</figure>
+<figure>
+type: table
+title: Contracted payers
+description: |
+  3-column grid listing contracted payers:
+  Row 1: Federal Program A | Vantrelle Health Plan | State Program B
+  Row 2: Marrowby Mutual | Quayside Choice Senior Plan | Cobaltmere Health
+  Row 3: Lanternway Benefits | (blank) | (blank)
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 9]
+Well-Established Management and Operational Leadership
+A hands-on leadership bench and institutional infrastructure that can support a materially larger platform
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   9
+Executive Summary
+IMAGE
+REDACTED
+Headshot
+Dr. Samuel Achterberg
+Founder & Chief Executive Officer
+Clinical chemist (PhD) who founded the Company in 2009 after twelve years directing hospital
+laboratories. Sets test-menu strategy, leads payer negotiations and chairs the quality committee. Retains
+70% of the membership interests.
+IMAGE
+REDACTED
+Headshot
+Karen Liu-Bennett
+Chief Financial Officer
+CPA who joined in 2018 from a regional healthcare services group where she was controller. Owns
+budgeting, revenue-cycle oversight, the outsourced billing relationship and the QoE process; introduced
+monthly management reporting in 2019.
+IMAGE
+REDACTED
+Headshot
+Dr. Miriam Oyelaran
+Laboratory Director
+Board-certified clinical laboratory director (PhD) with the Company since 2016. Responsible for assay
+validation, proficiency testing, the 41-person technical bench and the accreditation programme; led the
+2019-20 molecular build-out.
+IMAGE
+REDACTED
+Headshot
+Victor Ramos
+Vice President, Sales
+Joined in 2014 and built the eight-person sales organisation. Manages the physician-practice, urgent-care
+and behavioural-health channels and personally originated the Silvermoss Senior Living relationship;
+leads the March 2027 representative hires.
+IMAGE
+REDACTED
+Headshot
+Janet Kowalczyk
+Director of Operations
+With the Company since 2012, responsible for the 6 patient service centres, the courier fleet, accessioning
+and client services. Designed the routing model that supports same-day pickups across the current
+footprint.
+IMAGE
+REDACTED
+Headshot
+Dr. Anil Devarakonda
+Medical Director (transitioning)
+Board-certified pathologist and Medical Director since 2011, providing clinical oversight and consultative
+pathology. Will work through December 2026 before retiring; a successor search is under way and the
+budget reflects the transition from January 2027.
+Source: Company management.
+[PAGE 10]
+Highly Attractive Market Tailwinds
+A high-growth diagnostics ecosystem fuelled by demographics, chronic disease management and preventive care
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   10
+Executive Summary
+I Adults living with at least one chronic condition are projected to grow at a 1.7% CAGR to 2035; each such
+patient generates on average 3.4 laboratory orders per year, creating a recurring, non-discretionary testing
+base.
+I The 65+ cohort grows at 2.6% annually and consumes roughly twice the tests per capita of the working-age
+population, the demographic that underpins the Company's senior-living channel.
+I Consolidation wave favours scaled independent labs
+– Roughly 2,750 independent laboratories operate nationally; 131 changed hands in 2024-25 as national chains
+rationalised outreach networks.
+– Regional operators with automation and same-day logistics win share when hospital outreach programmes are
+divested or closed.
+– The Company's turnaround advantage positions it as a natural acquirer of sub-scale local competitors.
+I Consumer demand for novel diagnostics
+– 61% of surveyed adults would take a pharmacogenomic panel if ordered by their clinician, a channel the Company
+already serves through its molecular department.
+I Shift to preventive and value-based care
+– Risk-bearing physician groups need low-cost, fast-turnaround testing to close care gaps; two IPAs representing 640
+physicians are in the Company's active pipeline.
+I Hospital outsourcing of outreach laboratories
+– Health systems increasingly exit outreach testing; the Company's 12-24 hrs turnaround is well inside the 24-48 hour
+benchmark of national reference laboratories.
+Sources (synthetic): (1) Industry Research Firm A. (2) National statistics agency population projections. (3) Consulting Firm B laboratory M&A tracker. (4) National laboratory chain annual report. (5) Regulator statistics.
+
+[FIGURE auto-augmented from PDF page 10, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Patient populations increasing reliance on diagnostics (millions)
+description: |
+  Grouped bar chart with two categories per year:
+  - 2025A: Adults with one or more chronic condition = 113M; Population aged 65+ = 48M
+  - 2035E: Adults with one or more chronic condition = 138M; Population aged 65+ = 63M
+</figure>
+<figure>
+type: bar chart
+title: Provider adoption of advanced diagnostics - preferred channel (survey share)
+description: |
+  Grouped bar chart showing survey share percentages for two diagnostic types across three channels:
+  - Clinician office: Pharmacogenomic panel = 61%; Multi-cancer early detection = 54%
+  - Retail clinic / pharmacy: Pharmacogenomic panel = 24%; Multi-cancer early detection = 29%
+  - At home: Pharmacogenomic panel = 15%; Multi-cancer early detection = 17%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 11]
+Strong Upward Financial and Operational Trends
+Revenue CAGR of 10.5% and adjusted EBITDA CAGR of 15.8% from 2024A to 2028E on rising volume and stable reimbursement
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   11
+Executive Summary
+I Revenue grew 8.2% in 2025A and 8.7% in 2026E; the 2028E step-up
+reflects the full-year contribution of representatives hired in March
+2027.
+I Margins expand from 19.5% to 23.5% as volume is absorbed by a
+largely fixed cost base.
+I Adjusted EBITDA of $3.2M in 2026E, up 14.5%; 2027E is held near
+flat as the Company invests $136K in new representatives and $448K
+in supervisory, IT, courier and accessioning hires ahead of volume.
+I 2028E adjusted EBITDA of $4.5M at a 23.5% margin.
+I Accessions rise from 85,204 in 2024A to 136,217 in 2028E, a 12.4%
+CAGR.
+I Implied net reimbursement per accession eases from $149.19 to
+$139.08 as senior-living and new-account volume, priced at
+$102.00-$112.00, becomes a larger share of the mix.
+(1) 2024A-25A and Jan-Aug 2026 per QoE report; Sep-Nov 2026 management-reported; Dec-26 onward projections. LTM Nov-26 not seasonally adjusted.  Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[FIGURE auto-augmented from PDF page 11, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Net revenue ($M) and adj. EBITDA margin (line)
+description: |
+  Combo chart with bars for net revenue ($M) and overlaid line for adjusted EBITDA margin (%).
+  - 2024A: Revenue ~$12.5M (bar height, exact value not labeled); EBITDA margin 19.5%
+  - 2025A: Revenue ~$13.5M (not explicitly labeled); EBITDA margin 20.4%
+  - LTM Nov-26: Revenue ~$15.0M (not explicitly labeled); EBITDA margin 21.3%
+  - 2026E: Revenue ~$15.0M (not explicitly labeled); EBITDA margin 21.4%
+  - 2027E: Revenue ~$16.0M (not explicitly labeled); EBITDA margin 20.0%
+  - 2028E: Revenue ~$19.0M (not explicitly labeled); EBITDA margin 23.5%
+  Note: Revenue bar values are not numerically labeled on the chart; only the margin line values are labeled.
+</figure>
+<figure>
+type: bar chart
+title: Adjusted EBITDA ($ in millions)
+description: |
+  - 2024A: $2.5M
+  - 2025A: $2.8M
+  - LTM Nov-26: $3.2M
+  - 2026E: $3.2M
+  - 2027E: $3.3M
+  - 2028E: $4.5M
+</figure>
+<figure>
+type: bar chart
+title: Samples tested - accessions (in thousands)
+description: |
+  - 2024A: 85
+  - 2025A: 93
+  - LTM Nov-26: 101
+  - 2026E: 101
+  - 2027E: 113
+  - 2028E: 136
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 12]
+Actionable Growth Levers
+A multi-pronged growth strategy that builds on the existing sales force, new representatives, institutional channels and geography
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   12
+Executive Summary
+Deepen penetration through the existing sales force
+Eight representatives manage 338 active accounts. Cross-selling molecular and toxicology panels into
+routine-only practices lifts revenue per account without new logistics cost; the existing team is modelled
+to hold $13.7M of 2026E revenue essentially flat through 2028E ($13.9M), so any upsell is upside to
+plan.
+Accelerate growth via new sales representatives and new testing areas
+Two experienced representatives start in March 2027 as non-compete periods with consolidated
+competitors expire. At 55 accessions per working day in 2027E rising to 119 in 2028E and $112.00 per
+accession, they contribute $1.4M in 2027E and $3.6M in 2028E for a fully loaded cost of $136K and
+$356K.
+Broaden access via IPA and institutional partnerships
+The Silvermoss Senior Living contract (42 communities) went live in April 2025 and is projected at
+$1.4M in 2027E and $1.5M in 2028E. Two independent physician associations with a combined 640
+physicians are in late-stage discussions, offering the same recurring, route-dense volume profile.
+Enter high-potential geographic markets
+The draw-station model, existing multi-state licensure and overnight courier partners allow low-capex
+entry into adjacent Northeast metros and, longer term, into high-growth southern states with favourable
+commercial reimbursement and rapidly growing senior populations. None of this expansion is in the
+projections.
+Source: Company management.
+
+[PAGE 13]
+Key Investment Considerations
+Six reasons the Company is a compelling platform for a strategic or financial acquirer
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   13
+Executive Summary
+1. Scalable platform with capacity headroom
+73% single-shift utilisation in 2026E, a pre-approved second-floor build-out and a validated ceiling of 520 daily accessions before any second shift.
+2. Rapid, visible growth from a commercial engine
+Revenue projected to grow from $15.0M in 2026E to $18.9M in 2028E on contracted senior-living volume and two funded representative hires.
+3. Strong reimbursement visibility and a diversified test mix
+Government programmes 43%, seven in-network commercial payers and four service lines; collection rate stable at 42.5% of gross charges.
+4. Demonstrated operational excellence
+12-24 hrs routine turnaround, 99.6% first-pass accuracy and clean accreditation history since 2016.
+5. Technology-forward infrastructure
+LIS/EMR interfaces with 210 client systems, automated chemistry and molecular lines, and IT spend of $238K in 2026E supporting structural margin advantages.
+6. Experienced, hands-on management bench
+Six leaders averaging 13 years of tenure who have delivered every stage of growth from operating cash flow, with a planned Medical Director transition and a Laboratory Manager already hired.
+Source: Company management.
+
+[PAGE 14]
+Section 2
+Industry Overview
+STRICTLY PRIVATE & CONFIDENTIAL   |   14
+
+[PAGE 15]
+Industry Overview
+Secular demand growth, technology-driven complexity and consolidation favour accredited regional laboratories
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   15
+Industry Overview
+The clinical laboratory testing market comprises routine chemistry, haematology and immunoassay testing, molecular
+and genetic diagnostics, anatomic pathology and toxicology performed by hospital laboratories, national reference
+chains and independent regional laboratories. National spend of $91.7 billion in 2025 is projected to reach $135.7
+billion by 2035, with independent regional labs the fastest-growing setting.
+I Demand expansion
+– Chronic-disease monitoring and preventive screening protocols add recurring orders per patient.
+– Employer and value-based programmes are widening the tested population.
+I Technology and complexity
+– Molecular, pharmacogenomic and mass-spectrometry assays are migrating from academic centres to regional labs.
+– Complexity favours accredited operators with validated menus.
+I Operational structure
+– Hub-and-spoke logistics with draw sites and couriers is the winning model for physician-office volume.
+– Same-day turnaround is a differentiator against national chains.
+I Reimbursement and automation
+– Fee-schedule pressure is offset by automation and per-test cost reduction.
+– In-network status with commercial payers is increasingly decisive.
+I M&A drivers
+– National chains and sponsors are consolidating sub-scale independents.
+– Hospitals are divesting outreach programmes to specialists.
+I Digitisation and AI integration
+– LIS/EMR connectivity and AI-assisted QC lower error rates and labour intensity.
+– Data-rich labs can offer population-health analytics to IPAs.
+Sources (synthetic): (1) Industry Research Firm A. (2) Industry Research Firm B. (3) Consulting Firm B. (4) Trade association statistics. (5) Regulator fee-schedule data. (6) Company management.
+
+[FIGURE auto-augmented from PDF page 15, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Global market size ($ in billions), 4.5% CAGR
+description: |
+  Bar chart showing global clinical laboratory testing market size from 2025A to 2035P. Y-axis ranges $0 to $400 billion. Exact values are not labeled on bars; approximate readings based on visible bar heights:
+  - 2025A: ~$250B
+  - 2026E: ~$260B
+  - 2027P: ~$270B
+  - 2028P: ~$285B
+  - 2029P: ~$295B
+  - 2030P: ~$310B
+  - 2031P: ~$325B
+  - 2032P: ~$340B
+  - 2033P: ~$355B
+  - 2034P: ~$370B
+  - 2035P: ~$385B
+  Note: individual values are not explicitly printed on the chart; only the 4.5% CAGR is stated in the title.
+</figure>
+<figure>
+type: bar chart
+title: National market size ($ in billions), 4.0% CAGR
+description: |
+  Bar chart showing national clinical laboratory testing market size from 2025A to 2035P. Y-axis ranges $0 to $150 billion. Per surrounding text, 2025 = $91.7B and 2035 = $135.7B. Approximate readings for intermediate years based on bar heights (not labeled on chart):
+  - 2025A: ~$91.7B (per text)
+  - 2026E: ~$95B
+  - 2027P: ~$99B
+  - 2028P: ~$103B
+  - 2029P: ~$107B
+  - 2030P: ~$111B
+  - 2031P: ~$116B
+  - 2032P: ~$120B
+  - 2033P: ~$125B
+  - 2034P: ~$130B
+  - 2035P: ~$135.7B (per text)
+  Note: individual values are not explicitly printed on the chart; only the 4.0% CAGR is stated in the title.
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 16]
+Market Opportunity & Reach
+A fragmented, high-growth market in which the Company holds a fraction of one percent of its serviceable footprint
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   16
+Industry Overview
+$91.7B
+TAM - national clinical laboratory testing spend, 2025A
+$16.1B
+SAM - population-weighted share (17.6%) of the current licensed Northeast footprint
+0.09%
+2026E net revenue as a share of SAM
+IMAGE REDACTED
+Nested-circle TAM / SAM diagram
+Market size
+The national market of $91.7 billion forms the TAM. Weighting that figure by the population of the seven states in which
+the Company is licensed yields a SAM of $16.1 billion. Against 2026E net revenue of $15.0M the Company holds 0.09%
+of its SAM, so each additional 0.1 percentage point of share represents roughly $16 million of revenue.
+TAM and SAM rationale
+TAM is defined as all national clinical laboratory testing spend and is projected to grow at 4.0% annually to $135.7 billion
+by 2035. SAM is calculated as the TAM multiplied by the share of the national population resident in the states where the
+Company holds licensure and courier coverage. Obtainable share rises with each new draw site, IPA contract and payer
+credential, and the SAM itself expands as licences are added in target southern growth states.
+I Independent regional laboratories hold about 26% of national volume, split among roughly 2,750 operators, few of which
+combine accreditation, molecular capability and a courier network.
+I The Company's pipeline (two IPAs, 640 physicians; three senior-living operators) would add an estimated 0.05 percentage
+points of SAM share on its own.
+(1) Industry Research Firm A (synthetic); population weights per national statistics agency.
+
+[PAGE 17]
+Section 3
+Service Offerings
+STRICTLY PRIVATE & CONFIDENTIAL   |   17
+
+[PAGE 18]
+Delivery Model
+A high-density array of routine, molecular, pathology and toxicology services delivered from one accredited site
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   18
+Service Offerings
+71%
+Routine chemistry & haematology
+19%
+Molecular / PCR
+6%
+Anatomic pathology send-outs
+4%
+Toxicology
+I 410 unique tests across chemistry, haematology, coagulation, immunoassay, urinalysis, toxicology
+(LC-MS/MS confirmation), molecular/PCR (respiratory, women's health, pharmacogenomics) and
+anatomic pathology send-outs; 14 custom panels for behavioural-health, geriatric and urgent-care clients.
+I In-network with Federal Program A, Vantrelle Health Plan, State Program B, Marrowby Mutual, Quayside
+Choice Senior Plan, Cobaltmere Health, Lanternway Benefits; credentialed with Federal Program A and
+State Program B since 2010.
+I Consultative services from board-certified laboratory and medical directors, including interpretive
+toxicology reports and antibiotic stewardship summaries for senior-living clients.
+I 99.6% first-pass reporting accuracy and 12-24 hrs turnaround on routine work versus a 24-48 hour
+benchmark for national reference laboratories.
+Department
+Representative tests
+Platform
+Routine TAT
+Chemistry
+Metabolic panels, lipids, HbA1c, thyroid, vitamin
+D
+Automated chemistry /
+immunoassay line
+Same day
+Haematology &
+coagulation
+CBC with differential, PT/INR, ESR
+Five-part differential
+analysers
+Same day
+Toxicology
+Drug screens with LC-MS/MS confirmation,
+medication monitoring
+Immunoassay screen +
+LC-MS/MS
+24 hrs
+Molecular / PCR
+Respiratory panels, STI, UTI, pharmacogenomics
+Real-time PCR, two
+suites
+24 hrs
+Microbiology
+Cultures, sensitivities, C. difficile
+Automated ID/AST
+48-72 hrs
+Anatomic pathology
+Biopsies, Pap/HPV co-testing (send-out with
+in-house accessioning)
+Partner pathology group
+3-5 days
+Mission
+To deliver accurate, timely and clinically useful results that let community physicians and care operators
+make better decisions for their patients, every day, at a cost the healthcare system can sustain.
+Source: Company management.
+
+[PAGE 19]
+Strategic Positioning & Competitive Advantages
+Six reinforcing capabilities position the Company for accelerated expansion under new ownership
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   19
+Service Offerings
+Operator-driven platform
+Founder-led since 2009 with a leadership team that runs the
+bench, the routes and the billing process personally; decisions on
+test menu, pricing and client service are made in days.
+Comprehensive high-complexity testing expertise
+410 validated tests including LC-MS/MS toxicology and real-time
+PCR panels normally found only in national reference
+laboratories, allowing clients to consolidate vendors.
+IMAGE REDACTED
+Hub diagram - Orivane platform with six capability spokes
+Deep operational and scientific leadership
+Board-certified laboratory and medical directors, a 41-person
+technical bench and a Director of Operations who designed the
+courier routing model.
+Quality-driven, compliance-focused operations
+Independent accreditation-body accreditation without deficiency
+since 2016, documented proficiency-testing performance and a
+compliance programme audited annually by external counsel.
+Broad regional footprint and integrated logistics
+6 patient service centres, 11 courier vehicles on 14 routes and
+overnight partners deliver same-day pickup across the licensed
+Northeast footprint.
+Scalable infrastructure and expansion readiness
+73% utilisation of a 520-per-day single shift, a pre-approved
+second-floor build-out and an LIS already interfaced with 210
+client systems.
+Source: Company management.
+
+[PAGE 20]
+Reimbursement and KPIs
+Predictable, in-network reimbursement with stable net revenue per accession and a rising collection rate
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   20
+Service Offerings
+I Collection rate of 42.2%, 42.0% and 42.5% of gross charges in 2024A,
+2025A and 2026E; gross charges of $35.2M in 2026E.
+I Bad-debt expense of $131K in 2026E, 0.9% of net revenue.
+I Net revenue per accession declines modestly to $139.08 by 2028E
+purely from mix as lower-priced senior-living and new-account volume
+grows; no fee-schedule cuts are assumed.
+(1) Per-accession figures assume the 2026E test mix within each channel; per-procedure-code rates are management estimates.  Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[FIGURE auto-augmented from PDF page 20, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Adj. net revenue ($ in millions)
+description: |
+  - 2024A: $12.7M
+  - 2025A: $13.8M
+  - LTM Aug-26: $14.6M
+</figure>
+<figure>
+type: bar chart
+title: Accession volume (in thousands)
+description: |
+  - 2024A: 85
+  - 2025A: 93
+  - LTM Aug-26: 99
+</figure>
+<figure>
+type: line chart
+title: Net revenue per billed code by service line ($)
+description: |
+  Four service lines plotted across 2024A, 2025A, LTM Nov-26. Y-axis $0–$175.
+  - Molecular (highest line): approximately $148 in 2024A, ~$150 in 2025A, ~$155 in LTM Nov-26
+  - Toxicology: approximately $120 in 2024A, ~$118 in 2025A, ~$115 in LTM Nov-26
+  - Pathology: approximately $95 across all three periods (essentially flat near $95–$100)
+  - Routine (lowest line): approximately $38–$40 across all three periods (essentially flat)
+  Note: exact data labels not shown on chart; values read from axis.
+</figure>
+<figure>
+type: line chart
+title: Net revenue per accession ($) (1)
+description: |
+  - 2025A: $148.3
+  - 2026E: $147.4
+  - 2027E: $143.5
+  - 2028E: $139.1
+</figure>
+<figure>
+type: pie chart
+title: Payers, 2026E net revenue
+description: |
+  - Federal Program A: 31%
+  - Vantrelle Health Plan: 17%
+  - State Program B: 12%
+  - Marrowby Mutual: 11%
+  - Quayside Choice Senior Plan: 9%
+  - Cobaltmere Health: 7%
+  - Lanternway Benefits: 5%
+  - All other commercial: 8%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 21]
+Locations Overview
+One centralised laboratory supported by 6 regional patient service centres and a company-owned courier network
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   21
+Service Offerings
+Ample capacity for increased testing volume
+The core laboratory handled 379 accessions per working day in 2026E, 73% of the validated 520
+single-shift ceiling. Management's plan takes utilisation to 98% by 2028E, at which point the
+pre-approved second-floor build-out and a second accessioning shift would lift capacity to
+approximately 1,040 accessions per day.
+IMAGE REDACTED
+Exterior photo - core laboratory, State A
+24,000 sq. ft. core laboratory and flagship patient service centre - Headquarters, State A
+IMAGE REDACTED
+Regional map - core laboratory (star) and patient service centres (dots)
+Core laboratory - State A; PSC 1-4 - State A metro; PSC 5 - State B; PSC 6 - State C
+I Facility 1 - Headquarters, State A
+– Core laboratory, accessioning, courier hub
+– Flagship patient service centre (extended hours)
+I Facilities 2-5 - State A metropolitan area
+– Four leased patient service centres of 900-1,400 sq. ft.
+– Two-hour courier loops to the core laboratory
+I Facility 6 - State B
+– Patient service centre co-located with an IPA client
+– Overnight courier partner
+I Facility 7 - State C
+– Patient service centre opened 2022 to serve behavioural-health clients
+Source: Company management.
+
+[PAGE 22]
+Proven Results Lead to Lasting Relationships
+Dependable diagnostics build trust: net logo retention of 103% over the trailing twelve months (1)
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   22
+Service Offerings
+Practice administrator, multi-site primary-care group
+"We moved our full routine and molecular volume to Orivane in 2023. The laboratory director calls us directly on critical values, and our clinicians trust the results without re-testing."
+Medical director, urgent-care network
+"Results are in our EMR before the next morning's huddle. Turnaround and the responsiveness of the client-services desk are why we have not looked at anyone else."
+Director of clinical services, Silvermoss Senior Living
+"The interpretive toxicology and antibiotic stewardship reports changed how our nurses manage residents. Orivane behaves like part of our clinical team."
+Office manager, behavioural-health practice
+"Couriers arrive when they say they will, every day, and the custom panel Orivane built for us cut our send-outs to two vendors from five."
+Physician, independent practice association
+"I recommended Orivane to the other practices in our IPA for pharmacogenomic testing. The pricing was fair and the reports are readable by a busy clinician."
+Client relationships are long-lived: the ten largest accounts have averaged nine years with the Company, and 338 unique clients ordered in the year to date, up from 286 in 2024A.
+(1) Net logo retention measures trailing-twelve-month revenue from clients active twelve months earlier, counting clients above $5,000 of annual billings. Quotes are illustrative and anonymised.  Source: Company management.
+
+[PAGE 23]
+Sample Testing & Processing Overview
+A standardised, LIS-tracked, end-to-end process from specimen collection to electronic result delivery
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   23
+Service Offerings
+Step 1 - Collect
+Step 2 - Transport & accession
+Step 3 - Analyse
+Step 4 - Report
+G
+G
+G
+G
+Specimen drawn at client site or PSC
+Courier pickup, barcode accessioning
+Tests run per order on validated platforms
+Results released to EMR / portal
+1. Sample collected
+2. Sample shipped and received
+3. Tests run per order
+4. Results reported and disseminated
+Phlebotomists at the six PSCs or client staff collect the
+specimen against an electronic order placed through the
+LIS portal or an EMR interface. Requisition data, payer
+eligibility and medical-necessity checks are validated at the
+point of collection, reducing downstream billing rejections.
+Company couriers run 14 fixed routes with two-hour loops
+in the metro area; State B and State C specimens travel
+overnight with a partner. On arrival, each tube is barcoded
+and accessioned into the LIS within 20 minutes, with
+temperature and chain-of-custody logged automatically.
+Orders route to the chemistry, haematology, toxicology,
+molecular or microbiology benches. 62 instruments are
+interfaced bidirectionally to the LIS; auto-verification
+releases in-range routine results, while directors review
+flagged values and all confirmatory toxicology.
+Results post electronically to 210 interfaced client systems
+or the secure portal, with critical values phoned within 30
+minutes. 99.6% of reports are released without
+amendment; routine work is reported in 12-24 hrs, and
+claims are generated the same night through the
+outsourced RCM platform.
+12-24 hrs
+Routine turnaround
+< 20 min
+Receipt to accessioning
+210
+Interfaced client EMR / practice systems
+4.1%
+Claims requiring re-work (2026E)
+I Information technology: a cloud-hosted LIS (upgraded 2022) with bidirectional instrument interfaces, a clinical-messaging integration engine and a client portal; 2026E IT expense of $238K and an IT lead budgeted from
+March 2027 to support AI-assisted quality control and automated accessioning.
+System
+Purpose
+Deployment
+Laboratory information system (LIS)
+Order entry, accessioning, instrument interfaces, auto-verification, result release
+Cloud-hosted, upgraded 2022
+Clinical-messaging integration engine
+Bidirectional interfaces to 210 client EMR and practice-management systems
+Cloud-hosted
+Client portal
+Web ordering, result retrieval, supply requests for non-interfaced clients
+Cloud-hosted
+Revenue-cycle platform
+Claim scrubbing, submission, remittance posting and denial management
+Outsourced RCM vendor
+Courier routing and chain-of-custody
+Route optimisation, pickup confirmation, temperature logging
+Mobile application
+Source: Company management.
+
+[PAGE 24]
+Section 4
+Organizational & Management Overview
+STRICTLY PRIVATE & CONFIDENTIAL   |   24
+
+[PAGE 25]
+Organizational Overview
+An organisation of 95 employees built on distinct laboratory, commercial, logistics and finance disciplines
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   25
+Organizational & Management Overview
+Dr. Samuel Achterberg -
+Founder & CEO
+Karen Liu-Bennett - CFO
+Dr. Miriam Oyelaran -
+Laboratory Director
+Dr. Anil Devarakonda -
+Medical Director
+(transitioning)
+Victor Ramos - VP Sales
+Janet Kowalczyk -
+Director of Operations
+Department / function
+Reports to
+Lead
+Chemistry, haematology & coagulation
+Laboratory Director
+Core Laboratory Manager (hired Dec-26)
+Toxicology (LC-MS/MS)
+Laboratory Director
+Toxicology Supervisor
+Molecular / PCR
+Laboratory Director
+Molecular Supervisor
+Microbiology & pathology send-outs
+Medical Director
+Microbiology Lead
+Quality assurance / quality control
+Laboratory Director
+QA/QC Manager
+Accessioning & client services
+Director of Operations
+Processing / Shift Supervisor (Feb-27)
+Phlebotomy & patient service centres
+Director of Operations
+PSC Coordinator
+Logistics & couriers
+Director of Operations
+Logistics Coordinator
+Billing, RCM oversight & finance
+CFO
+Billing Manager
+Information technology
+CFO
+IT Lead (Mar-27)
+Headcount by function
+#
+Executives & senior management
+6
+Laboratory professionals (technologists, technicians, pathology
+support)
+41
+Phlebotomy & patient service centre staff
+18
+Logistics & couriers
+9
+Billing, RCM & customer service
+7
+Sales representatives
+8
+Information technology
+3
+Finance & administration
+3
+Total
+95
+I Budgeted 2027 additions: Processing/Shift Supervisor ($110K, Feb-27), two
+couriers ($50K each, Feb-27), IT Lead ($180K, Mar-27), Inventory Coordinator
+($75K, Mar-27) and additional accessioners ($43K in 2027E, $152K in 2028E).
+I Laboratory Manager ($200K) started in December 2026; the Medical Director role
+($150K) transitions out from January 2027 with clinical oversight covered by the
+Laboratory Director and contracted pathologists during the successor search.
+I Total salaries and wages of $3.7M in 2026E rise to $4.3M in 2027E and $4.6M in
+2028E, 24.3% of revenue.
+Source: Company management.
+
+[FIGURE auto-augmented from PDF page 25, source: claude-opus-4-7]
+<figures>
+<figure>
+type: org chart
+title: Organizational Overview
+description: |
+  Top of org chart: Dr. Samuel Achterberg - Founder & CEO.
+  Direct reports to CEO (5 roles):
+  - Karen Liu-Bennett - CFO
+  - Dr. Miriam Oyelaran - Laboratory Director
+  - Dr. Anil Devarakonda - Medical Director (transitioning)
+  - Victor Ramos - VP Sales
+  - Janet Kowalczyk - Director of Operations
+</figure>
+<figure>
+type: table
+title: Department / function reporting structure
+description: |
+  Department / function | Reports to | Lead
+  Chemistry, haematology & coagulation | Laboratory Director | Core Laboratory Manager (hired Dec-26)
+  Toxicology (LC-MS/MS) | Laboratory Director | Toxicology Supervisor
+  Molecular / PCR | Laboratory Director | Molecular Supervisor
+  Microbiology & pathology send-outs | Medical Director | Microbiology Lead
+  Quality assurance / quality control | Laboratory Director | QA/QC Manager
+  Accessioning & client services | Director of Operations | Processing / Shift Supervisor (Feb-27)
+  Phlebotomy & patient service centres | Director of Operations | PSC Coordinator
+  Logistics & couriers | Director of Operations | Logistics Coordinator
+  Billing, RCM oversight & finance | CFO | Billing Manager
+  Information technology | CFO | IT Lead (Mar-27)
+</figure>
+<figure>
+type: table
+title: Headcount by function
+description: |
+  Function | #
+  Executives & senior management | 6
+  Laboratory professionals (technologists, technicians, pathology support) | 41
+  Phlebotomy & patient service centre staff | 18
+  Logistics & couriers | 9
+  Billing, RCM & customer service | 7
+  Sales representatives | 8
+  Information technology | 3
+  Finance & administration | 3
+  Total | 95
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 26]
+Management
+An experienced leadership team with deep tenure and clear accountability across science, operations, sales and finance
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   26
+Organizational & Management Overview
+IMAGE
+REDACTED
+Headshot
+Dr. Samuel Achterberg
+Founder & Chief Executive Officer
+Clinical chemist (PhD) who founded the Company in 2009 after
+twelve years directing hospital laboratories. Sets test-menu
+strategy, leads payer negotiations and chairs the quality
+committee. Retains 70% of the membership interests. Holds a
+PhD in clinical chemistry and has served on the state clinical
+laboratory advisory board since 2019. Intends to remain with
+the business through a transition period and is open to a
+meaningful rollover.
+IMAGE
+REDACTED
+Headshot
+Karen Liu-Bennett
+Chief Financial Officer
+CPA who joined in 2018 from a regional healthcare services
+group where she was controller. Owns budgeting,
+revenue-cycle oversight, the outsourced billing relationship and
+the QoE process; introduced monthly management reporting in
+2019. Previously spent six years in public accounting auditing
+healthcare providers. Manages the Company's banking
+relationship and the accounts-payable and payroll functions.
+IMAGE
+REDACTED
+Headshot
+Dr. Miriam Oyelaran
+Laboratory Director
+Board-certified clinical laboratory director (PhD) with the
+Company since 2016. Responsible for assay validation,
+proficiency testing, the 41-person technical bench and the
+accreditation programme; led the 2019-20 molecular build-out.
+Holds national certification as a high-complexity laboratory
+director and oversees the annual proficiency-testing
+programme covering all analytes.
+IMAGE
+REDACTED
+Headshot
+Victor Ramos
+Vice President, Sales
+Joined in 2014 and built the eight-person sales organisation.
+Manages the physician-practice, urgent-care and
+behavioural-health channels and personally originated the
+Silvermoss Senior Living relationship; leads the March 2027
+representative hires. Prior to joining, spent nine years in
+diagnostics sales with a national reference laboratory.
+Compensation is salary plus commission tied to net collected
+revenue.
+IMAGE
+REDACTED
+Headshot
+Janet Kowalczyk
+Director of Operations
+With the Company since 2012, responsible for the 6 patient
+service centres, the courier fleet, accessioning and client
+services. Designed the routing model that supports same-day
+pickups across the current footprint. Previously managed a
+regional medical courier business. Responsible for the PSC
+lease portfolio, fleet and the accessioning hires planned for
+2027.
+IMAGE
+REDACTED
+Headshot
+Dr. Anil Devarakonda
+Medical Director (transitioning)
+Board-certified pathologist and Medical Director since 2011,
+providing clinical oversight and consultative pathology. Will
+work through December 2026 before retiring; a successor
+search is under way and the budget reflects the transition from
+January 2027. Fellowship-trained in clinical pathology; will
+remain available on a consulting basis to support the transition
+to a successor Medical Director.
+Source: Company management.
+[PAGE 27]
+Section 5
+Financial Overview & Growth Opportunities
+STRICTLY PRIVATE & CONFIDENTIAL   |   27
+
+[PAGE 28]
+Growth Opportunities Overview
+A targeted, funded strategy to extend the Company's reach across sales pipeline, laboratory capacity and geography
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   28
+Financial Overview & Growth Opportunities
+Expansion and execution of the sales pipeline
+Existing representatives, two funded hires from March 2027 and
+the institutional senior-living channel.
+I Existing eight representatives are modelled flat at $13.7M-$13.9M of
+annual revenue; organic upsell is upside.
+I Two new representatives contribute $1.4M in 2027E and $3.6M in
+2028E as non-competes with consolidated competitors expire.
+I Silvermoss Senior Living grows from $1.2M in 2026E to $1.5M in
+2028E; two IPAs with 640 physicians in late-stage discussion.
+I Mix shift toward higher-value molecular and toxicology panels in
+every channel.
+Laboratory facility expansion
+Incremental build-out within the existing lease to double daily
+capacity ahead of 2028E utilisation.
+I 2026E utilisation of 73% rises to 83% in 2027E and 98% in 2028E on
+the current 520-per-day ceiling.
+I Pre-approved second-floor build-out (drawings complete) and a right
+of first refusal on 9,500 sq. ft. of adjacent space.
+I Layout designed for a second molecular suite and expanded
+LC-MS/MS bench; automated accessioning and AI-assisted QC
+preserve margin as volume doubles.
+I A Laboratory Manager (Dec-26), Shift Supervisor (Feb-27) and IT
+Lead (Mar-27) are already budgeted.
+Geographic expansion
+Draw-station-led entry into adjacent Northeast metros and, longer
+term, high-growth southern states.
+I Existing licensure in seven states and credentialing with the major
+national payers reduce time-to-revenue in new markets.
+I A patient service centre can be opened for under $60K of capex and
+staffed with two phlebotomists, keeping expansion asset-light.
+I Target states combine favourable commercial reimbursement with
+fast-growing senior populations suited to molecular and toxicology
+testing.
+I Geographic expansion is not included in the 2027E-2028E
+projections.
+Source: Company management.
+
+[PAGE 29]
+Growth Opportunities - Pipeline Execution & Expansion
+Three complementary growth engines take net revenue from $15.0M in 2026E to $18.9M in 2028E
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   29
+Financial Overview & Growth Opportunities
+Existing sales team
+Eight representatives; 334 accessions per working day in 2026E
+I Baseline production
+–
+89,386 accessions at $153.51 per accession in 2026E, $13.7M of revenue.
+–
+Modelled at 333-336 accessions per day through 2028E with pricing held at
+$154.43.
+I Operating leverage
+–
+Sales representative expense for the current team of $747K in 2026E grows
+only with inflation.
+New sales team
+Two representatives starting March 2027
+I Immediate uplift
+–
+55 accessions per working day over 221 working days in 2027E (12,110
+accessions), rising to 119 per day in 2028E (31,820).
+–
+Priced at $112.00 per accession, reflecting a routine-heavy initial book.
+I Cost and visibility
+–
+Fully loaded cost of $136K in 2027E and $356K in 2028E, including
+commissions.
+–
+Both candidates identified; start dates set by non-compete expiry.
+Institutional (senior-living) relationships
+Silvermoss Senior Living - 42 communities, live since April 2025
+I Recurring volume
+–
+12,072 accessions in 2026E at $102.00 per accession ($1.2M), growing to
+14,685 accessions and $1.5M in 2028E.
+I Operational fit and ramp
+–
+Scheduled route-dense draws; ramp from 19 to 55 accessions per working
+day is contracted, not assumed.
+–
+Three further senior-living operators in discussion.
+Source: Company management projections (Revenue Build).
+
+[FIGURE auto-augmented from PDF page 29, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Existing sales team ($ in millions)
+description: |
+  Three bars showing revenue by year:
+  - 2026E: $13.7
+  - 2027E: $13.5
+  - 2028E: $13.9
+</figure>
+<figure>
+type: bar chart
+title: New sales team ($ in millions)
+description: |
+  Two bars showing revenue by year:
+  - 2027E: $1.4
+  - 2028E: $3.6
+</figure>
+<figure>
+type: bar chart
+title: Senior-living relationship ($ in thousands)
+description: |
+  Four bars showing revenue by year:
+  - 2025A: $503
+  - 2026E: $1,231
+  - 2027E: $1,400
+  - 2028E: $1,527
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 30]
+Growth Opportunities - Buildout & Expansion of Capacity
+Investing in infrastructure and automation ahead of demand to double daily capacity within the existing footprint
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   30
+Financial Overview & Growth Opportunities
+I Operational scale-up opportunity
+– Current throughput of 379 accessions per working day (2026E) against a validated single-shift ceiling of 520; a full second shift would take the same floor
+to roughly 1,040.
+– Utilisation of 61% in 2024A, 73% in 2026E and 98% in 2028E under the management plan.
+– AI-assisted QC and automated accessioning (IT Lead from March 2027) reduce manual touchpoints per specimen by an estimated 30%.
+– Revenue capacity of the current shift at 2026E rates is approximately $20.5M (1), against 2026E revenue of $15.0M.
+I Post-expansion state
+– Right of first refusal on 9,500 sq. ft. of adjacent tenant space within the same building.
+– Second-floor build-out of 6,200 sq. ft. with drawings complete and landlord consent obtained; estimated capex of $1.4M phased over 2027-28.
+– All added space dedicated to laboratory operations: second molecular suite, expanded toxicology bench and a dedicated accessioning floor.
+– Total footprint of approximately 39,700 sq. ft. with daily capacity doubled to about 1,040 accessions.
+IMAGE REDACTED
+Stock photo - gloved hand with sample tubes
+Capacity metric
+2026E
+2028E
+Working days
+268
+267
+Average daily accessions
+379
+510
+Single-shift ceiling
+520
+520
+Utilisation
+72.8%
+98.1%
+Net revenue per accession
+$147.38
+$139.08
+(1) Revenue capacity = 520 daily accessions x $147.38 net revenue per accession x 268 working days.  Source: Company management projections (Revenue Build).
+
+[FIGURE auto-augmented from PDF page 30, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Average daily accessions as % of 520-per-day single-shift capacity
+description: |
+  Bar chart showing utilization as % of single-shift capacity by year:
+  - 2024A: 61%
+  - 2025A: 66%
+  - 2026E: 73%
+  - 2027E: 83%
+  - 2028E: 98%
+  Y-axis scales from 0% to 100% in 25% increments.
+</figure>
+<figure>
+type: table
+title: Capacity metric
+description: |
+  Capacity metric | 2026E | 2028E
+  Working days | 268 | 267
+  Average daily accessions | 379 | 510
+  Single-shift ceiling | 520 | 520
+  Utilisation | 72.8% | 98.1%
+  Net revenue per accession | $147.38 | $139.08
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 31]
+Growth Opportunities - Geographic Expansion
+Expanding the footprint through draw sites, payer credentialing and logistics rather than new laboratories
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   31
+Financial Overview & Growth Opportunities
+Current footprint - home-state platform
+Core laboratory and 6 patient service centres cover State A and adjacent metros in States B and C with
+same-day or next-morning delivery. Volume has scaled 19.1% since 2024A without new space.
+Near-term expansion - tri-state to regional markets
+Licensed and credentialing-ready in four further Northeast states. IPA partnerships and low-capex draw
+sites (under $60K each) allow entry within a quarter; conservative suburban penetration assumptions
+are used in management's internal plan.
+Long-term expansion - high-growth target states
+High-growth southern and western states with favourable commercial reimbursement and senior
+populations growing above 3% annually. The molecular and toxicology menu is well suited to
+chronic-care and senior-living markets; entry would use overnight logistics before any satellite
+laboratory.
+IMAGE REDACTED
+Schematic national map - current platform (blue), regional growth (orange), target markets (grey)
+Current platform: States A, B, C; Regional growth: four licensed Northeast states; Target markets: three southern / western states
+12-24 hrs
+Routine turnaround in all current states
+99.6%
+First-pass reporting accuracy
+I Map attribution: schematic, not to scale (synthetic).
+I No geographic expansion revenue is included in the 2027E-2028E projections.
+Source: Company management.
+
+[PAGE 32]
+Customer Trends
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   32
+Financial Overview & Growth Opportunities
+Client type
+% of 2026E net revenue
+Physician practices & IPAs
+57%
+Behavioural-health providers
+12%
+Urgent-care clinics
+13%
+Senior-living communities
+8%
+Other (occupational, clinical trials)
+10%
+I 338 unique clients ordered in the eleven months to November 2026, up from 311 in 2025A and 286 in
+2024A.
+I The largest client, Silvermoss Senior Living, represents 8.2% of 2026E net revenue ($1.2M); no other
+client exceeds 4.9% and the top ten together account for 35.1%.
+I Net logo retention of 103%: existing clients grew their spend by more than the revenue lost from
+departing clients.
+I Churn is low and largely deliberate: four accounts were exited in 2025 for payment behaviour,
+representing under 0.5% of revenue.
+I Commercial focus is on multi-site physician groups, IPAs and senior-living networks, which order daily,
+prefer bundled panels and are served by existing courier routes.
+(1) Customer data as of 30 November 2026. (2) Net logo retention counts clients above $5,000 of annual billings.  Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[FIGURE auto-augmented from PDF page 32, source: claude-opus-4-7]
+<figures>
+<figure>
+type: pie chart
+title: Customer concentration - share of 2026E net revenue
+description: |
+  Pie chart showing customer share of 2026E net revenue:
+  - All other: 65%
+  - Silvermoss Senior Living: 8%
+  - Customer B: 5%
+  - Customer C: 4%
+  - Customer D: 4%
+  - Customer E: 3%
+  - Customer F: 3%
+  - Customer G: 2%
+  - Customer H: 2%
+  - Customer I: 2%
+  - Customer J: [unreadable, appears ~2%]
+</figure>
+<figure>
+type: bar chart
+title: Customer count (unique clients ordering in period)
+description: |
+  Vertical bar chart showing unique client counts:
+  - 2024A: 286
+  - 2025A: 311
+  - YTD Nov-26: 338
+</figure>
+<figure>
+type: table
+title: Client type / % of 2026E net revenue
+description: |
+  Client type | % of 2026E net revenue
+  Physician practices & IPAs | 57%
+  Behavioural-health providers | 12%
+  Urgent-care clinics | 13%
+  Senior-living communities | 8%
+  Other (occupational, clinical trials) | 10%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 33]
+Historical and Projected Income Statement and Commentary
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   33
+Financial Overview & Growth Opportunities
+$ in actual
+2024A
+2025A
+2026E
+2027E
+2028E
+Total accessions
+85,204
+92,761
+101,458
+113,147
+136,217
+YoY % growth
+n/a
+8.9%
+9.4%
+11.5%
+20.4%
+Implied reimbursement per accession
+$149.19
+$148.31
+$147.38
+$143.53
+$139.08
+Net operating revenue
+12,711,900
+13,757,400
+14,953,118
+16,239,659
+18,945,041
+YoY % growth
+n/a
+8.2%
+8.7%
+8.6%
+16.7%
+Operating expenses
+Medical supplies
+317,200
+343,800
+430,923
+414,111
+483,099
+Lab supplies
+1,073,300
+1,164,300
+1,264,791
+1,403,107
+1,636,852
+Drugs
+114,800
+123,600
+100,193
+144,533
+168,611
+Pharmacy
+75,600
+82,400
+65,090
+94,190
+109,881
+Total drugs & medical supplies
+1,580,900
+1,714,100
+1,860,997
+2,055,941
+2,398,442
+Salaries & wages
+3,317,600
+3,509,800
+3,716,856
+4,327,259
+4,610,460
+Contract labor
+187,900
+205,500
+249,542
+241,971
+282,281
+Sales rep expense
+636,600
+684,700
+747,121
+873,224
+1,116,104
+Other personnel costs
+88,400
+95,900
+74,792
+78,468
+81,827
+Total employee salaries & wages
+4,230,500
+4,495,900
+4,788,310
+5,520,921
+6,090,672
+Laboratory fees
+729,800
+792,200
+863,135
+948,396
+1,106,390
+Billing & collection fees
+448,300
+476,000
+581,873
+578,132
+674,443
+Total employee taxes & benefits
+522,000
+549,300
+592,904
+682,998
+753,482
+Total occupancy costs
+710,400
+768,100
+806,807
+825,178
+860,511
+All other operating expenses
+1,996,400
+2,143,600
+2,237,575
+2,357,629
+2,594,093
+Total operating expenses
+10,218,300
+10,939,200
+11,731,601
+12,969,195
+14,478,034
+% of revenue
+80.4%
+79.5%
+78.5%
+79.9%
+76.4%
+EBITDA, as adjusted
+2,475,500
+2,800,700
+3,207,267
+3,255,118
+4,451,005
+YoY % growth
+n/a
+13.1%
+14.5%
+1.5%
+36.7%
+% margin
+19.5%
+20.4%
+21.4%
+20.0%
+23.5%
+Commentary
+I Net operating revenue grows at a 12.6% CAGR from $15.0M
+in 2026E to $18.9M in 2028E, after 8.2% and 8.7% growth in
+2025A and 2026E.
+I Accessions of 85,204 in 2024A rise to 101,458 in 2026E and
+136,217 in 2028E; the 2028E step reflects the first full year of
+the two representatives hired in March 2027 (31,820
+accessions) and the Silvermoss contract (14,685).
+I Growth is volume-driven: operating expenses fall from 80.4%
+of revenue in 2024A to 76.4% in 2028E as occupancy, IT and
+administrative costs are absorbed.
+I 2027E margin dips to 20.0% because salaries and wages step
+up $0.6M for the Laboratory Manager, Shift Supervisor, IT
+Lead, couriers and accessioners, partly offset by the Medical
+Director transition.
+I Management's plan assumes 510 average daily accessions by
+2028E, 98% of the current single-shift ceiling; the capacity
+build-out is therefore timed for 2027-28.
+(1) 2024A-25A and Jan-Aug 2026 per QoE report; Sep-Nov 2026 management-reported; Dec-26 onward projections. Other opex = ancillary, other medical, insurance, G&A.  Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[PAGE 34]
+Revenue Build and Operating Expense Profile
+Revenue is built bottom-up from accessions per working day and net revenue per accession for each of the three engines
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   34
+Financial Overview & Growth Opportunities
+$ in actual
+2024A
+2025A
+2026E
+2027E
+2028E
+Existing sales team
+Accessions per workday
+316.7
+324.7
+333.5
+333.3
+336.0
+Workdays
+269
+270
+268
+262
+267
+Accessions
+85,204
+87,676
+89,386
+87,313
+89,712
+$ per accession
+$149.19
+$151.17
+$153.51
+$154.43
+$154.43
+Adj. net revenue
+12,711,900
+13,253,985
+13,721,774
+13,483,491
+13,853,961
+Senior-living contract (Silvermoss)
+Accessions per workday
+0.0
+18.8
+45.0
+52.4
+55.0
+Accessions
+0
+5,085
+12,072
+13,724
+14,685
+$ per accession
+$0.00
+$99.00
+$102.00
+$102.00
+$104.00
+Adj. net revenue
+0
+503,415
+1,231,344
+1,399,848
+1,527,240
+New sales team (from Mar-27)
+Accessions per workday
+0.0
+0.0
+0.0
+54.8
+119.2
+Workdays
+0
+0
+0
+221
+267
+Accessions
+0
+0
+0
+12,110
+31,820
+$ per accession
+$0.00
+$0.00
+$0.00
+$112.00
+$112.00
+Adj. net revenue
+0
+0
+0
+1,356,320
+3,563,840
+Total adj. net revenue
+12,711,900
+13,757,400
+14,953,118
+16,239,659
+18,945,041
+Total accessions
+85,204
+92,761
+101,458
+113,147
+136,217
+Assumed daily accessions
+316.7
+343.6
+378.6
+431.9
+510.2
+Max daily accessions (single shift)
+520
+520
+520
+520
+520
+% capacity
+60.9%
+66.1%
+72.8%
+83.0%
+98.1%
+Operating expenses by category ($ in millions): salaries & wages, drugs & medical supplies, laboratory
+fees & ancillary services, employee taxes & benefits, occupancy, G&A (incl. billing & collection),
+insurance & other medical costs
+I Employee salaries and wages are the largest cost at 32.0% of 2026E revenue; drugs and medical
+supplies (12.4%) and laboratory fees for send-outs (5.8%) are the principal variable costs.
+I Total operating expenses grow from $11.7M in 2026E to $14.5M in 2028E, 11.1% annually, versus
+12.6% revenue growth.
+I Occupancy ($0.8M in 2026E) and G&A are largely fixed; fixed-cost projections use the trailing
+twelve-month average grown at a monthly inflation input.
+Source: Company management projections (Revenue Build; Historical & Projected P&L).
+
+[FIGURE auto-augmented from PDF page 34, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: untitled (Operating expenses by category, $ in millions)
+description: |
+  Stacked bar chart showing total operating expenses by year, with stack components: Salaries & wages (dark blue), Lab fees & ancillary (light blue), Occupancy (gray), Insurance & other (yellow/gold), Supplies (medium blue), Taxes & benefits (red), G&A (green).
+  
+  Total stack values labeled on top of each bar:
+  - 2024A: $10.2M
+  - 2025A: $10.9M
+  - 2026E: $11.7M
+  - 2027E: $13.0M
+  - 2028E: $14.5M
+  
+  Individual segment values are not numerically labeled on the chart; only the totals are shown. Y-axis scale runs from $0.0 to $16.0 in $2.0 increments. Salaries & wages (bottom dark blue segment) is visibly the largest component in each year, consistent with the stated 32.0% of 2026E revenue noted in callout text.
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 35]
+Monthly Revenue and Adjusted EBITDA, 2024-2026
+Thirty-six months of net operating revenue and adjusted EBITDA: LTM Nov-26 revenue of $14.8M and adjusted EBITDA of $3.2M
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   35
+Financial Overview & Growth Opportunities
+I Monthly revenue ranged from $944K to $1,394K over the period; October is the seasonal peak and February the trough, driven by working days (268 in 2026E) and respiratory-season molecular volume.
+I Jan-Aug 2026 per the QoE report ($9.8M revenue, $2.0M adjusted EBITDA); Sep-Nov 2026 management-reported; Dec-26 projected at $1,291K.
+Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[FIGURE auto-augmented from PDF page 35, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Monthly net operating revenue ($ in thousands), Jan-24 to Dec-26E
+description: |
+  Monthly revenue bars from Jan-24 through Dec-26E. Exact values are not labeled on bars; approximate readings from the y-axis (gridlines at $250, $500, $750, $1,000, $1,250, $1,500):
+  - Jan-24: ~$1,060
+  - Feb-24: ~$950
+  - Mar-24: ~$1,060
+  - Apr-24: ~$1,030
+  - May-24: ~$1,160
+  - Jun-24: ~$970
+  - Jul-24: ~$1,070
+  - Aug-24: ~$1,100
+  - Sep-24: ~$1,020
+  - Oct-24: ~$1,220
+  - Nov-24: ~$1,070
+  - Dec-24: ~$1,030
+  - Jan-25: ~$1,160
+  - Feb-25: ~$940
+  - Mar-25: ~$1,080
+  - Apr-25: ~$1,180
+  - May-25: ~$1,210
+  - Jun-25: ~$1,060
+  - Jul-25: ~$1,200
+  - Aug-25: ~$1,160
+  - Sep-25: ~$1,160
+  - Oct-25: ~$1,320
+  - Nov-25: ~$1,120
+  - Dec-25: ~$1,190
+  - Jan-26: ~$1,230
+  - Feb-26: ~$1,050
+  - Mar-26: ~$1,240
+  - Apr-26: ~$1,290
+  - May-26: ~$1,250
+  - Jun-26: ~$1,190
+  - Jul-26: ~$1,300
+  - Aug-26: ~$1,230
+  - Sep-26: ~$1,310
+  - Oct-26: ~$1,394 (seasonal peak per callout)
+  - Nov-26: ~$1,190
+  - Dec-26: ~$1,291 (per callout, projected)
+  Callout notes: range $944K–$1,394K; October peak, February trough.
+</figure>
+<figure>
+type: bar chart
+title: Monthly adjusted EBITDA ($ in thousands), Jan-24 to Dec-26E
+description: |
+  Monthly adjusted EBITDA bars from Jan-24 through Dec-26E. Values are not labeled; approximate readings from y-axis gridlines ($100, $200, $300, $400):
+  - Jan-24: ~$215
+  - Feb-24: ~$145
+  - Mar-24: ~$205
+  - Apr-24: ~$180
+  - May-24: ~$275
+  - Jun-24: ~$145
+  - Jul-24: ~$210
+  - Aug-24: ~$225
+  - Sep-24: ~$180
+  - Oct-24: ~$315
+  - Nov-24: ~$215
+  - Dec-24: ~$175
+  - Jan-25: ~$260
+  - Feb-25: ~$105
+  - Mar-25: ~$205
+  - Apr-25: ~$260
+  - May-25: ~$280
+  - Jun-25: ~$170
+  - Jul-25: ~$275
+  - Aug-25: ~$240
+  - Sep-25: ~$230
+  - Oct-25: ~$350
+  - Nov-25: ~$195
+  - Dec-25: ~$230
+  - Jan-26: ~$250
+  - Feb-26: ~$140
+  - Mar-26: ~$270
+  - Apr-26: ~$290
+  - May-26: ~$270
+  - Jun-26: ~$235
+  - Jul-26: ~$315
+  - Aug-26: ~$260
+  - Sep-26: ~$315
+  - Oct-26: ~$360
+  - Nov-26: ~$220
+  - Dec-26E: ~$285
+  Context: LTM Nov-26 adjusted EBITDA of $3.2M; Jan-Aug 2026 $2.0M per QoE.
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 36]
+EBITDA Adjustments
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   36
+Financial Overview & Growth Opportunities
+$ in thousands
+2024A
+2025A
+YTD Aug-26
+LTM Aug-26
+EBITDA, reported
+2,325.5
+2,604.3
+1,925.0
+2,848.7
+Management adjustments
+(1) Owner compensation normalisation
+186.0
+192.0
+132.0
+196.0
+Total management adjustments
+186.0
+192.0
+132.0
+196.0
+EBITDA, management adjusted
+2,511.5
+2,796.3
+2,057.0
+3,044.7
+Diligence adjustments
+(2) Reclassification of non-patient revenues
+(16.5)
+(18.4)
+(8.6)
+(13.1)
+(3) Net revenue hindsight / accrual analysis
+41.2
+36.8
+27.4
+44.9
+(4) Removal of non-recurring and personal expenses
+58.3
+64.1
+39.7
+61.2
+(5) Occupancy cost normalisation
+(22.0)
+(22.0)
+(14.7)
+(22.0)
+(6) Medical supply expense normalisation
+(9.4)
+7.6
+5.1
+9.8
+(7) Insurance normalisation
+3.8
+4.1
+2.9
+4.4
+(8) Lab equipment lease normalisation
+(11.6)
+(12.2)
+(8.4)
+(12.6)
+(9) Go-forward sales representative expense
+(24.0)
+(26.5)
+(18.0)
+(27.0)
+(10) Other operating expense normalisation
+14.7
+9.9
+6.3
+11.4
+(11) Restating payroll to payroll registers
+(31.2)
+(28.4)
+(17.9)
+(26.7)
+(12) Normalised contracted provider compensation
+18.0
+18.0
+12.0
+18.0
+(13) Payroll cash-to-accrual
+(6.9)
+4.2
+(9.8)
+(7.1)
+(14) Accounts payable cash-to-accrual
+(12.4)
+8.7
+(15.3)
+(10.2)
+Total diligence adjustments
+2.0
+45.9
+0.7
+31.0
+EBITDA, diligence adjusted
+2,513.5
+2,842.2
+2,057.7
+3,075.7
+Pro forma adjustments
+(15) Reference lab utilisation normalisation
+(38.0)
+(41.5)
+(27.0)
+(40.1)
+Total pro forma adjustments
+(38.0)
+(41.5)
+(27.0)
+(40.1)
+Total adjusted EBITDA
+2,475.5
+2,800.7
+2,030.7
+3,035.6
+LTM Aug-26 bridge from reported to adjusted EBITDA ($ in thousands)
+Commentary
+I
+(1) Owner compensation normalised to a market salary for the CEO role; the difference between distributions taken as
+compensation and the market rate is added back.
+I
+(2) Interest and other non-patient income recorded in service revenue reclassified below EBITDA.
+I
+(3) Net revenue restated on a hindsight basis using cash collected on each month's claims; the Company reports on a cash
+basis.
+I
+(4) Removal of non-recurring legal fees, a one-time LIS migration cost and personal expenses run through the business.
+I
+(5) Occupancy normalised to the current lease rate, reversing a rent holiday and property-tax true-ups.
+I
+(6) Supply cost per accession normalised for bulk reagent purchases straddling period ends.
+I
+(7) Insurance premiums accrued evenly across the policy year.
+I
+(8) Equipment leases treated consistently as operating expense across periods.
+I
+(9) Sales representative expense restated to the go-forward commission plan; a vendor overpayment on marketing services
+removed.
+I
+(10) Credentialing, licensing and software subscriptions allocated to the periods they cover.
+I
+(11) Payroll restated to the payroll registers to correct account misallocations.
+I
+(12) Contracted pathologist compensation normalised to executed agreements.
+I
+(13) Accrued payroll converted from cash to accrual basis.
+I
+(14) Accounts payable converted from cash to accrual basis.
+I
+(15) Outsourced reference-laboratory fees normalised to the post-relocation utilisation rate.
+(1) Adjustments per the QoE report prepared by QoE Advisor (independent accounting firm) covering Jan-24 to Aug-26; cash-basis reporting.  Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+
+[FIGURE auto-augmented from PDF page 36, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: LTM Aug-26 bridge from reported to adjusted EBITDA ($ in thousands)
+description: |
+  Waterfall-style bridge chart with five bars showing the walk from reported to adjusted LTM Aug-26 EBITDA:
+  - Reported: 2,849
+  - Mgmt adj.: +196 (green, incremental)
+  - Diligence adj.: +31 (green, incremental)
+  - Pro forma adj.: -40 (red, incremental)
+  - Adjusted: 3,036
+  Y-axis gridlines at 0, 1,000, 2,000, 3,000. Reported and Adjusted bars shown as full navy columns; incremental steps shown as floating bars at the top of the stack.
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 37]
+Balance Sheet - Reported
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   37
+Financial Overview & Growth Opportunities
+$ in thousands
+Dec-24
+Dec-25
+Nov-26
+Assets
+Current assets
+Cash & equivalents
+1,412.4
+1,687.9
+1,954.2
+Inventories
+318.2
+341.6
+362.9
+Other current assets
+96.3
+104.8
+118.1
+Due from affiliates
+42.0
+38.5
+35.0
+Total current assets
+1,868.9
+2,172.8
+2,470.2
+Fixed assets
+Leasehold improvements
+1,860.4
+1,912.7
+1,988.3
+Furniture & fixtures
+214.1
+226.5
+231.8
+Equipment
+2,406.9
+2,571.3
+2,689.6
+Accumulated depreciation
+(2,918.6)
+(3,180.1)
+(3,352.5)
+Net fixed assets
+1,562.8
+1,530.4
+1,557.2
+Other assets
+Security deposits
+58.0
+58.0
+61.2
+Total other assets
+58.0
+58.0
+61.2
+Total assets
+3,489.7
+3,761.2
+4,088.6
+Liabilities and members' equity
+Current liabilities
+Accrued salaries & benefits
+286.4
+301.2
+322.6
+Current portion of long-term debt
+118.0
+112.0
+104.0
+Credit cards
+41.7
+37.2
+44.9
+Total current liabilities
+446.1
+450.4
+471.5
+Long-term debt, net of current portion
+402.5
+290.5
+196.4
+Total liabilities
+848.6
+740.9
+667.9
+Equity
+Retained earnings
+2,157.1
+2,551.3
+2,886.2
+Members' distributions
+(1,980.0)
+(2,310.0)
+(2,450.0)
+Net income
+2,214.0
+2,529.0
+2,734.5
+Members' equity
+250.0
+250.0
+250.0
+Total equity
+2,641.1
+3,020.3
+3,420.7
+Total liabilities and members' equity
+3,489.7
+3,761.2
+4,088.6
+Notes to the reported balance sheet
+I Cash-basis, unaudited balance sheets as reported by management at 31 December 2024,
+31 December 2025 and 30 November 2026; receivables are not recorded under the cash
+basis and are addressed in the QoE net working capital analysis.
+I The Company carries only 300.4 thousand of equipment-related term debt at November
+2026, with 2026E interest expense of $35K; the business is expected to be delivered
+cash-free, debt-free.
+I Members' equity reflects the LLC structure: net income of 2,734.5 thousand for the eleven
+months to November 2026 (after $172K of depreciation) and distributions of 2,450.0
+thousand.
+I Leasehold improvements and equipment are stated at cost; the second-floor build-out and
+adjacent space are not yet capitalised.
+(1) Unaudited, cash basis. Totals may not sum due to rounding.  Source: Company management.
+
+[FIGURE auto-augmented from PDF page 37, source: claude-opus-4-7]
+<figures>
+<figure>
+type: table
+title: Balance Sheet - Reported
+description: |
+  $ in thousands | Dec-24 | Dec-25 | Nov-26
+  Assets | | |
+  Current assets | | |
+  Cash & equivalents | 1,412.4 | 1,687.9 | 1,954.2
+  Inventories | 318.2 | 341.6 | 362.9
+  Other current assets | 96.3 | 104.8 | 118.1
+  Due from affiliates | 42.0 | 38.5 | 35.0
+  Total current assets | 1,868.9 | 2,172.8 | 2,470.2
+  Fixed assets | | |
+  Leasehold improvements | 1,860.4 | 1,912.7 | 1,988.3
+  Furniture & fixtures | 214.1 | 226.5 | 231.8
+  Equipment | 2,406.9 | 2,571.3 | 2,689.6
+  Accumulated depreciation | (2,918.6) | (3,180.1) | (3,352.5)
+  Net fixed assets | 1,562.8 | 1,530.4 | 1,557.2
+  Other assets | | |
+  Security deposits | 58.0 | 58.0 | 61.2
+  Total other assets | 58.0 | 58.0 | 61.2
+  Total assets | 3,489.7 | 3,761.2 | 4,088.6
+  Liabilities and members' equity | | |
+  Current liabilities | | |
+  Accrued salaries & benefits | 286.4 | 301.2 | 322.6
+  Current portion of long-term debt | 118.0 | 112.0 | 104.0
+  Credit cards | 41.7 | 37.2 | 44.9
+  Total current liabilities | 446.1 | 450.4 | 471.5
+  Long-term debt, net of current portion | 402.5 | 290.5 | 196.4
+  Total liabilities | 848.6 | 740.9 | 667.9
+  Equity | | |
+  Retained earnings | 2,157.1 | 2,551.3 | 2,886.2
+  Members' distributions | (1,980.0) | (2,310.0) | (2,450.0)
+  Net income | 2,214.0 | 2,529.0 | 2,734.5
+  Members' equity | 250.0 | 250.0 | 250.0
+  Total equity | 2,641.1 | 3,020.3 | 3,420.7
+  Total liabilities and members' equity | 3,489.7 | 3,761.2 | 4,088.6
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 38]
+Key Takeaways
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   38
+Appendix
+Diversified testing portfolio
+Four service lines and 410 tests across routine, molecular, pathology and toxicology, serving five client types with no client above 8.2% of revenue.
+Scalable infrastructure
+73% single-shift utilisation, a pre-approved build-out and automation that let capacity double within the existing lease.
+Strong reimbursement visibility
+In-network with government programmes and seven commercial payers; collection rate stable at 42.5% of gross charges; net revenue per accession of $147.38 in 2026E.
+Experienced leadership and staff
+Six leaders averaging 13 years of tenure, 41 laboratory professionals and a planned Medical Director transition.
+Platform positioned for growth
+$15.0M of 2026E revenue and $3.2M of adjusted EBITDA growing to $18.9M and $4.5M by 2028E on contracted and funded initiatives, with geographic expansion as further upside.
+IMAGE REDACTED
+Company logo band
+
+[PAGE 39]
+Transaction Overview, Process and Contacts
+Falkmere Advisory has been engaged as exclusive financial advisor for the sale of 100% of the membership interests of the Company
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   39
+Appendix
+I The members of Orivane Clinical Laboratories, LLC are seeking a partner to acquire 100% of the membership interests; the Founder is open to a meaningful equity rollover and a multi-year transition. The Company is to be
+delivered cash-free and debt-free with a normalised level of net working capital to be agreed in definitive documentation.
+I A two-stage process: indicative, non-binding offers based on this Memorandum, followed by management presentations, data-room access and the QoE report (through Aug-26) for a limited number of parties. Indicative
+offers should state enterprise value, the basis of valuation, financing sources, key assumptions, diligence requirements, approvals and timing to signing.
+I All communications must be directed to Falkmere Advisory; under no circumstances should the Company, its employees, clients, payers or suppliers be contacted directly.
+Dec-26
+Week of 25 Jan-27
+Feb-27
+Mid Mar-27
+Apr-27
+Q2-27
+G
+G
+G
+G
+G
+G
+CIM distributed
+Indicative offers due
+Management presentations, data
+room, site visits
+Final binding offers with marked-up
+purchase agreement
+Exclusivity, confirmatory diligence,
+signing
+Closing (subject to licence and payer
+notifications)
+Falkmere Advisory - contacts (Headquarters, State D; www.falkmere.example)
+Jonathan Falkmere
+Managing Director
++1 (555) 010-0101
+jonathan.falkmere@falkmere.example
+Elena Vasquez-Reid
+Director
++1 (555) 010-0114
+elena.vasquez-reid@falkmere.example
+Tobias Grant
+Vice President
++1 (555) 010-0127
+tobias.grant@falkmere.example
+Hannah Okoro
+Associate
++1 (555) 010-0139
+hannah.okoro@falkmere.example
+Source: Falkmere Advisory.
+
+[PAGE 40]
+Appendix - Quality of Earnings Summary and Glossary
+Falkmere Advisory
+STRICTLY PRIVATE & CONFIDENTIAL
+Project Larkspur   |   40
+Appendix
+Quality of Earnings summary
+$ in thousands
+2024A
+2025A
+YTD Aug-26
+LTM Aug-26
+Net operating revenue ($M)
+$12.7M
+$13.8M
+$9.8M
+$14.6M
+EBITDA, reported
+2,325.5
+2,604.3
+1,925.0
+2,848.7
+Total adjustments (15 items)
+150.0
+196.4
+105.7
+186.9
+Total adjusted EBITDA
+2,475.5
+2,800.7
+2,030.7
+3,035.6
+Adjusted EBITDA margin
+19.5%
+20.4%
+20.8%
+20.9%
+I Scope: 32 months (Jan-24 to Aug-26) of cash-basis financial statements, payroll registers, bank statements,
+the general ledger and payer remittances, prepared by QoE Advisor, an independent accounting firm.
+I Key findings: revenue substantiated to remittances and hindsight collections; adjustments principally relate to
+owner compensation, cash-to-accrual timing and non-recurring costs; no adverse trends in reimbursement or
+denials were identified.
+I Net working capital: a normalised level will be proposed based on the accrual-basis analysis and agreed in
+definitive documentation.
+Glossary
+Term
+Definition
+Accession
+A specimen or set of specimens received and logged from one patient encounter; the
+Company's unit of volume.
+Net revenue per accession
+Net operating revenue divided by accessions; the blended reimbursement realised per
+encounter.
+Gross charges / collection rate
+Billed charges at list price; collection rate is net operating revenue as a percentage of gross
+charges.
+Procedure code
+Billing code under which each test is billed to payers.
+LIS / EMR
+Laboratory information system; electronic medical record used by clients.
+PSC
+Patient service centre: a company-staffed draw site.
+TAT
+Turnaround time from specimen receipt to result release.
+IPA
+Independent physician association contracting on behalf of member practices.
+QoE
+Quality of Earnings report prepared by an independent accounting advisor.
+A / E / P
+Actual / estimate / projection; LTM = last twelve months; YTD = year to date.
+Source: Company management; QoE report (QoE Advisor) through Aug-26; Falkmere analysis.
+

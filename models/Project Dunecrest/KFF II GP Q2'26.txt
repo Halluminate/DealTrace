@@ -1,0 +1,2243 @@
+[CIM: KFF II GP Q2'26.pdf]
+[Deal: Project Dunecrest]
+[Augmentation: vision-augmented via opus by augment_cims.py]
+
+[PAGE 1]
+Kessport Frontier Fund II
+Quarterly Report - Q2 2026 (period ended 30 June 2026)
+Report of the Manager - issued 29 August 2026
+Kessport Frontier Managers Limited - General Partner
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Managers Limited  |  www.kessportfrontier.example
+IMAGE REDACTED - Kessport Frontier Managers corporate logo
+For the period ended 30 June 2026
+
+[PAGE 2]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 2
+Table of Contents
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+Fund Overview
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Letter to Limited Partners
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Portfolio Update
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Partnership Term
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Significant Developments
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Administrative Updates
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+Fund Status
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 6
+Fund Synopsis
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Value Progression
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+TVPI Curve
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+IRR (USD '000)
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Fees and Carried Interest
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Fund Portfolio Information
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+Movement in Carrying Value for the Quarter
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 10
+Exits
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+Investment Portfolio Information
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+Valuation Summary
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+ESG and Impact
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+Country Update
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+Expected Exit Pathway
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
+Proposed Continuation-Fund Transaction
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+Portfolio Reporting - Arvenna Health Group
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 20
+Portfolio Reporting - Tallowick Consumer Products
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24
+Capital Account Summary and Fees
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25
+Key Events, Subsequent Events and Risk Factors
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26
+Notes to the Report
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+Disclaimer
+
+[PAGE 3]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 3
+Fund Overview
+The table below summarises the key terms of Kessport Frontier Fund II (the "Fund") as at 30 June 2026.
+Capitalised terms have the meanings given to them in the limited partnership agreements of the three
+parallel vehicles (the "LPA").
+Fund name
+Kessport Frontier Fund II (three parallel limited partnerships, together the "Fund")
+Total commitments (1)
+US$185.0 million, of which Kessport Frontier Fund II L.P. US$121.6M, Kessport
+Frontier Fund II-A L.P. US$41.3M and Kessport Frontier Fund II-B (DFI) L.P.
+US$22.1M
+First close date
+14 September 2017
+Final close date
+21 June 2018
+Vintage (year of first investment)
+2017 (first investment completed 8 December 2017)
+Fund term
+Ten years from the first close (14 September 2027), extendable by up to two
+one-year periods with the consent of the Limited Partner Advisory Committee; on 3
+June 2025 the Committee approved the Manager's liquidation plan for the
+remaining portfolio and indicated its support for both extension periods, which will
+be formally requested in 2027 if required
+Investment period
+Five years from the first close; ended 14 September 2022
+Legal form / domicile
+Limited partnerships registered in Jurisdiction D; the Fund is not a legal entity and
+acts through its General Partner
+Structure
+General Partner: Kessport Frontier Fund II GP Limited; Manager: Kessport
+Frontier Managers Limited, which acts for and on behalf of the General Partner
+under the management agreement and issues this report in that capacity;
+Investment Advisor: Kessport Frontier Advisory (Country A) Limited; Administrator:
+Administrator 1 (Jurisdiction D)
+Investment strategy
+Focus: growth capital, significant-minority and majority positions in mid-sized
+private companies; Geography: Country A, Country B and neighbouring markets in
+the same region; Sectors: healthcare, education, consumer staples, logistics and
+agri-value chains
+Financial year end
+31 December (audited financial statements issued within 120 days; quarterly
+reports within 60 days of quarter end)
+(1) Total commitments were reduced from US$205.0 million to US$185.0 million following the cancellation of US$20.0 million of undrawn
+commitments approved by the Limited Partner Advisory Committee in November 2022, at the end of the investment period.
+
+[PAGE 4]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 4
+Letter to Limited Partners
+Dear Limited Partners, we are pleased to present the report of the Manager for the quarter ended 30 June
+2026. As at the reporting date the Fund had drawn 92.0% of total commitments, or US$170.2M (after the
+cancellation of US$20.0M of undrawn commitments in November 2022, total commitments stand at
+US$185.0M). The Fund holds two remaining investments, Arvenna Health Group in Country A and
+Tallowick Consumer Products in Country B, having fully realised or written off its four other investments.
+Cumulative distributions to Limited Partners amount to US$68.0M, or 0.40x paid-in capital (1); the residual
+value of the Fund is US$167.3M, or 0.98x paid-in capital, giving a total value to paid-in capital (TVPI) of
+1.38x and a net IRR since inception of 6.6%. All valuations in this report are prepared in accordance with
+the Fund's Valuation Policy (see the notes to the report) and have been reviewed by the Fund's Investment
+Committee.
+The net asset value of the Fund increased by US$5.7M during the quarter, from US$161.6M at 31 March
+2026 to US$167.3M at 30 June 2026. The movement reflects an unrealised gain of US$5.2M on the two
+remaining investments, driven by growth in last-twelve-months EBITDA at both companies with valuation
+multiples unchanged, investment income and escrow accretion of US$1.0M, and fund expenses (including
+the General Partner share) of US$0.5M. No capital was drawn and no distributions were made during the
+quarter.
+Portfolio Update
+The remaining portfolio is defensive in nature, comprising a private hospital group and a branded
+consumer-staples manufacturer that together represent US$153.9M of carrying value (92.0% of NAV).
+Both companies delivered double-digit EBITDA growth in local currency over the last twelve months and
+both are cash generative. The chart below shows the split of unrealised value by company; because each
+company is the Fund's only holding in its sector and its country, the split by sector (healthcare / consumer
+staples) and by country (Country A / Country B) is identical.
+I Healthcare sector - Country A - Arvenna Health Group ("AHG"). Revenue for the first half of 2026 reached
+US$30.3M (LCA 128.8M), 13.8% above the first half of 2025 and 98.5% of budget; on a last-twelve-months basis
+to June 2026 revenue was US$58.6M against US$51.7M a year earlier. EBITDA for the half year was US$7.1M,
+with the EBITDA margin broadly stable at 23.5% (23.6% in the prior-year period), reflecting higher occupancy
+across the four hospitals (70.5% average versus 69.3% in 2025), growth in inpatient admissions of 1.5% to
+c.18,818 for the half year and continued ramp-up of the radiotherapy unit at AHG North. Net debt stood at
+
+[FIGURE auto-augmented from PDF page 4, source: claude-opus-4-7]
+<figures>
+<figure>
+type: pie chart
+title: "Unrealised value by company - Q2'26"
+description: |
+  Pie chart showing split of unrealised value between two portfolio companies:
+  - AHG - Healthcare - Country A: 32%
+  - Tallowick - Consumer staples - Country B: 68%
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 5]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 5
+US$22.5M at 30 June 2026 (1.6x LTM EBITDA). The Fund's stake is the subject of the proposed
+continuation-fund transaction described below; the earlier advisor-run sale process, which attracted interest from
+two regional hospital groups, did not produce an offer at or above carrying value.
+– Management continues to execute the specialist-recruitment programme (11 senior physicians joined in the half year
+across oncology, cardiology, orthopaedics and IVF), the second-phase oncology expansion at AHG North and the digital
+patient-relationship platform rolled out at AHG Central and AHG Coast in April 2026.
+I Consumer sector - Country B - Tallowick Consumer Products ("Tallowick"). Revenue for the first half of 2026
+was US$68.9M (LCB 5.51 billion), 7.3% above the prior-year period and 98.5% of budget, driven by volume
+growth in the Dunya and Zeyla ranges and price/mix in household care. The gross margin improved to 38.6%
+from 36.2%, as lower resin and edible-oil costs and the localisation of packaging supply offset trade-promotion
+investment. EBITDA of US$10.9M for the half year represents a 15.8% margin (13.7% in the first half of 2025).
+– The balance sheet moved from net cash of US$1.0M at 30 June 2025 to net cash of US$3.2M at 30 June 2026, and the
+board has approved a dividend of LCB 428M (c.US$5.3M) payable in September 2026, of which the Fund's share is
+c.US$4.0M.
+Partnership Term
+The Fund's initial ten-year term runs to 14 September 2027 and may be extended by up to two one-year
+periods with the consent of the Limited Partner Advisory Committee, to 14 September 2029 at the latest. In
+June 2025 the Committee approved the Manager's liquidation plan for the remaining portfolio and
+indicated its support for both extension periods should they be needed; the Manager will make the formal
+request in 2027 only if the remaining investments have not been realised by then. The Manager does not
+intend to seek any extension beyond 2029 and expects to complete the liquidation of the Fund well ahead
+of that date, subject to the outcome of the continuation-fund process described below.
+Significant Developments
+On 28 July 2026, after quarter end, the Manager gave formal notice to Limited Partners of the proposed
+sale of the Fund's stakes in Arvenna Health Group and Tallowick Consumer Products to the Dunecrest
+Continuation Fund, a vehicle to be managed by the Manager alongside Kessport Frontier Fund III and two
+development-finance co-investors, and circulated the draft key terms; the transaction teaser ("Project
+Dunecrest - Transaction Teaser") and the data room, including the transaction model, are expected to
+follow in September 2026. The proposed purchase price of US$143.6M represents 93.3% of the 30 June
+2026 carrying value of the two stakes (94% for AHG and 93% for Tallowick), with a targeted closing on 31
+December 2026. Limited Partners will be offered the election to sell for cash or to roll into the continuation
+vehicle; LPAC conflict clearance has been sought and an independent fairness opinion commissioned.
+Further detail is set out in the section "Proposed Continuation-Fund Transaction".
+Administrative Updates
+The Fund's audited financial statements for the year ended 31 December 2025 were issued on 24 April
+2026 with an unqualified opinion. The annual general meeting of Limited Partners was held virtually on 9
+June 2026. The escrow of US$2.05M retained from the 2023 sale of Company 4 was released in full on 17
+July 2026 and will be distributed together with the Tallowick dividend in the fourth quarter. The Manager
+will not draw further capital other than to meet fund expenses, and the remaining undrawn commitment of
+US$14.8M is expected to be cancelled in part at the liquidation of the Fund.
+We thank you for your continued support and remain available to discuss any aspect of this report. Yours
+faithfully, Kessport Frontier Managers Limited, Manager.
+(1) Paid-in capital is the cash actually drawn from Limited Partners through 30 June 2026 (capital calls 1 to 15); no recallable distributions
+have been made.
+
+[PAGE 6]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 6
+Fund Status
+The Fund Administrator is Administrator 1 (Jurisdiction D), which maintains the books and records of the
+three parallel vehicles, calculates capital account balances and processes capital calls and distributions.
+The figures below are unaudited and are presented in US dollars, the reporting currency of the Fund.
+Fund Synopsis
+Line item (US$ million)
+Ref
+30 Jun 2026
+% committed
+31 Mar 2026
+% committed
+Committed capital
+A
+185.0
+100.0%
+185.0
+100.0%
+Paid-in capital: from initial commitment
+B
+170.2
+92.0%
+170.2
+92.0%
+Paid-in capital: from recallable distributions
+0.0
+0.0%
+0.0
+0.0%
+Total paid-in capital
+170.2
+92.0%
+170.2
+92.0%
+Distributions (net of carried interest): non-recallable
+C
+68.0
+36.8%
+68.0
+36.8%
+Total distributions
+68.0
+36.8%
+68.0
+36.8%
+Available for drawdown
+A - B
+14.8
+8.0%
+14.8
+8.0%
+Net asset value: carrying value of portfolio
+153.91
+83.2%
+148.74
+80.4%
+Net current assets (1)
+13.35
+7.2%
+12.84
+6.9%
+Total net asset value
+167.25
+90.4%
+161.58
+87.3%
+Residual value (2)
+D
+167.25
+90.4%
+161.58
+87.3%
+Distributions to paid-in capital (DPI)
+C / B
+0.40x
+0.40x
+Residual value to paid-in capital (RVPI)
+D / B
+0.98x
+0.95x
+Total value to paid-in capital (TVPI)
+(C + D) / B
+1.38x
+1.35x
+Paid-in capital to committed capital (PIC)
+B / A
+0.92x
+0.92x
+(1) Net current assets at 30 June 2026 comprise cash and cash equivalents of US$12.94M, the Company 4 escrow receivable of US$2.05M
+and other receivables of US$0.12M, less accrued liabilities and payables of US$0.89M and an inter-vehicle balance of US$0.87M. (2)
+Residual value is net asset value less implied carried interest; no carried interest is implied at 30 June 2026 because the preferred return
+under the LPA has not been met. (3) The unrealised gain for the quarter of US$5.2M includes an audit-driven adjustment of US$0.14M to the
+31 December 2025 net debt of Arvenna Health Group.
+
+[PAGE 7]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 7
+Value Progression
+The following chart depicts the Fund's value progression since inception (amounts in US$ million). It
+reconciles total capital drawn from Limited Partners to the total value created for them, being cumulative
+distributions plus the residual value at the reporting date.
+Operating costs of US$32.9M since inception include the General Partner share, establishment costs, fund
+administration, audit, legal and other professional charges, carried interest (nil) and other net expenses.
+Realised losses of US$14.8M reflect the write-down of Company 5 and the write-off of Company 6, partly
+offset by the gains on Company 3 and Company 4. "Other net" comprises drawdowns retained as working
+capital and other net movements.
+TVPI Curve
+The chart below shows the evolution of total value to paid-in capital (TVPI) at each half-year end since the
+first close, expressed as a percentage of paid-in capital (100% = 1.00x). TVPI fell below 1.0x during 2020
+and 2021, reflecting the impairment of Company 5 and Company 6, and has recovered steadily since as
+the value of the two remaining investments compounded; it stood at 1.38x at 30 June 2026.
+
+[FIGURE auto-augmented from PDF page 7, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: untitled (Value Progression waterfall)
+description: |
+  Waterfall chart in US$ million reconciling drawdowns to total value:
+  - Drawdowns: $170.2
+  - Realised gains/(losses): $-14.8
+  - Interest and dividend income: $19.8
+  - Unrealised gains: $94.6
+  - Operating costs: $-32.9
+  - Other net: $-1.6
+  - Total value: $235.3
+</figure>
+<figure>
+type: line chart
+title: TVPI by half-year since inception
+description: |
+  Line chart showing TVPI (% of paid-in capital, 100% = 1.00x) at each half-year end from H2'17 to H1'26. Approximate readings from the chart:
+  - H2'17: ~96%
+  - H1'18: ~95%
+  - H2'18: ~97%
+  - H1'19: ~102%
+  - H2'19: ~112%
+  - H1'20: ~103%
+  - H2'20: ~99%
+  - H1'21: ~101%
+  - H2'21: ~106%
+  - H1'22: ~109%
+  - H2'22: ~108%
+  - H1'23: ~114%
+  - H2'23: ~120%
+  - H1'24: ~123%
+  - H2'24: ~127%
+  - H1'25: ~129%
+  - H2'25: ~133%
+  - H1'26: 138% (stated as 1.38x at 30 June 2026 in text)
+  Y-axis ranges from 0% to 160%. TVPI dipped below 100% during H1'20–H2'21 period reflecting impairments.
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 8]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 8
+IRR (USD '000)
+The table sets out the Limited Partner cash flows of the Fund since inception, on which the net IRR is
+computed, together with the residual value at the reporting date.
+Month
+Capital drawdown (1)
+Distributions to Limited
+Partners (2)
+Residual value (3)
+Total
+Sep-17
+(4,600)
+(4,600)
+Dec-17
+(27,400)
+(27,400)
+Jun-18
+(2,200)
+(2,200)
+Nov-18
+(24,900)
+(24,900)
+Apr-19
+(22,000)
+(22,000)
+Nov-19
+(28,700)
+(28,700)
+Dec-19
+36,200
+36,200
+Mar-20
+(14,700)
+(14,700)
+Oct-20
+(2,600)
+(2,600)
+Jul-21
+(25,300)
+(25,300)
+Dec-21
+(2,600)
+(2,600)
+Jun-22
+(4,400)
+(4,400)
+Dec-22
+(1,000)
+(1,000)
+Dec-22
+5,400
+5,400
+Jun-23
+(2,800)
+(2,800)
+Oct-23
+21,600
+21,600
+Mar-24
+(3,200)
+(3,200)
+Jun-24
+2,700
+2,700
+Apr-25
+(3,800)
+(3,800)
+Dec-25
+2,100
+2,100
+Jun-26
+167,254
+167,254
+Total
+(170,200)
+68,000
+167,254
+65,054
+Net IRR (4)
+6.6%
+Gross IRR (5)
+11.8%
+(1) Drawdowns are shown against the month in which they fell due; each drawdown funded the investment or expenses of that month from
+cash on hand (the Fund has held a positive cash balance throughout its life), and no subscription credit facility has been used by the Fund. (2)
+Distributions are shown against the month of payment. (3) Residual value is the net asset value at 30 June 2026 less implied carried interest
+(nil). (4) Net IRR since inception, computed as the annualised internal rate of return (XIRR, actual dates) of the Limited Partner cash flows in
+this table, treating the residual value as a terminal inflow on 30 June 2026; this is the net IRR reported at fund level throughout this report. The
+net IRR is low relative to the gross IRR because the two loss-making realisations and the fund expenses of US$32.9M were funded from
+drawdowns while the value of the two remaining investments is still unrealised. (5) Gross IRR of the investment portfolio, computed on
+investment-level cash flows (cost, exit proceeds, income and carrying value) before fees, expenses and carried interest: 11.8%; gross MoC
+1.70x.
+
+[PAGE 9]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 9
+Fees and Carried Interest
+Amount in US$ million
+Current reporting period
+Since inception
+Fees: General Partner share (1)
+0.22
+26.40
+Organisational costs (2)
+0.00
+1.30
+Carried interest: carried interest paid (3)
+0.00
+0.00
+Implied carried interest (3)
+0.00
+0.00
+Clawback payable (4)
+0.00
+0.00
+(1) The General Partner share was charged at 2.0% per annum of total commitments during the investment period and, since 14 September
+2022 (the reduction date), at 1.5% per annum of net utilised capital, being the acquisition cost of investments not yet realised or written off
+(LPA clause 8.2); the current-period charge is based on net utilised capital of US$59.3M. (2) Establishment costs were capped at 0.75% of
+total commitments (LPA clause 8.5). (3) Carried interest is determined in accordance with LPA clause 12 (20% above an 8% compound
+preferred return with full catch-up); no carried interest is payable or implied at the reporting date. (4) Clawback per LPA clause 12.6; not
+applicable.
+Fund Portfolio Information
+The schedule below lists every investment made by the Fund since inception, grouped into realised and
+unrealised portfolios. Amounts are in US$ million. No investment was made or exited during the quarter;
+the escrow relating to Company 4 was released after quarter end (see subsequent events).
+Partner company
+Entry
+Exit
+Country
+Sector
+Stake
+Invested
+capital (3)
+Carrying
+value
+Net exit
+proceeds
+Realised
+gain /
+(loss)
+Income
+(1)
+MoC
+Gross
+IRR (2)
+Realised portfolio
+Company 3 (exited
+2019)
+Dec-17
+Nov-19
+Country A
+Logistics
+35.0%
+26.0
+-
+37.7
+11.7
+0.4
+1.47x
+22.0%
+Company 4 (exited
+2023)
+Nov-18
+Sep-23
+Country B
+Agriculture
+42.5%
+22.5
+-
+23.6
+1.1
+0.7
+1.08x
+1.6%
+Company 5 (exited
+2022)
+Apr-19
+Dec-22
+Country A
+Packaging
+30.0%
+20.4
+-
+6.1
+(14.3)
+0.2
+0.31x
+-27.6%
+Company 6 (written off
+2024)
+Mar-20
+Apr-24
+Country B
+Retail
+48.0%
+14.0
+-
+0.7
+(13.3)
+0.0
+0.05x
+-51.6%
+Total realised
+82.9
+-
+68.1
+(14.8)
+1.3
+0.84x
+Unrealised portfolio
+(unquoted)
+Arvenna Health Group
+(4)
+Jul-21
+-
+Country A
+Healthcare
+58.0%
+31.42
+48.96
+-
+-
+2.20
+1.63x
+11.2%
+Tallowick Consumer
+Products (5)
+Nov-19
+-
+Country B
+Consumer
+74.0%
+27.86
+104.95
+-
+-
+16.27
+4.35x
+28.8%
+Total unrealised
+59.28
+153.91
+-
+-
+18.47
+2.91x
+Grand total
+142.18
+153.91
+68.1
+(14.8)
+19.77
+1.70x
+11.8%
+(1) Income includes fund-level interest and dividends received from the partner company. (2) Gross IRR at the investment level, before fund
+fees, expenses and carried interest. (3) Invested capital is the acquisition cost including capitalised transaction costs; transaction costs of the
+holding SPVs are expensed at SPV level. (4) Arvenna Health Group comprises AHG Central, AHG Coast, AHG North (including the oncology
+and radiotherapy unit), AHG Park and AHG Diagnostics; the invested capital includes two follow-on investments (June 2022 and June 2023).
+(5) Tallowick Consumer Products comprises the parent company and its three manufacturing subsidiaries in Country B. Stake reflects the
+Fund's effective economic ownership at the reporting date.
+
+[PAGE 10]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 10
+Movement in Carrying Value for the Quarter
+(Amount in US$ million.) The bridge below reconciles the carrying value of the portfolio at 31 March 2026
+to the carrying value at 30 June 2026.
+The change in carrying value of US$5.2M comprises an increase of US$1.8M in the carrying value of
+Arvenna Health Group and an increase of US$3.4M in the carrying value of Tallowick Consumer Products.
+In both cases the valuation multiple was held constant and the movement is explained by growth in
+last-twelve-months EBITDA, net-debt reduction and currency translation, as detailed in the valuation
+sections of the respective portfolio reports.
+Exits
+No exit was completed during the quarter. The Fund's last realisation was the sale in April 2024 of the
+residual assets of Company 6 for net proceeds of US$0.7M. After quarter end, on 17 July 2026, the
+escrow agent released the US$2.05M retained from the September 2023 sale of Company 4 to a strategic
+buyer, following the expiry of the warranty period without claims; the funds have been received in the
+Fund's US-dollar account in Jurisdiction D and will be distributed in the fourth quarter of 2026 together with
+the Tallowick dividend. The exit of the two remaining investments is expected to be achieved through the
+proposed continuation-fund transaction described later in this report, with a targeted closing on 31
+December 2026.
+
+[FIGURE auto-augmented from PDF page 10, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: Movement in Carrying Value for the Quarter
+description: |
+  Waterfall/bridge chart showing movement in portfolio carrying value from 31 March 2026 to 30 June 2026, in US$ million:
+  - Carrying value 31 Mar 2026: $148.7
+  - Invested: $0.0
+  - Realised gain/(loss): $0.0
+  - Change in carrying value: $5.2 (positive, shown in green)
+  - Exited: $0.0
+  - Carrying value 30 Jun 2026: $153.9
+  Y-axis scale ranges from $0.0 to $140.0 in increments of $20.0.
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 11]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 11
+Investment Portfolio Information
+Valuation Summary
+The remaining portfolio comprises two investments valued in accordance with the Valuation Policy and
+reviewed by the Investment Committee on 21 July 2026. Both investments are valued on a market
+approach using a multiple of last-twelve-months EBITDA to June 2026, cross-checked against the pricing
+indicated for the proposed continuation-fund transaction. The exit-scenario columns show the value of
+each stake at the proposed transaction price (Exit NAV) and the resulting exit multiple of cost including
+income received. All figures are in US$ million.
+Company
+Cost
+Q1'26
+total
+Q2'26
+realised
+Q2'26
+unrealised
+Q2'26
+total
+MoC
+IRR
+Change
+on Q1
+Exit NAV
+Total exit
+value
+Target
+exit MoC
+Company 3 (exited 2019)
+26.0
+38.1
+38.1
+-
+38.1
+1.47x
+22.0%
+-
+-
+38.1
+1.47x
+Company 4 (exited 2023)
+22.5
+24.3
+24.3
+-
+24.3
+1.08x
+1.6%
+-
+-
+24.3
+1.08x
+Company 5 (exited 2022)
+20.4
+6.3
+6.3
+-
+6.3
+0.31x
+-27.6%
+-
+-
+6.3
+0.31x
+Company 6 (written off 2024)
+14.0
+0.7
+0.7
+-
+0.7
+0.05x
+-51.6%
+-
+-
+0.7
+0.05x
+Total realised
+82.9
+69.4
+69.4
+-
+69.4
+0.84x
+-
+-
+69.4
+0.84x
+Arvenna Health Group (2)
+31.42
+49.37
+2.20
+48.96
+51.15
+1.63x
+11.2%
+1.79
+46.02
+48.22
+1.53x
+Tallowick Consumer Products
+(3)
+27.86
+117.84
+16.27
+104.95
+121.22
+4.35x
+28.8%
+3.38
+97.61
+113.87
+4.09x
+Total
+142.18
+236.61
+87.87
+153.91
+241.77
+1.70x
+11.8%
+5.17
+143.62
+231.49
+1.63x
+Unrealised NAV, pro-forma for the proposed continuation-fund transaction
+At the proposed transaction price the Fund would realise US$143.6M for the two stakes, a discount of
+US$10.3M (6.7%) to the 30 June 2026 carrying value. Pro-forma for the transaction and before transaction
+costs, cumulative distributions would rise to US$211.6M, or 1.24x paid-in capital, and the residual value
+would be limited to net current assets.
+(1) Realised companies are shown at total net proceeds including income; IRRs are investment-level gross IRRs. (2) Arvenna Health Group is
+valued at 8.0x LTM June 2026 EBITDA of US$13.8M (audited FY2025 less H1 2025 plus H1 2026; enterprise value US$110.4M), less gross
+debt of US$23.6M and minority interests of US$4.4M, plus cash of US$2.6M and other adjustments of US$(0.6)M, giving an equity value of
+US$84.4M for 100% and US$49.0M for the Fund's 58.0%. Debt, cash and minority interests are the pro-forma 31 December 2026 balances of
+the transaction model (the basis of the Exit NAV pricing) rather than the 30 June 2026 management-accounts balances shown in the business
+report (net debt US$22.5M); valuing on the June balances would reduce the equity value by c.US$1.5M (c.US$0.9M for the Fund), which the
+Manager considers immaterial. (3) Tallowick Consumer Products is valued at 7.0x LTM June 2026 EBITDA of US$20.2M (same basis;
+enterprise value US$141.5M), less gross debt of US$3.6M, corporate income tax payable on a sale of US$2.15M and dividends declared but
+unpaid at the pro-forma date of US$1.5M (LCB 118M), plus cash of US$7.6M, giving an equity value of US$141.8M for 100% and US$105.0M
+for the Fund's 74.0%; debt and cash are likewise the model's pro-forma year-end 2026 balances, which are stated after payment of the LCB
+428M (US$5.3M) dividend approved for September 2026 (June 2026 net cash per management accounts US$3.2M, which would reduce the
+equity value by c.US$0.8M). Exit NAV reflects NAV pricing of 94% (AHG) and 93% (Tallowick).
+
+[FIGURE auto-augmented from PDF page 11, source: claude-opus-4-7]
+<figures>
+<figure>
+type: pie chart
+title: "Exit NAV by company (US$m)"
+description: |
+  Pie chart showing the split of Exit NAV between the two unrealised portfolio companies:
+  - AHG (Arvenna Health Group) - Healthcare - Country A: 32% (darker slice)
+  - Tallowick - Consumer staples - Country B: 68% (lighter slice)
+  Note: percentages are rounded as displayed on the chart; corresponding Exit NAV values from the table are AHG US$46.02M and Tallowick US$97.61M.
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 12]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 12
+ESG and Impact
+The Fund issued its annual ESG and Impact Report for the financial year 2025 to Limited Partners on 29
+May 2026. The report is prepared in line with the Fund's ESG management system agreed with its
+development-finance Limited Partners and covers both remaining portfolio companies. The headline
+impact numbers for 2025 compared with 2024 are summarised below; the full report, including the
+environmental and social action plans of each company, is available on the Limited Partner portal.
+2025 Impact Numbers
+Impact metric
+2024
+2025
+Variation
+Number of portfolio companies
+2
+2
+-
+Total employees
+4,180
+4,310
++3.1%
+Full-time female employees
+1,712
+1,806
++5.5%
+Female managers (% of managers)
+31%
+33%
++2 pts
+Youth employees (under 30)
+1,268
+1,340
++5.7%
+Training expenditure (US$)
+286,000
+341,000
++19.2%
+Employees trained
+2,940
+3,215
++9.4%
+Taxes paid (US$ million)
+9.4
+10.7
++13.8%
+2025 Impact Examples
+IMAGE REDACTED
+paediatric surgery outreach campaign, AHG North
+Improving access to surgery for children with a congenital heart condition: 184 subsidised procedures performed at AHG North in 2025 under
+the outreach programme co-funded with a DFI Limited Partner.
+IMAGE REDACTED
+Tallowick second production line, Plant 2
+Creating manufacturing jobs through capital investment: the second household-care line at Tallowick Plant 2 added 96 permanent positions,
+41% of them held by women.
+IMAGE REDACTED
+solar installation, AHG Central and Tallowick Plant 1
+Capital investment for decarbonisation: rooftop solar capacity of 1.9 MW commissioned across AHG Central and Tallowick Plant 1, reducing
+grid electricity consumption by an estimated 14%.
+I Adding hospital capacity: the group operates 542 licensed beds across four hospitals, with a six-bed oncology
+intensive-care unit at AHG North permitted in June 2026 and due to open in the second half of the year.
+I Promoting gender balance: female representation in management rose to 33% across the two companies,
+supported by the leadership programme launched with an external training partner in 2024.
+I Expanding vocational training: 3,215 employees completed at least one certified training module in 2025,
+including 640 clinical staff trained on the new oncology protocols at AHG North.
+
+[PAGE 13]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 13
+Country Update
+Country
+FX per
+US$ Q1'26
+FX per
+US$ Q2'26
+Policy
+rate Q1'26
+Policy
+rate Q2'26
+Sovereign rating
+Q1'26 (internal
+scale)
+Sovereign rating
+Q2'26 (internal
+scale)
+Stock index
+YTD Q1'26
+(Jan-Mar)
+Stock index
+YTD Q2'26
+(Jan-Jun)
+Country A (LCA)
+4.21
+4.26
+7.25%
+6.75%
+SG-3 (stable)
+SG-3 (stable)
++4.2%
++7.9%
+Country B (LCB)
+79.6
+80.0
+9.00%
+8.50%
+SG-4 (stable)
+SG-4 (positive)
++1.8%
++5.1%
+The central bank of Country A cut its policy rate by 50 bps in May 2026, its second cut in the current easing cycle; the central bank of Country
+B cut by 50 bps in April 2026. Stock index performance refers to the main equity index of each national exchange. Sovereign ratings are
+expressed on the Manager's internal seven-notch speculative-grade scale (SG-1 strongest to SG-7 weakest), which maps the published
+assessments of two international agencies; the outlook for Country B was revised to positive in June 2026. The Fund converts LCA and LCB
+balances at the closing rates used in the transaction model (US$0.235 per LCA (LCA 4.26 per US$); US$0.0125 per LCB (LCB 80.0 per
+US$)).
+Country A. Monetary policy continued to ease during the quarter as headline inflation fell to 5.1%
+year-on-year in June 2026 from 7.8% a year earlier, moving towards the central bank's medium-term
+target range of 4% to 6%. The policy rate was reduced by a further 50 bps to 6.75% in May, and
+money-market rates have followed. Real credit growth to the private sector turned positive for the first time
+since 2023, which supports the capital-expenditure programmes of the Fund's portfolio company in the
+country, including the financing of the oncology expansion at AHG North on terms that improved by
+roughly 120 bps compared with the 2024 facility.
+Foreign-currency availability in Country A has remained adequate under the central bank's managed-float
+framework and the Registered Investor Settlement Window (the "Settlement Window") established under
+its multi-year external-sector stabilisation programme, through which registered foreign shareholders
+obtain currency for dividends and sale proceeds at the published reference rate within a fixed settlement
+period. The local currency depreciated modestly against the US dollar during the quarter (from LCA 4.21 to
+LCA 4.26 per US$), a movement of about 1%, in line with the crawl implied by the inflation differential. All
+of AHG's scheduled foreign-currency payments were executed within the normal settlement period, which
+is relevant for the timing of the proceeds of the proposed transaction. Gross official reserves stood at about
+5.8 months of imports at end-June 2026, and the current-account deficit narrowed to an estimated 3.4% of
+GDP over the last twelve months on stronger services exports and remittances.
+Real GDP growth in Country A is estimated at 4.3% for the twelve months to June 2026, up from 3.6% in
+the prior year, led by services, construction and a recovery in manufacturing exports. Private healthcare
+demand continues to outgrow the economy as a whole, supported by rising insurance penetration and
+inbound medical tourism from neighbouring markets. The fiscal deficit is expected to remain close to 5% of
+GDP in 2026, and public debt at about 70% of GDP, which the Manager continues to regard as the main
+medium-term macro-economic risk for the country.
+Country B. The economy grew by an estimated 3.4% over the twelve months to June 2026, supported by
+public infrastructure investment, export-oriented agri-processing and a gradual recovery in private
+consumption. Headline inflation slowed to 4.6% in June 2026 from 6.9% a year earlier, allowing the central
+bank to cut its policy rate by 50 bps to 8.50% in April. The fiscal deficit is projected at around 4.2% of GDP
+in 2026 and public debt at about 48% of GDP, both manageable given reserves of roughly nine months of
+imports. The local currency was broadly stable against the US dollar during the quarter (LCB 79.6 to LCB
+80.0 per US$). Unemployment remains elevated at about 9%, and the government's local-manufacturing
+incentive scheme, which favours domestically produced consumer goods in public procurement and grants
+accelerated depreciation on new production lines, supports Tallowick's domestic production footprint and
+the localisation of its packaging supply. The customs pre-clearance procedure for imported production
+inputs, which caused delays in 2023, has operated normally over the last four quarters.
+
+[PAGE 14]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 14
+Expected Exit Pathway
+Since 2019 the Fund has completed four realisations for total net proceeds of US$69.4M at an aggregate
+gross multiple of 0.84x on invested capital of US$82.9M; the strong outcome on Company 3 and the
+modest gain on Company 4 were offset by the losses on Company 5 and Company 6 incurred during the
+2020 to 2022 period. The chart below shows the gross multiple of cost of each exited investment against
+the aggregate multiple (dashed line), with the net proceeds including income in the bar label.
+Exits update:
+I Arvenna Health Group and Tallowick Consumer Products: the Dunecrest Continuation Fund, together with
+Kessport Frontier Fund III and two development-finance co-investors, is in final due diligence and documentation
+to acquire the Fund's stakes at 93.3% of the 30 June 2026 carrying value (US$143.6M in aggregate). Closing is
+targeted for 31 December 2026, subject to the Limited Partner election, LPAC conflict clearance, the fairness
+opinion and regulatory approvals in Country A and Country B.
+I Alternative pathways: should the continuation-fund transaction not proceed, the Manager would pursue a sale of
+the Tallowick stake to a strategic buyer (two regional food groups have expressed interest) and a sale of the
+AHG stake to the co-shareholders under the shareholders' agreement, in each case within the extended term of
+the Fund.
+I Distributions: the Company 4 escrow of US$2.05M received in July 2026 and the Fund's share of the Tallowick
+dividend (c.US$4.0M) will be distributed in the fourth quarter of 2026.
+Exited Investments Summary
+Investment
+Sector / country
+Entry
+Exit
+Buyer type
+Invested
+(US$m)
+Net
+proceeds
+incl. income
+(US$m)
+Gross
+MoC
+Gross
+IRR
+Company 3 (exited 2019)
+Logistics / Country
+A
+Dec-17
+Nov-19
+Strategic (regional
+logistics group)
+26.0
+38.1
+1.47x
+22.0%
+Company 4 (exited 2023)
+Agriculture /
+Country B
+Nov-18
+Sep-23
+Strategic (international
+agri-inputs group)
+22.5
+24.3
+1.08x
+1.6%
+Company 5 (exited 2022)
+Packaging /
+Country A
+Apr-19
+Dec-22
+Management buy-back
+20.4
+6.3
+0.31x
+-27.6%
+Company 6 (written off
+2024)
+Retail / Country B
+Mar-20
+Apr-24
+Asset sale / liquidation
+14.0
+0.7
+0.05x
+-51.6%
+Total realised
+82.9
+69.4
+0.84x
+
+[FIGURE auto-augmented from PDF page 14, source: claude-opus-4-7]
+<figures>
+<figure>
+type: bar chart
+title: "Gross multiple of cost by exited investment"
+description: |
+  Horizontal bar chart showing gross multiple of cost (x-axis from 0.0x to 2.0x) for each exited investment, with a dashed vertical reference line labeled "Aggregate 0.84x". Bar labels show gross multiple and net proceeds including income in US$M.
+  - Company 3 (exited 2019): 1.47x (US$38.1M)
+  - Company 4 (exited 2023): 1.08x (US$24.3M)
+  - Company 5 (exited 2022): 0.31x (US$6.3M)
+  - Company 6 (written off 2024): 0.05x (US$0.7M)
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 15]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 15
+Proposed Continuation-Fund Transaction
+As notified to Limited Partners on 28 July 2026, the Manager proposes to sell the Fund's stakes in Arvenna
+Health Group (58.0%) and Tallowick Consumer Products (74.0%) to the Dunecrest Continuation Fund (the
+"Continuation Fund"), a new vehicle to be managed by Kessport Frontier Managers Limited with Kessport
+Frontier Fund III, DFI Partner 1 and DFI Partner 2 as co-investors. The transaction will be described in the
+forthcoming teaser "Project Dunecrest - Transaction Teaser" and the transaction model, both expected in
+the data room in September 2026; the key terms as they affect the Fund, per the draft terms circulated with
+the notice and the transaction model, are summarised below (US$ million unless stated).
+Term
+Proposed
+Assets sold
+Fund II's 58.0% economic interest in Arvenna Health Group and 74.0% interest in Tallowick
+Consumer Products
+Reference NAV (30 June 2026)
+US$49.0M (AHG) and US$105.0M (Tallowick); total US$153.9M
+NAV pricing
+94% of NAV for AHG and 93% for Tallowick (blended 93.3%)
+Purchase price
+US$46.0M (AHG) plus US$97.6M (Tallowick) = US$143.6M; buy-side transaction fees of 1.0%
+(US$1.4M) borne by the Continuation Fund
+Follow-on capital
+Continuation Fund commitments of US$10.0M (AHG add-on acquisitions) and US$4.0M (Tallowick),
+of which US$10.2M is drawn in the base case over 2027 to 2030
+Management fee
+1.75% per annum on net invested capital of the Continuation Fund
+Carried interest
+10% above an 8% IRR / 1.5x MOIC, 15% above 15% / 2.0x and 20% above 20% / 2.5x, with an 8%
+preferred return and 100% catch-up; GP commitment of 2% of the vehicle
+GP alignment
+US$5.2M of the Manager's Fund II economics reinvested in the Continuation Fund; rolling Limited
+Partners expected to represent about 41% of the vehicle
+LP election
+Fund II Limited Partners may (i) sell their pro-rata interest for cash at the purchase price, (ii) roll into
+the Continuation Fund on the same terms as new investors, or (iii) combine both; election deadline
+20 November 2026
+Base-case returns (model)
+Continuation Fund gross MoIC of 2.4x and gross IRR of 20.2% over a five-year hold to a 2031 exit,
+on total cash outflows of US$155.3M and exit proceeds of US$334.6M
+Timing
+Signing targeted for October 2026; LPAC clearance and fairness opinion in November 2026; closing
+31 December 2026; cash proceeds distributed to selling Limited Partners in January 2027
+28 Jul 2026
+Sep 2026
+(expected)
+Oct 2026
+20 Nov 2026
+31 Dec 2026
+Jan 2027
+G
+G
+G
+G
+G
+G
+Notice of the
+proposed
+transaction and
+draft terms to
+Limited Partners
+Teaser, data room
+and model
+available; LP calls
+Signing of sale and
+purchase
+agreements
+LP election
+deadline; LPAC
+clearance
+Closing and
+transfer of stakes
+Distribution of
+proceeds
+For the Fund, the transaction would crystallise the value of the two remaining investments at 93.3% of
+carrying value and bring cumulative distributions to c.1.23x paid-in capital after estimated transaction costs
+of US$1.9M borne by the Fund (DPI today: 0.40x). The Manager believes the price is fair in light of the
+independent process run for AHG in 2025 and regional listed trading multiples; the fairness opinion will be
+circulated on receipt. No carried interest is payable on the transaction, as the preferred return has not been
+met.
+Conflicts of interest are inherent where the Manager acts on both sides. Under LPA clause 15.3 the
+Limited Partner Advisory Committee has received the valuation papers and draft documentation and has
+appointed independent counsel at the Fund's expense; rolling Limited Partners receive terms no less
+favourable than new investors, and no transaction fee is payable to the Manager.
+
+[PAGE 16]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 16
+Portfolio Reporting - Arvenna Health Group
+IMAGE REDACTED
+Arvenna Health Group corporate logo
+Company Level Information
+Legal and trading name
+Arvenna Health Group Limited ("AHG"), a company incorporated in Country A,
+held through Arvenna Health Holdings Limited (Jurisdiction D)
+Location and head office of management
+Headquarters - Country A (capital region); four hospitals and one diagnostics entity
+in Country A
+Sector classification
+Healthcare - private hospitals and clinics; laboratory and imaging diagnostics
+Fund's role in the investment
+Lead investor and largest shareholder alongside Kessport Frontier Fund III (12%),
+DFI Partner 1 (15%) and DFI Partner 2 (15%); founder family and management
+hold the balance through minority interests at entity level
+Percentage ownership
+58.0% (economic interest in the holding company)
+Board representation
+Three of seven board seats (Fund nominees), chair of the audit committee and a
+member of the medical quality committee
+Website
+www.arvennahealth.example
+Details of Returns
+Deal structure
+Equity - primary capital increase (July 2021) with two follow-on capital increases
+(June 2022 and June 2023)
+Committed amount
+US$31.4M
+Invested amount *
+US$31.4M
+Company's fair value at the reporting
+date (100%)
+US$84.4M (equity value; enterprise value US$110.4M)
+Carrying value of the Fund's investment
+(unrealised)
+US$49.0M
+Realised proceeds
+US$2.2M (dividends received 2022 to 2025)
+IRR / MoC
+11.2% / 1.63x (gross, including income, on carrying value)
+* The invested amount is part of the Fund's larger commitment to a regional hospital platform and includes capitalised transaction expenses of
+US$0.42M; the follow-on investments funded the acquisition of AHG Park (2022) and the radiotherapy unit at AHG North (2023).
+
+[PAGE 17]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 17
+Background of Arvenna Health Group
+Arvenna Health Group was formed in 2019 by Dr. Karim Sfaxi-Mellouli, its Founder and Chairman, as a
+hospital owner-operator to address the persistent undersupply of private hospital beds in Country A, where
+the ratio of beds to population is less than half the level of comparable middle-income countries. The
+platform's first asset was AHG Central, the 176-bed flagship hospital in the capital region, followed by AHG
+Coast (120 beds) and AHG North (142 beds, including the group's oncology and radiotherapy unit), both
+acquired through AHG Central as parent. The Fund invested in July 2021 to fund the fourth acquisition, the
+104-bed AHG Park, and the build-out of AHG Diagnostics, the group's laboratory and imaging entity. The
+group today operates 542 licensed beds and employs about 1,900 staff; some 410 doctors hold admitting
+privileges across its hospitals, of whom 310 practise principally within the group (160 as exclusive partner
+doctors). The group is led by Leila Bouhlel-Aziz (Group CEO), Omar Trabelsi-Farah (Group CFO) and Dr.
+Hela Chaabane (Chief Medical Officer).
+Valuation
+In line with the Valuation Policy, the Fund values its investment in Arvenna Health Group at US$49.0M at
+30 June 2026 (31 March 2026: US$47.2M), on the basis of 8.0x last-twelve-months EBITDA of US$13.8M
+(LCA 58.7M), less gross debt of US$23.6M and minority interests of US$4.4M, plus cash of US$2.6M and
+other adjustments (equity value US$84.4M for 100%; see the Valuation Summary). The multiple is
+unchanged from the prior quarter and is consistent with the pricing of the proposed continuation-fund
+transaction.
+US$ million
+LTM Q2'25
+LTM Q2'26
+Change
+Revenue
+51.7
+58.6
+13.4%
+Gross profit
+36.0
+41.1
+14.2%
+EBITDA
+11.6
+13.8
+18.6%
+EBITDA margin
+22.5%
+23.5%
++1.0 pts
+Net income
+4.5
+5.9
+30.7%
+Net debt / (net cash) at 30 June
+24.9
+22.5
+Arvenna Health Group - last twelve months to 30 June (US$ million; LTM = audited prior year less prior-year first half plus current first
+half)
+NAV bridge for the quarter (US$ million)
+Amount
+Carrying value at 31 March 2026
+47.17
+Increase in LTM EBITDA (8.0x multiple unchanged)
+1.65
+Reduction in net debt (cash generation)
+0.57
+Minority interests and other adjustments
+(0.05)
+FX translation (LCA vs US$)
+(0.38)
+Carrying value at 30 June 2026
+48.96
+Business report
+I Financial performance
+– Revenues for the first half of 2026 were LCA 128.8M (US$30.3M), 13.8% above the first half of 2025 and 98.5% of budget;
+last-twelve-months revenue to June 2026 was US$58.6M versus US$51.7M a year earlier (13.4%).
+– EBITDA for the half year was LCA 30.2M (US$7.1M), 13.2% above the prior-year period and 97.8% of budget;
+last-twelve-months EBITDA rose to US$13.8M from US$11.6M (18.6%). The outperformance against prior year is
+attributable to occupancy gains at AHG Central and AHG North and to the full-year contribution of the radiotherapy unit.
+I Operational overview
+– Inpatient admissions across the four hospitals reached c.18,818 in the half year (1.5% year-on-year; c.37,924 for the full
+year 2025); revenue per admission grew by about 6% in local currency on a richer case mix (surgery and oncology).
+
+[PAGE 18]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 18
+– Average bed occupancy was 70.5% in the half year (69.3% in 2025), with AHG Central at 76.9%, AHG North at 73.4%, AHG
+Coast at 67.1% and AHG Park at 64.7%; outpatient visits grew by 9% and laboratory tests by 7%.
+I Patient mix
+– International patients continue to account for about 42% of admissions and 59% of revenue, in line with 2025; within this, the
+two neighbouring-country corridors opened in 2025 (corporate tender and insurer onboarding) represented 11% of inpatient
+revenue in the half year (c.10% in 2025), with revenue from these corridors up 38% year-on-year compared with 12% growth
+in domestic revenue.
+I Profitability metrics
+– Gross profit for the half year was US$21.3M, a margin of 70.5% (69.7% in the first half of 2025); the EBITDA margin broadly
+stable at 23.5% (23.6% in the prior-year period), as the higher gross margin was absorbed by the specialist-recruitment
+costs described below.
+– Net debt at 30 June 2026 was US$22.5M (LCA 95.7M), or 1.6x LTM EBITDA, down from US$24.9M a year earlier following
+scheduled amortisation of the acquisition facility; capex for the half year was US$1.9M.
+I Strategic initiatives and value creation
+– Doctor engagement and recruitment: 11 senior specialists joined in the half year (three oncologists, two interventional
+cardiologists, two orthopaedic surgeons, two IVF specialists, one urologist and one radiologist), adding an estimated LCA
+1.6M of monthly revenue at run-rate; a physician partnership scheme for AHG Park was approved by the board in May 2026.
+– Increasing specialisation: phase two of the oncology expansion at AHG North (a six-bed oncology intensive-care unit and a
+second linear accelerator) received its operating permit in June 2026; the IVF centre at AHG Central completed its
+regulatory pre-authorisation and construction is scheduled to complete in the fourth quarter; the bio-molecular laboratory
+launched a sequencing platform in April, with phase two pending authorisation; the radiology compliance upgrade at AHG
+Coast was completed on budget.
+– Medical value tourism: a corporate-tender contract was signed in March 2026 with a state employer in a neighbouring
+country, and two further third-party administrators and insurers were onboarded in a second neighbouring market,
+contributing LCA 9.3M of revenue in the half year.
+– Brand strengthening: the group launched a social-video campaign around its oncology and maternity services and
+completed the roll-out of its customer-relationship-management platform at AHG Central and AHG Coast, with the remaining
+sites scheduled for the second half.
+ESG risk profile -
+Environment
+ESG risk profile - Social
+matters
+ESG risk profile -
+Governance
+Quality of ESG
+management systems
+Low
+Medium
+Low
+Medium
+A Corrective Action Plan was developed at entry with sector experts and the Fund's development-finance
+co-investors. Its main items - the upgrade of operating-theatre ventilation at AHG Coast, the contracting of
+a licensed medical-waste operator for all sites and the introduction of a formal employee grievance
+mechanism - have all been closed, as confirmed by the independent ESG audit completed in March 2026.
+The group publishes an annual quality and patient-safety report and holds international accreditation at
+AHG Central and AHG North.
+Outlook
+I The board-approved 2026 budget targets full-year revenue of US$62.3M (LCA 265.1M, 13.4% above 2025) and
+EBITDA of US$14.6M (23.5% margin); first-half delivery of 97.8% of the phased EBITDA budget leaves the full-year
+target within reach.
+I Second-half milestones are the opening of the six-bed oncology intensive-care unit at AHG North, completion of
+the IVF centre at AHG Central in the fourth quarter and the roll-out of the patient-relationship platform to AHG North
+and AHG Park.
+I Capital expenditure of US$3.9M is budgeted for 2026 (US$1.9M spent in the first half), funded from operating cash
+flow; net debt is expected to end the year at about US$20.9M, or 1.4x budget EBITDA.
+I The Fund expects to realise its stake through the proposed continuation-fund transaction at closing on 31
+December 2026; the add-on programme (two hospitals in secondary cities) would then be funded from the
+Continuation Fund's follow-on commitment rather than by the Fund.
+
+[PAGE 19]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 19
+Partner Company Financial Snapshot - Arvenna Health Group
+Metric
+Audited
+FY2024
+Audited
+FY2025
+Q2'25
+Q2'26
+Growth
+H1'25
+H1'26
+Growth
+Budget
+H1'26
+% of
+budget
+Total revenues
+206,170
+233,807
+58,452
+66,810
+14.3%
+113,163
+128,797
+13.8%
+130,759
+98.5%
+Gross profit
+143,395
+162,857
+40,714
+47,099
+15.7%
+78,823
+90,797
+15.2%
+92,367
+98.3%
+EBITDA
+43,951
+55,190
+13,797
+15,678
+13.6%
+26,712
+30,225
+13.2%
+30,905
+97.8%
+Net income
+15,218
+23,097
+5,774
+6,752
+16.9%
+11,179
+13,016
+16.4%
+13,363
+97.4%
+Gross margin
+69.6%
+69.7%
+69.7%
+70.5%
++0.8 pts
+69.7%
+70.5%
++0.8 pts
+70.6%
+EBITDA margin
+21.3%
+23.6%
+23.6%
+23.5%
+-0.1 pts
+23.6%
+23.5%
+-0.1 pts
+23.6%
+Net margin
+7.4%
+9.9%
+9.9%
+10.1%
++0.2 pts
+9.9%
+10.1%
++0.2 pts
+10.2%
+Reported net debt / (net
+cash)
+110,026
+102,289*
+106,157
+95,711
+106,157
+95,711
+101,454
+Arvenna Health Group - financial snapshot (LCA '000)
+Metric
+Audited
+FY2024
+Audited
+FY2025
+Q2'25
+Q2'26
+Growth
+H1'25
+H1'26
+Growth
+Budget
+H1'26
+% of
+budget
+Total revenues
+48,450
+54,945
+13,736
+15,700
+14.3%
+26,593
+30,267
+13.8%
+30,728
+98.5%
+Gross profit
+33,698
+38,271
+9,568
+11,068
+15.7%
+18,523
+21,337
+15.2%
+21,706
+98.3%
+EBITDA
+10,328
+12,970
+3,242
+3,684
+13.6%
+6,277
+7,103
+13.2%
+7,263
+97.8%
+Net income
+3,576
+5,428
+1,357
+1,587
+16.9%
+2,627
+3,059
+16.4%
+3,140
+97.4%
+Gross margin
+69.6%
+69.7%
+69.7%
+70.5%
++0.8 pts
+69.7%
+70.5%
++0.8 pts
+70.6%
+EBITDA margin
+21.3%
+23.6%
+23.6%
+23.5%
+-0.1 pts
+23.6%
+23.5%
+-0.1 pts
+23.6%
+Net margin
+7.4%
+9.9%
+9.9%
+10.1%
++0.2 pts
+9.9%
+10.1%
++0.2 pts
+10.2%
+Reported net debt / (net
+cash)
+25,856
+24,038*
+24,947
+22,492
+24,947
+22,492
+23,842
+Arvenna Health Group - financial snapshot (US$ '000; translated at US$0.235 per LCA (LCA 4.26 per US$))
+NB: net income growth excludes the exceptional gain of LCA 2.1M on a non-core property sale recognised in H1 2025. *: audited FY2025 net
+debt reflects the audit adjustment described in the Fund Synopsis. Half-year and quarterly figures are management accounts; annual figures
+are audited.
+
+[PAGE 20]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 20
+Portfolio Reporting - Tallowick Consumer Products
+IMAGE REDACTED
+Tallowick Consumer Products corporate logo
+Company Level Information
+Legal and trading name
+Tallowick Consumer Products Limited ("Tallowick"), a company incorporated in
+Country B, held through Tallowick Holdings Limited (Jurisdiction D)
+Location and head office of management
+Headquarters - Country B; three manufacturing plants in Country B
+Sector classification
+Consumer staples - packaged food; household care
+Fund's role in the investment
+Controlling shareholder alongside the founder-management team (26%), which
+retains operational leadership under a shareholders' agreement
+Percentage ownership
+74.0%
+Board representation
+Three of five board seats (Fund nominees), including the chair; management holds
+two seats
+Website
+www.tallowick.example
+Details of Returns
+Deal structure
+Equity - primary growth capital and partial secondary from the founding family
+(November 2019)
+Committed amount
+US$27.9M
+Invested amount *
+US$27.9M
+Company's fair value at the reporting
+date (100%)
+US$141.8M (equity value; enterprise value US$141.5M)
+Carrying value of the Fund's investment
+(unrealised)
+US$105.0M
+Realised proceeds
+US$16.3M (dividends received 2020 to 2025)
+IRR / MoC
+28.8% / 4.35x (gross, including income, on carrying value)
+* The invested amount is stated gross of the Fund's share of the 2021 dividend, LCB 233M (US$2.9M), which was reported as a capital
+reduction under local law and is shown as income in the portfolio schedule.
+
+[PAGE 21]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 21
+Background of Tallowick Consumer Products
+Company description and investment rationale
+Tallowick was founded in 2004 as a family company by its late founder, starting with a single ambient
+dairy-style dessert line under the Dunya name, and has grown over twenty-two years into one of the three
+largest branded packaged-food and household-care manufacturers in Country B. The company
+manufactures, markets and distributes its products itself from three plants (eleven production lines) in
+industrial zones around the capital, employs about 2,400 people and reaches an estimated 84,000 points
+of sale through 46 exclusive distributors (41 in 2023), some 310 wholesalers and a direct key-account
+team serving the five national modern-trade chains. Its portfolio comprises the Tallowick master brand and
+three category brands: Dunya (dairy-style desserts and spreads, with an estimated 35% volume share of
+its category), Zeyla (biscuits and snacks) and Beyta (household care). At the time of the Fund's investment
+in November 2019, when the Fund bought out the previous institutional investor and subscribed new
+shares for a 74% stake, the packaged-food market in Country B was projected to grow at 7% to 9% per
+annum; the investment thesis rested on a large and fast-growing consumer market, a founding family and
+management team retaining a 26% stake and operational leadership, and the professionalisation of
+management, which has since been strengthened under Yacine Boudiaf (Chief Operating Officer from
+2017 and CEO since 2021, following the death of the founder), with Nadia Kherbache as CFO, Samir
+Ould-Amar as Commercial Director and Farid Aklouche-Sebti as Operations Director.
+Valuation
+In line with the Valuation Policy, the Fund values its investment in Tallowick at US$105.0M at 30 June
+2026 (31 March 2026: US$101.6M), on the basis of 7.0x last-twelve-months EBITDA of US$20.2M (LCB
+1,617M), less gross debt of US$3.6M, corporate income tax payable on a sale of US$2.15M and dividends
+declared but unpaid at the pro-forma date of US$1.5M, plus cash of US$7.6M (equity value US$141.8M for
+100%; see the Valuation Summary). The multiple is unchanged from the prior quarter.
+US$ million
+LTM Q2'25
+LTM Q2'26
+Change
+Revenue
+127.0
+137.3
+8.1%
+Gross profit
+46.3
+51.4
+11.0%
+EBITDA
+17.5
+20.2
+15.4%
+EBITDA margin
+13.8%
+14.7%
++0.9 pts
+Net income
+10.2
+12.1
+18.4%
+Net debt / (net cash) at 30 June
+(1.0)
+(3.2)
+Tallowick Consumer Products - last twelve months to 30 June (US$ million; LTM = audited prior year less prior-year first half plus
+current first half)
+NAV bridge for the quarter (US$ million)
+Amount
+Carrying value at 31 March 2026
+101.57
+Increase in LTM EBITDA (7.0x multiple unchanged)
+2.84
+Increase in net cash
+1.12
+Tax on sale and unpaid-dividend adjustments
+(0.21)
+FX translation (LCB vs US$)
+(0.37)
+Carrying value at 30 June 2026
+104.95
+
+[PAGE 22]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 22
+Business report
+I Revenue for the first half of 2026 reached LCB 5,509M (US$68.9M), 7.3% above the first half of 2025 and
+98.5% of budget. Growth was volume-led (about two thirds of the increase), with the Zeyla biscuit range and the
+Beyta household-care line the main contributors; last-twelve-months revenue stood at US$137.3M (8.1%
+year-on-year).
+I The gross margin improved to 38.6% from 36.2% in the prior-year period, reflecting favourable price/mix, lower
+resin and edible-oil purchase prices and reduced logistics costs following the localisation of packaging supply
+and the opening of the regional distribution centre in the east of the country.
+I EBITDA for the half year was LCB 869M (US$10.9M), 23.9% above the prior year, at a margin of 15.8% (13.7%
+in the first half of 2025); the gross-margin gain was partly offset by higher trade-promotion and marketing
+investment behind the relaunch of the Dunya range.
+I The cash position continued to strengthen: net cash of US$3.2M at 30 June 2026 compares with net cash of
+US$1.0M a year earlier, net cash of US$2.4M at 31 December 2025 and net debt of US$0.5M at 31 December
+2024, after capex of US$2.4M in the half year, mostly on the second household-care line at Plant 2.
+I The company expects to remain strongly cash generative in the second half and the board has approved a net
+dividend of LCB 428M (US$5.3M) payable in September 2026, of which the Fund's share will be c.US$4.0M.
+Because the valuation above uses the pro-forma 31 December 2026 balances of the transaction model, the
+September payment is already reflected in the year-end cash balance; only the dividends expected to remain
+declared but unpaid at that date (US$1.5M) are deducted from equity value.
+Outlook
+I The 2026 budget approved by the board targets net revenue of LCB 11,312M (US$141.4M, 6.6% above 2025)
+and EBITDA of LCB 1,785M (US$22.3M, 15.8% margin); the first half delivered 97.8% of the phased EBITDA
+budget.
+I Management expects the second half to benefit from the full-year effect of the Plant 2 household-care line and
+from export listings in two neighbouring markets; capex of US$4.8M is budgeted for the year and the company is
+expected to remain in a net cash position of about US$3.9M at year end after payment of the September
+dividend.
+I The Fund's share of the September 2026 dividend (c.US$4.0M) will be distributed to Limited Partners in the
+fourth quarter together with the Company 4 escrow.
+I The Fund expects to realise its stake through the proposed continuation-fund transaction at closing on 31
+December 2026; should the transaction not proceed, a sale to a strategic buyer remains the alternative exit route
+(two regional food groups have expressed interest).
+ESG risk profile -
+Environment
+ESG risk profile - Social
+matters
+ESG risk profile -
+Governance
+Quality of ESG
+management systems
+Low / Medium
+Low
+Low
+Medium
+The environmental action plan focuses on water consumption and wastewater treatment at Plant 1, where
+a new treatment unit was commissioned in February 2026, and on the solar installation described in the
+impact section. The company obtained food-safety certification for all three plants in 2025 and maintains a
+health-and-safety committee at each site; the lost-time injury rate fell to 1.4 per million hours worked in the
+half year.
+
+[PAGE 23]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 23
+Partner Company Financial Snapshot - Tallowick Consumer Products
+The two tables below present Tallowick's consolidated financial snapshot in local currency (LCB million)
+and translated into US dollars (US$ million) at the transaction-model rate. Net debt is shown as a negative
+figure (net cash) in parentheses. Half-year and quarterly figures are management accounts; annual figures
+are audited.
+Metric
+Audited
+FY2024
+Audited
+FY2025
+Q2'25
+Q2'26
+Growth
+H1'25
+H1'26
+Growth
+Budget
+H1'26
+% of
+budget
+Total revenues
+9,680
+10,612
+2,653
+2,851
+7.5%
+5,136
+5,509
+7.3%
+5,593
+98.5%
+Gross profit
+3,552
+3,842
+960
+1,101
+14.7%
+1,859
+2,129
+14.5%
+2,166
+98.3%
+EBITDA
+1,347
+1,449
+362
+450
+24.1%
+702
+869
+23.9%
+889
+97.8%
+Net income
+781
+855
+214
+274
+28.1%
+414
+529
+27.9%
+543
+97.4%
+Gross margin
+36.7%
+36.2%
+36.2%
+38.6%
++2.4 pts
+36.2%
+38.6%
++2.4 pts
+38.7%
+EBITDA margin
+13.9%
+13.7%
+13.7%
+15.8%
++2.1 pts
+13.7%
+15.8%
++2.1 pts
+15.9%
+Net margin
+8.1%
+8.1%
+8.1%
+9.6%
++1.5 pts
+8.1%
+9.6%
++1.5 pts
+9.7%
+Reported net debt / (net
+cash)
+38
+(192)
+(77)
+(254)
+(77)
+(254)
+(239)
+Tallowick Consumer Products - financial snapshot (LCB million)
+Metric
+Audited
+FY2024
+Audited
+FY2025
+Q2'25
+Q2'26
+Growth
+H1'25
+H1'26
+Growth
+Budget
+H1'26
+% of
+budget
+Total revenues
+121.0
+132.6
+33.2
+35.6
+7.5%
+64.2
+68.9
+7.3%
+69.9
+98.5%
+Gross profit
+44.4
+48.0
+12.0
+13.8
+14.7%
+23.2
+26.6
+14.5%
+27.1
+98.3%
+EBITDA
+16.8
+18.1
+4.5
+5.6
+24.1%
+8.8
+10.9
+23.9%
+11.1
+97.8%
+Net income
+9.8
+10.7
+2.7
+3.4
+28.1%
+5.2
+6.6
+27.9%
+6.8
+97.4%
+Gross margin
+36.7%
+36.2%
+36.2%
+38.6%
++2.4 pts
+36.2%
+38.6%
++2.4 pts
+38.7%
+EBITDA margin
+13.9%
+13.7%
+13.7%
+15.8%
++2.1 pts
+13.7%
+15.8%
++2.1 pts
+15.9%
+Net margin
+8.1%
+8.1%
+8.1%
+9.6%
++1.5 pts
+8.1%
+9.6%
++1.5 pts
+9.7%
+Reported net debt / (net
+cash)
+0.5
+(2.4)
+(1.0)
+(3.2)
+(1.0)
+(3.2)
+(3.0)
+Tallowick Consumer Products - financial snapshot (US$ million; translated at US$0.0125 per LCB (LCB 80.0 per US$))
+NB: EBITDA is stated after operating taxes and before the share-based expense of the management incentive plan (LCB 62M in the first half
+of 2026). Budget H1'26 is the board-approved 2026 budget phased by month.
+
+[PAGE 24]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 24
+Capital Account Summary and Fees
+Capital Account Summary
+The table below summarises the movement in the capital accounts of the three parallel vehicles for the
+quarter ended 30 June 2026, in US$ million. Amounts are allocated between vehicles pro rata to
+commitments (Kessport Frontier Fund II L.P. 65.7%, Fund II-A 22.3% and Fund II-B (DFI) 11.9%), other
+than vehicle-specific expenses, which are charged directly. Individual capital account statements are
+issued by the Administrator to each Limited Partner.
+US$ million
+Fund II L.P.
+Fund II-A L.P.
+Fund II-B (DFI)
+L.P.
+Total
+Net asset value at 31 March 2026
+106.21
+36.07
+19.30
+161.58
+Capital contributions
+0.00
+0.00
+0.00
+0.00
+Distributions
+0.00
+0.00
+0.00
+0.00
+Investment income and escrow accretion
+0.66
+0.22
+0.12
+1.00
+Realised gains / (losses)
+0.00
+0.00
+0.00
+0.00
+Unrealised gains on portfolio
+3.40
+1.15
+0.62
+5.17
+General Partner share and fund expenses
+(0.32)
+(0.11)
+(0.06)
+(0.49)
+Net asset value at 30 June 2026
+109.94
+37.34
+19.97
+167.25
+Fees and Expenses
+Fees and expenses borne by the Fund for the quarter, the year to date and since inception are set out
+below. Legal and professional costs in the current period include the fees of the Limited Partner Advisory
+Committee's independent counsel in connection with the proposed continuation-fund transaction, which
+are borne by the Fund under LPA clause 15.3; the costs of the fairness opinion will be borne by the
+Manager.
+US$ million
+Q2 2026
+Year to date 2026
+Since inception
+General Partner share
+0.22
+0.44
+26.40
+Organisational costs
+0.00
+0.00
+1.30
+Fund administration
+0.06
+0.12
+1.65
+Audit and tax
+0.05
+0.09
+0.92
+Legal and professional (including continuation-fund advisers)
+0.14
+0.21
+1.78
+LPAC, annual meeting and reporting
+0.01
+0.03
+0.31
+Bank charges and other
+0.01
+0.02
+0.54
+Total fees and expenses
+0.49
+0.91
+32.90
+Since inception the Fund has borne fees and expenses of US$32.9M, equivalent to 19.3% of paid-in
+capital, of which the General Partner share represents US$26.4M. Transaction costs relating to
+investments and realisations are charged at the level of the holding SPVs and are reflected in invested
+capital and net exit proceeds in the portfolio schedule. No placement fees, monitoring fees or other fees
+have been received by the Manager or its affiliates from portfolio companies; director fees received by
+Fund nominees are offset against the General Partner share in accordance with LPA clause 8.4.
+
+[PAGE 25]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 25
+Key Events, Subsequent Events and Risk Factors
+Key Events during the Quarter
+I The Fund's audited financial statements for 2025 were issued on 24 April 2026 with an unqualified opinion;
+the audit adjustment to the year-end net debt of Arvenna Health Group has been reflected in the valuation.
+I The annual general meeting of Limited Partners was held on 9 June 2026; the Limited Partner Advisory
+Committee met on 21 April and 16 June 2026, the latter meeting being devoted to the proposed
+continuation-fund transaction.
+I Arvenna Health Group received the operating permit for the second phase of its oncology expansion at AHG
+North (June 2026) and signed a cross-border corporate contract in a neighbouring country (March 2026).
+I Tallowick's board approved a dividend of LCB 428M (US$5.3M) payable in September 2026 and completed
+the commissioning of the second household-care line at Plant 2.
+I The Fund issued its 2025 ESG and Impact Report on 29 May 2026; no serious incidents were reported by
+either portfolio company during the quarter.
+Subsequent Events
+I 17 July 2026: release of the Company 4 escrow of US$2.05M in full, following expiry of the warranty period
+without claims; the amount was carried as a receivable at 30 June 2026.
+I 28 July 2026: notice to Limited Partners of the proposed sale of the Fund's stakes in Arvenna Health Group
+and Tallowick Consumer Products to the Dunecrest Continuation Fund, with the draft key terms; the
+transaction teaser and the data room are expected to follow in September 2026, with a targeted closing on 31
+December 2026.
+I 11 August 2026: the central bank of Country A approved the registration of the proposed share transfer under
+the Settlement Window, confirming that sale proceeds may be repatriated in a single instalment on closing.
+I No other events have occurred between 30 June 2026 and the date of this report that would require
+adjustment to, or disclosure in, the figures presented.
+Risk Factors
+I Transaction risk: the proposed continuation-fund transaction may not complete on the terms or timetable
+described, or at all, if the Limited Partner election, LPAC clearance, regulatory approvals or financing
+conditions are not satisfied; in that case the Fund would revert to a bilateral sale process within its extended
+term, with uncertain timing and pricing.
+I Conflicts of interest: the Manager acts for both the Fund and the Continuation Fund; the safeguards described
+in this report mitigate but do not eliminate the risk that the price or terms differ from those achievable in an
+arm's-length process.
+I Currency and transfer risk: the carrying value of both investments is translated from LCA and LCB into US
+dollars; a 10% depreciation of both currencies would reduce NAV by approximately US$15M; capital-transfer
+procedures in Country A and Country B may delay the repatriation of proceeds.
+I Valuation risk: the remaining investments are unquoted and valued on multiples of LTM EBITDA; realisable
+values may differ materially from carrying values, and the Fund's TVPI of 1.38x remains sensitive to the final
+exit price.
+I Concentration risk: two investments in two countries represent 92% of NAV; adverse regulatory changes in
+private healthcare pricing in Country A or in the import procedures for production inputs in Country B would
+affect a large share of the portfolio.
+I Term and liquidation risk: if the remaining investments are not realised by 14 September 2029, the LPA
+provides for a distribution in kind or a liquidator-led sale, either of which may be at a discount.
+
+[PAGE 26]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 26
+Notes to the Report
+1. Basis of preparation. This report has been prepared from the unaudited books and records of the Fund
+maintained by the Administrator, on a basis consistent with the audited financial statements for the year
+ended 31 December 2025, which are prepared under the international accounting standards adopted by
+the Fund under the LPA, with investments at fair value through profit or loss. Figures may not add due to
+rounding.
+2. Valuation. Unrealised investments are valued under the Fund's Valuation Policy, which follows
+internationally recognised private-equity valuation guidelines (schedule 3 of the LPA), on a market
+approach using multiples of last-twelve-months EBITDA to 30 June 2026 (audited FY2025 EBITDA less
+first-half 2025 plus first-half 2026 per management accounts: US$13.8M for Arvenna Health Group and
+US$20.2M for Tallowick Consumer Products, which reproduce the LTM EBITDA of the transaction model).
+Debt, cash and minority interests are deducted at the pro-forma 31 December 2026 balances of the
+transaction model, making carrying values directly comparable with the Exit NAV pricing; for Tallowick,
+corporate income tax payable on a sale (US$2.15M) and dividends declared but unpaid at that date
+(US$1.5M) are also deducted, as in the model. The multiples applied are 8.0x for Arvenna Health Group
+and 7.0x for Tallowick Consumer Products, unchanged from 31 March 2026. Valuations were reviewed by
+the Investment Committee on 21 July 2026.
+3. Foreign exchange. Portfolio-company balances are translated at the closing rates applied in the
+transaction model: US$0.235 per LCA (LCA 4.26 per US$) and US$0.0125 per LCB (LCB 80.0 per US$).
+Local-currency figures in the financial snapshots are translated at the same rates for all periods to isolate
+operating performance from currency movements; the FX line in each NAV bridge captures the translation
+effect on carrying value between quarter ends.
+4. Performance measures. DPI, RVPI and TVPI are computed on paid-in capital of US$170.2M. The net
+IRR reported at fund level (6.6%) is the annualised internal rate of return of the actual Limited Partner cash
+flows since inception (drawdowns and distributions on their actual dates, as listed in the IRR table in the
+Fund Status section) with the residual value of US$167.3M as a terminal inflow at 30 June 2026, net of all
+fees, expenses and carried interest (nil). Gross IRR and gross MoC are computed on investment-level
+cash flows before fees, expenses and carried interest.
+5. Fees and carried interest. The General Partner share is accrued quarterly in advance on net utilised
+capital. Carried interest is calculated on a whole-fund basis under LPA clause 12; the preferred return has
+not been met and no carried interest is accrued. Fund expenses of US$0.5M for the quarter include
+US$0.14M of legal and professional costs relating to the proposed continuation-fund transaction.
+6. Company financial information. Portfolio-company figures are taken from audited financial statements
+for 2024 and 2025 and from unaudited management accounts and board-approved budgets for 2026;
+operating indicators are as reported by management and have not been independently verified.
+Contacts
+Kessport Frontier Managers Limited - www.kessportfrontier.example
+Name
+Title
+Telephone
+Email
+Hendrik van Roon
+Managing Partner
++00 (555) 010-0101
+hendrik.vanroon@kessportfrontier.example
+Amina Zerhouni
+Partner - Portfolio and Exits
++00 (555) 010-0102
+amina.zerhouni@kessportfrontier.example
+Marc Tellenbach
+Chief Financial Officer
++00 (555) 010-0103
+marc.tellenbach@kessportfrontier.example
+Sofia Brennhaug
+Investor Relations
++00 (555) 010-0105
+sofia.brennhaug@kessportfrontier.example
+
+[PAGE 27]
+Kessport Frontier Fund II
+STRICTLY PRIVATE & CONFIDENTIAL - FOR LIMITED PARTNERS ONLY
+Kessport Frontier Fund II - Quarterly Report of the Manager for the period ended 30 June 2026
+Page 27
+Disclaimer
+This report has been prepared by Kessport Frontier Managers Limited (the "Manager") solely for the
+information of the limited partners of Kessport Frontier Fund II L.P., Kessport Frontier Fund II-A L.P. and
+Kessport Frontier Fund II-B (DFI) L.P. (together, the "Fund") in accordance with the reporting obligations of
+the Manager under the limited partnership agreements. Neither the Manager, the General Partner, the
+Investment Advisor nor any of their respective affiliates, directors, officers, employees or agents accepts
+any liability whatsoever for any loss howsoever arising from any use of this report or its contents. No
+representation or warranty, express or implied, is made as to the accuracy, completeness or fairness of the
+information contained herein, and nothing in this report should be relied upon as a promise or
+representation as to the future performance of the Fund or of any portfolio company.
+This report contains forward-looking statements, including statements regarding budgets, exit
+expectations, the proposed continuation-fund transaction, macro-economic conditions and the anticipated
+timing of distributions. Words such as "expect", "anticipate", "target", "budget", "intend", "plan", "believe"
+and similar expressions identify such statements. Forward-looking statements are based on assumptions
+that the Manager considers reasonable at the date of this report but which are inherently uncertain and are
+likely to prove inaccurate in one or more respects. Actual results may differ materially as a result of, among
+other things, currency movements and capital controls, changes in regulation, competitive dynamics, the
+availability of buyers and the outcome of the limited partner election process. EBITDA as used in this
+report is earnings before interest, tax, depreciation and amortisation as reported by the portfolio
+companies, adjusted where indicated for non-recurring items. Past performance is not indicative of future
+results.
+Descriptions of portfolio companies are illustrative summaries prepared from information provided by the
+companies' management and have not been independently verified. Third-party economic and market data
+have been obtained from sources believed to be reliable but have not been verified by the Manager.
+Unaudited valuations are prepared in accordance with the Fund's valuation policy, which follows
+internationally recognised private-equity valuation guidelines (the "Valuation Policy"), are reviewed by the
+Fund's Investment Committee and are subject to change. This report does not constitute investment, legal,
+tax or accounting advice, and recipients should conduct their own due diligence and consult their own
+advisers. This report is not an offer to sell or a solicitation of an offer to buy any interest in the Fund, in the
+Dunecrest Continuation Fund or in any other vehicle; any such offering will be made only pursuant to a
+definitive offering document.
+This report is confidential and is provided to limited partners on a strictly confidential basis. It may not be
+reproduced, distributed or disclosed, in whole or in part, to any person other than the recipient's
+professional advisers who are bound by obligations of confidentiality, without the prior written consent of
+the Manager. If this report has been received from any person other than the Manager or its authorised
+administrator, it should be destroyed and the Manager notified. By retaining this report, each recipient is
+deemed to have represented that it is a limited partner of the Fund (or an authorised representative or
+adviser of a limited partner) and that it will comply with the confidentiality provisions of the applicable
+limited partnership agreement.
+

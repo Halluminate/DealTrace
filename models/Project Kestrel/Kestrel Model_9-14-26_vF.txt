@@ -1,0 +1,2495 @@
+[CIM: Kestrel Model_9-14-26_vF.pdf]
+[Deal: Project Kestrel]
+[Augmentation: vision-augmented via opus by augment_cims.py]
+
+[PAGE 1]
+ C:\Users\deal.team\Halvern Sync\Deals\Project Kestrel\Model\Kestrel Model_9-14-26_vF.xlsx
+ 1
+Project Kestrel
+Transaction Summary
+($ in 000s)
+Total Enterprise Value
+55,083 
+7.0x x FY2025A Adj. EBITDA
+Investor Entry Multiple (FY2025A)
+7.0x
+Investor Entry Multiple (FY2026E)
+6.3x
+Operating Case:
+Management Case
+Financing Case:
+Base Case - Senior + Mezz
+Step Up in Basis
+Yes
+Rollover % of Proceeds
+18.3% 
+Exit:
+5 Years
+Revolver drawn at close?
+NO
+Sources and Uses of Funds ($ in 000's)
+Uses
+Amount
+% of Total
+x FY2026E EBITDA
+Sources
+Amount
+% of Total
+x EBITDA
+Pricing
+Cash Consideration
+35,473 
+60.6% 
+4.1x
+Revolver (undrawn) (1)
+- 
+- 
+0.0x
+Base + 3.00%
+Repay Existing Debt
+6,842 
+11.7% 
+0.8x
+Term Loan A (2)
+23,607 
+40.3% 
+2.7x
+Base + 3.25%
+Seller Note
+4,000 
+6.8% 
+0.5x
+Mezzanine Debt
+7,869 
+13.4% 
+0.9x
+11.00% cash + 2.00% PIK
+Rollover Equity
+8,868 
+15.1% 
+1.0x
+Seller Note
+4,000 
+6.8% 
+0.5x
+6.00% PIK
+Purchase Price
+55,183 
+94.2% 
+6.3x
+Rollover Equity
+8,868 
+15.1% 
+1.0x
+Cash on Balance Sheet at Close
+1,000 
+1.7% 
+0.1x
+Sponsor Preferred Equity (3)(4)
+12,815 
+21.9% 
+1.5x
+8.00% accreting
+Transaction Costs / Excess Cash
+2,400 
+4.1% 
+0.3x
+Sponsor Common Equity (3)(4)
+1,424 
+2.4% 
+0.2x
+Total Uses
+58,583 
+100.0% 
+6.7x
+Total Sources
+58,583 
+100.0% 
+6.7x
+Check: Total Sources - Total Uses (must be 0)
+- 
+(1) $8.0M revolving credit facility, undrawn at close; commitment fee on the unused portion.
+(2) Senior leverage of 3.0x FY2025A Adj. EBITDA; full draw of the term loan A at close.
+(3) Sponsor equity is 90% preferred (8% accreting) / 10% common; common is subject to 10% MEIP dilution.
+(4) Sponsor equity may be syndicated to a co-investor consortium; Halvern retains control.
+
+[PAGE 2]
+ C:\Users\deal.team\Halvern Sync\Deals\Project Kestrel\Model\Kestrel Model_9-14-26_vF.xlsx
+ 2
+Project Kestrel
+Deal Overview and Illustrative Returns Summary @ 7.5x Entry Multiple
+($ in 000s)
+Entry Multiple (x FY2025A Adj. EBITDA)
+7.5x
+Returns Inputs (linked to Model / Assump_CapStructure)
+FY2025A Adj. EBITDA
+7,869 
+FY2030E EBITDA (exit year 5)
+11,755 
+FY2028E EBITDA (exit year 3)
+10,301 
+Debt raised at close (base case, fixed)
+35,476 
+Transaction costs + cash to B/S + cash acquired
+3,500 
+Net debt at FY2030E (excl. seller note; from Model) (2)
+3,755 
+Seller note accreted balance at FY2030E
+5,353 
+Net debt at FY2028E (excl. seller note; from Model)
+16,537 
+Seller note accreted balance at FY2028E
+4,764 
+Cumulative goodwill step-up tax savings through FY2028E
+2,075 
+Preferred % of equity account
+90.0% 
+Preferred accretion rate
+8.0% 
+MEIP % of common profits
+10.0% 
+Sponsor carried interest
+20.0% 
+Purchase Price (Transaction Value)
+59,018 
+Total Equity at Entry (Sponsor + Rollover)
+27,042 
+Preferred Accreted at Exit (year 5)
+35,760 
+Common Equity Invested
+2,704 
+Five-Year Gross Return Profile (Sponsor + Rollover strip, net of MEIP) (1)
+Rev. CAGR Exit multiple ->
+Exit-year EBITDA by case
+6.0x
+6.5x
+7.0x
+7.5x
+8.0x
+15% Rev CAGR Case
+15.0% Exit EBITDA:
+15,827 
+   IRR
+24.6% 
+26.7% 
+28.7% 
+30.5% 
+32.3% 
+   MoIC
+3.00x
+3.26x
+3.53x
+3.79x
+4.05x
+10% Rev CAGR Case
+10.0% Exit EBITDA:
+12,673 
+   IRR
+18.8% 
+20.9% 
+22.8% 
+24.6% 
+26.3% 
+   MoIC
+2.37x
+2.58x
+2.79x
+3.00x
+3.21x
+5% Rev CAGR Case
+5.0% Exit EBITDA:
+10,043 
+   IRR
+13.0% 
+15.0% 
+16.9% 
+18.6% 
+20.2% 
+   MoIC
+1.84x
+2.01x
+2.18x
+2.35x
+2.51x
+Flat Rev CAGR Case
+- Exit EBITDA:
+7,869 
+   IRR
+7.1% 
+9.0% 
+10.8% 
+12.5% 
+14.1% 
+   MoIC
+1.41x
+1.54x
+1.67x
+1.80x
+1.93x
+Management Case
+8.4% Exit EBITDA:
+11,755 
+   IRR
+16.9% 
+19.0% 
+20.8% 
+22.6% 
+24.3% 
+   MoIC
+2.19x
+2.38x
+2.58x
+2.77x
+2.97x
+(1) Returns net of transaction expenses of $2,400k and net of the 10% MEIP; margin held at the FY2025A adj. EBITDA margin for the CAGR cases.
+(2) Net debt at exit approximated as base-case (management case) net debt from the Model tab for every case.
+Note: shaded column reflects the 7.0x base-case exit multiple carried in the Model tab; the 7.5x entry multiple above is the illustrative bid level.
+
+[FIGURE auto-augmented from PDF page 2, source: claude-opus-4-7]
+<figures>
+<figure>
+type: table
+title: Five-Year Gross Return Profile (Sponsor + Rollover strip, net of MEIP)
+description: |
+  Sensitivity table of IRR and MoIC across Revenue CAGR cases (rows) and Exit multiples (columns: 6.0x, 6.5x, 7.0x, 7.5x, 8.0x). The 7.0x column is shaded as the base case.
+
+  | Case | Rev CAGR | Exit EBITDA | Metric | 6.0x | 6.5x | 7.0x | 7.5x | 8.0x |
+  | 15% Rev CAGR Case | 15.0% | 15,827 | IRR | 24.6% | 26.7% | 28.7% | 30.5% | 32.3% |
+  | 15% Rev CAGR Case | 15.0% | 15,827 | MoIC | 3.00x | 3.26x | 3.53x | 3.79x | 4.05x |
+  | 10% Rev CAGR Case | 10.0% | 12,673 | IRR | 18.8% | 20.9% | 22.8% | 24.6% | 26.3% |
+  | 10% Rev CAGR Case | 10.0% | 12,673 | MoIC | 2.37x | 2.58x | 2.79x | 3.00x | 3.21x |
+  | 5% Rev CAGR Case | 5.0% | 10,043 | IRR | 13.0% | 15.0% | 16.9% | 18.6% | 20.2% |
+  | 5% Rev CAGR Case | 5.0% | 10,043 | MoIC | 1.84x | 2.01x | 2.18x | 2.35x | 2.51x |
+  | Flat Rev CAGR Case | 0.0% | 7,869 | IRR | 7.1% | 9.0% | 10.8% | 12.5% | 14.1% |
+  | Flat Rev CAGR Case | 0.0% | 7,869 | MoIC | 1.41x | 1.54x | 1.67x | 1.80x | 1.93x |
+  | Management Case | 8.4% | 11,755 | IRR | 16.9% | 19.0% | 20.8% | 22.6% | 24.3% |
+  | Management Case | 8.4% | 11,755 | MoIC | 2.19x | 2.38x | 2.58x | 2.77x | 2.97x |
+</figure>
+</figures>
+[/FIGURE]
+
+[PAGE 3]
+ C:\Users\deal.team\Halvern Sync\Deals\Project Kestrel\Model\Kestrel Model_9-14-26_vF.xlsx
+ 3
+Project Kestrel
+9/14/2026 4:47 PM
+Transaction Summary
+Operating Case Running: Management Case - Tax rate: 26%
+($ in 000s)
+Capital Structure Case: Base Case - Senior + Mezz w/ Seller Paper (3.0x Senior)
+TRANSACTION SUMMARY - USES AND SOURCES OF FUNDS
+PURCHASE PRICE
+USES OF FUNDS
+Amount
+% of Total
+x EBITDA
+SOURCES OF FUNDS
+Amount
+% of Total
+x EBITDA
+Pricing
+Common Equity Ownership
+Cash + Rolled Equity + Debt
+51,183 
+Cash Consideration to Shareholders (incl. seller note
+39,473 
+67.4% 
+5.0x
+Revolver
+- 
+- 
+0.0x
+-
+Seller Debt
+4,000 
+Repay Existing Debt
+6,842 
+11.7% 
+0.9x
+Term Loan A
+23,607 
+40.3% 
+3.0x
+Base + 3.25%
+Total Purchase Price (excl. fees)
+55,183 
+Rollover Equity
+8,868 
+15.1% 
+1.1x
+Term Loan B
+- 
+- 
+0.0x
+-
+Earnout
+- 
+- 
+0.0x
+Second Lien
+- 
+- 
+0.0x
+-
+RETURNS
+Rollover Debt
+- 
+- 
+0.0x
+Senior Notes
+- 
+- 
+0.0x
+-
+FY2025A
+FY2026E
+FY2027E
+Purchase Price
+55,183 
+94.2% 
+7.0x
+Mezzanine Debt
+7,869 
+13.4% 
+1.0x
+11.00% Fixed + 2.00% PIK
+Purchase Multiples
+Cash on Balance Sheet at Close
+1,000 
+1.7% 
+0.1x
+Seller Note
+4,000 
+6.8% 
+0.5x
+0.00% Fixed + 6.00% PIK
+   x Revenue
+1.29x
+1.20x
+1.12x
+Transaction Costs
+2,400 
+4.1% 
+0.3x
+Subordinated Notes
+- 
+- 
+0.0x
+-
+   x EBITDA
+7.0x
+6.3x
+5.8x
+Total Uses
+58,583 
+100.0% 
+7.4x
+Other
+- 
+- 
+0.0x
+-
+Unlevered Returns
+Total Debt
+35,476 
+60.6% 
+4.5x
+   EBITDA / PP
+14.3% 
+15.8% 
+17.3% 
+Rollover Equity
+8,868 
+15.1% 
+1.1x
+38.4% 
+   (EBITDA - Capex) / PP
+12.1% 
+13.5% 
+14.8% 
+Sponsor Preferred Equity
+12,815 
+21.9% 
+1.6x
+8.00% accreting
+Sponsor Common Equity
+1,424 
+2.4% 
+0.2x
+61.6% 
+Gross IRR - New Common Equity
+Year 4
+Year 5
+Year 6
+Total Equity
+23,107 
+39.4% 
+2.9x
+100.0% 
+Exit multiple
+FY2029E
+FY2030E
+FY2031E
+Total Sources
+58,583 
+100.0% 
+7.4x
+   6.0x
+72.2% 
+64.7% 
+57.7% 
+   6.5x
+81.9% 
+70.5% 
+61.6% 
+Check: Total Sources - Total Uses (must be 0)
+- 
+   7.0x
+90.2% 
+75.6% 
+65.0% 
+   7.5x
+97.6% 
+80.2% 
+68.2% 
+   8.0x
+104.2% 
+84.3% 
+71.0% 
+FINANCIAL SUMMARY
+Pro Forma for the Transaction
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+FYE September 30,
+FY2024A
+FY2025A
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+FY2031E
+FY2032E
+Revenue
+40,516 
+42,624 
+46,034 
+49,348 
+52,556 
+55,709 
+58,773 
+61,712 
+64,489 
+   % Growth
+6.0% 
+5.2% 
+8.0% 
+7.2% 
+6.5% 
+6.0% 
+5.5% 
+5.0% 
+4.5% 
+Adj. EBITDA
+7,923 
+7,869 
+8,746 
+9,524 
+10,301 
+11,030 
+11,755 
+12,342 
+13,027 
+   % Margin
+19.6% 
+18.5% 
+19.0% 
+19.3% 
+19.6% 
+19.8% 
+20.0% 
+20.0% 
+20.2% 
+Capex
+1,116 
+1,175 
+1,289 
+1,382 
+1,472 
+1,560 
+1,646 
+1,728 
+1,806 
+   % of Revenue
+2.8% 
+2.8% 
+2.8% 
+2.8% 
+2.8% 
+2.8% 
+2.8% 
+2.8% 
+2.8% 
+Net Working Capital
+5,053 
+5,128 
+5,668 
+6,000 
+6,453 
+6,885 
+7,310 
+7,452 
+7,902 
+   % of Revenue
+12.5% 
+12.0% 
+12.3% 
+12.2% 
+12.3% 
+12.4% 
+12.4% 
+12.1% 
+12.3% 
+FREE CASH FLOW
+EBITDA
+8,746 
+9,524 
+10,301 
+11,030 
+11,755 
+12,342 
+13,027 
+Other (management fee)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Capex
+(1,289)
+(1,382)
+(1,472)
+(1,560)
+(1,646)
+(1,728)
+(1,806)
+(Inc)/Dec in Working Capital
+(357)
+(332)
+(453)
+(432)
+(425)
+(142)
+(450)
+Cash Interest, net
+(2,665)
+(2,428)
+(2,135)
+(1,791)
+(1,394)
+(937)
+(295)
+Cash Taxes
+(338)
+(574)
+(825)
+(1,077)
+(1,342)
+(1,712)
+(2,062)
+Cash Available for Debt Service
+4,097 
+4,808 
+5,416 
+6,170 
+6,948 
+7,823 
+8,415 
+   Cumulative
+4,097 
+8,905 
+14,321 
+20,492 
+27,440 
+35,263 
+43,677 
+DEBT BALANCES (END OF PERIOD)
+Closing
+Cash
+1,100 
+1,918 
+2,683 
+3,369 
+4,089 
+4,838 
+6,831 
+8,123 
+Revolver
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Term Loan A (incl. Term Loan B)
+23,607 
+20,328 
+16,285 
+11,555 
+6,105 
+- 
+- 
+- 
+Second Lien
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total Secured Debt
+23,607 
+20,328 
+16,285 
+11,555 
+6,105 
+- 
+- 
+- 
+Senior Notes
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total Senior Debt
+23,607 
+20,328 
+16,285 
+11,555 
+6,105 
+- 
+- 
+- 
+   % Cumulative Paydown
+- 
+13.9% 
+31.0% 
+51.1% 
+74.1% 
+100.0% 
+100.0% 
+100.0% 
+Mezzanine Debt (incl. sub. notes / other)
+7,869 
+8,026 
+8,187 
+8,351 
+8,518 
+8,594 
+2,935 
+59 
+   % Cumulative Paydown
+- 
+(2.0%)
+(4.0%)
+(6.1%)
+(8.2%)
+(9.2%)
+62.7% 
+99.3% 
+Seller Note (accreted)
+4,000 
+4,240 
+4,494 
+4,764 
+5,050 
+5,353 
+5,674 
+1,827 
+Total Debt
+35,476 
+32,594 
+28,966 
+24,670 
+19,672 
+13,947 
+8,609 
+1,886 
+   % Cumulative Paydown
+- 
+8.1% 
+18.4% 
+30.5% 
+44.5% 
+60.7% 
+75.7% 
+94.7% 
+CREDIT STATISTICS
+Total Senior Debt / EBITDA
+2.32x
+1.71x
+1.12x
+0.55x
+0.00x
+0.00x
+0.00x
+Total Debt / EBITDA
+3.73x
+3.04x
+2.39x
+1.78x
+1.19x
+0.70x
+0.14x
+(EBITDA - Mgmt Fee - Capex - Taxes) / (Principal + Cash Interest) (1)
+1.41x
+1.57x
+1.77x
+2.01x
+2.31x
+9.03x
+25.24x
+EBITDA / Cash Interest
+3.27x
+3.89x
+4.76x
+6.04x
+8.19x
+12.53x
+35.90x
+(EBITDA - Capex) / Cash Interest
+2.79x
+3.33x
+4.08x
+5.19x
+7.05x
+10.77x
+30.93x
+(1) FY2026E reflects projection from CIM; Fixed Charge Coverage per the senior credit agreement definition.
+[PAGE 4]
+ C:\Users\deal.team\Halvern Sync\Deals\Project Kestrel\Model\Kestrel Model_9-14-26_vF.xlsx
+ 4
+Project Kestrel
+9/14/2026 4:47 PM
+Historical and Projected Income Statement
+Operating Case Running: Management Case - Tax rate: 26%
+($ in 000s)
+Capital Structure Case: Base Case - Senior + Mezz w/ Seller Paper (3.0x Senior)
+HISTORICAL AND PROJECTED INCOME STATEMENT
+Fiscal Year Ended September 30,
+FY2024A
+FY2025A
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+FY2031E
+FY2032E
+Total Revenue
+40,516 
+42,624 
+46,034 
+49,348 
+52,556 
+55,709 
+58,773 
+61,712 
+64,489 
+   % Growth
+6.0% 
+5.2% 
+8.0% 
+7.2% 
+6.5% 
+6.0% 
+5.5% 
+5.0% 
+4.5% 
+Total COGS (excl. Depreciation)
+26,224 
+28,098 
+29,922 
+31,978 
+33,951 
+35,933 
+37,850 
+39,743 
+41,466 
+   % of Revenue
+64.7% 
+65.9% 
+65.0% 
+64.8% 
+64.6% 
+64.5% 
+64.4% 
+64.4% 
+64.3% 
+______
+______
+______
+______
+______
+______
+______
+______
+______
+Gross Profit
+14,292 
+14,526 
+16,112 
+17,371 
+18,605 
+19,777 
+20,923 
+21,969 
+23,023 
+   % Margin
+35.3% 
+34.1% 
+35.0% 
+35.2% 
+35.4% 
+35.5% 
+35.6% 
+35.6% 
+35.7% 
+SG&A (excl. Amortization)
+6,369 
+6,657 
+7,365 
+7,846 
+8,304 
+8,746 
+9,169 
+9,627 
+9,996 
+   % of Revenue
+15.7% 
+15.6% 
+16.0% 
+15.9% 
+15.8% 
+15.7% 
+15.6% 
+15.6% 
+15.5% 
+______
+______
+______
+______
+______
+______
+______
+______
+______
+EBITDA
+7,923 
+7,869 
+8,746 
+9,524 
+10,301 
+11,030 
+11,755 
+12,342 
+13,027 
+   % Margin
+19.6% 
+18.5% 
+19.0% 
+19.3% 
+19.6% 
+19.8% 
+20.0% 
+20.0% 
+20.2% 
+   % Growth
+13.8% 
+(0.7%)
+11.2% 
+8.9% 
+8.2% 
+7.1% 
+6.6% 
+5.0% 
+5.5% 
+Depreciation & Amortization
+1,104 
+1,153 
+1,243 
+1,332 
+1,419 
+1,504 
+1,587 
+1,666 
+1,741 
+   % of Revenue
+2.7% 
+2.7% 
+2.7% 
+2.7% 
+2.7% 
+2.7% 
+2.7% 
+2.7% 
+2.7% 
+Amort. of Transaction Fees
+480 
+480 
+480 
+480 
+480 
+- 
+- 
+Adj. EBIT
+6,819 
+6,716 
+7,024 
+7,712 
+8,402 
+9,046 
+9,688 
+10,676 
+11,286 
+   % Margin
+16.8% 
+15.8% 
+15.3% 
+15.6% 
+16.0% 
+16.2% 
+16.5% 
+17.3% 
+17.5% 
+Other Expenses (Management Fee)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Interest Expense:
+   Revolver
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Revolver Commitment Fee
+40 
+40 
+40 
+40 
+40 
+40 
+40 
+   Term Loan A
+1,771 
+1,525 
+1,221 
+867 
+458 
+- 
+- 
+   Term Loan B
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Second Lien
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Senior Notes / Sub. Notes / Other
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Mezzanine (cash)
+866 
+883 
+901 
+919 
+937 
+945 
+323 
+   Mezzanine (PIK)
+157 
+161 
+164 
+167 
+170 
+172 
+59 
+   Seller Note (PIK)
+240 
+254 
+270 
+286 
+303 
+321 
+340 
+   Memo: Preferred Equity Accretion (excluded from total)
+1,664 
+1,797 
+1,941 
+2,096 
+2,263 
+2,445 
+2,640 
+Total Interest Expense
+3,073 
+2,862 
+2,595 
+2,278 
+1,908 
+1,478 
+762 
+Less: Interest on Cash Balance
+11 
+19 
+27 
+34 
+41 
+48 
+68 
+Net Interest Expense
+3,062 
+2,843 
+2,568 
+2,244 
+1,867 
+1,430 
+694 
+Pre Tax Income (Before NOL Utilization)
+3,961 
+4,869 
+5,833 
+6,802 
+7,821 
+9,246 
+10,592 
+Less: Income Taxes
+338 
+574 
+825 
+1,077 
+1,342 
+1,712 
+2,062 
+Net Income
+3,623 
+4,294 
+5,008 
+5,725 
+6,479 
+7,534 
+8,530 
+   % Margin
+7.9% 
+8.7% 
+9.5% 
+10.3% 
+11.0% 
+12.2% 
+13.2% 
+
+[PAGE 5]
+ C:\Users\deal.team\Halvern Sync\Deals\Project Kestrel\Model\Kestrel Model_9-14-26_vF.xlsx
+ 5
+Project Kestrel
+9/14/2026 4:47 PM
+Closing and Projected Balance Sheets
+Operating Case Running: Management Case - Tax rate: 26%
+($ in 000s)
+Capital Structure Case: Base Case - Senior + Mezz w/ Seller Paper (3.0x Senior)
+CLOSING AND PROJECTED BALANCE SHEETS
+Estimated 31-Jul-26 (1) Adjustments (+) Adjustments (-)
+Pro Forma
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+FY2031E
+FY2032E
+ASSETS
+Cash
+100 
+1,000 
+1,100 
+1,918 
+2,683 
+3,369 
+4,089 
+4,838 
+6,831 
+8,123 
+Accounts Receivable
+5,241 
+5,241 
+5,612 
+5,949 
+6,408 
+6,792 
+7,166 
+7,355 
+7,862 
+Inventory
+4,912 
+4,912 
+5,083 
+5,388 
+5,767 
+6,153 
+6,481 
+6,805 
+7,044 
+Prepaid and Other Advances
+618 
+618 
+598 
+642 
+683 
+724 
+764 
+802 
+838 
+Other
+187 
+187 
+184 
+197 
+210 
+223 
+235 
+247 
+258 
+Total Current Assets
+11,058 
+1,000 
+- 
+12,058 
+13,396 
+14,858 
+16,437 
+17,981 
+19,484 
+22,040 
+24,125 
+PP&E, net
+9,874 
+9,874 
+9,920 
+9,969 
+10,022 
+10,078 
+10,136 
+10,198 
+10,263 
+Intangible Assets, net (2)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Investments in Affiliates
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Transaction Expenses (capitalized)
+- 
+2,400 
+2,400 
+1,920 
+1,440 
+960 
+480 
+- 
+- 
+- 
+Goodwill (2)
+- 
+39,898 
+39,898 
+39,898 
+39,898 
+39,898 
+39,898 
+39,898 
+39,898 
+39,898 
+Total Assets
+20,932 
+43,298 
+- 
+64,230 
+65,134 
+66,166 
+67,317 
+68,437 
+69,519 
+72,136 
+74,286 
+LIABILITIES
+Accounts Payable
+2,538 
+2,538 
+2,541 
+2,672 
+2,884 
+3,052 
+3,163 
+3,375 
+3,522 
+Accrued Expenses
+2,412 
+2,412 
+2,532 
+2,714 
+2,891 
+3,064 
+3,233 
+3,394 
+3,547 
+Accrued Product Liability
+431 
+431 
+460 
+493 
+526 
+557 
+588 
+617 
+645 
+Other
+266 
+266 
+276 
+296 
+315 
+334 
+353 
+370 
+387 
+Total Current Liabilities
+5,647 
+- 
+- 
+5,647 
+5,810 
+6,176 
+6,615 
+7,007 
+7,336 
+7,757 
+8,101 
+Deferred Tax Liability
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Deferred Taxes
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total Other Liabilities
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Existing Debt (repaid at close)
+6,842 
+6,842 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Revolver
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Term Loan A (incl. TLB / Second Lien)
+- 
+23,607 
+23,607 
+20,328 
+16,285 
+11,555 
+6,105 
+- 
+- 
+- 
+Seller Debt
+- 
+4,000 
+4,000 
+4,240 
+4,494 
+4,764 
+5,050 
+5,353 
+5,674 
+1,827 
+Mezzanine Debt
+- 
+7,869 
+7,869 
+8,026 
+8,187 
+8,351 
+8,518 
+8,594 
+2,935 
+59 
+Senior Notes
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Subordinated Notes
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Other Debt
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total Debt
+6,842 
+35,476 
+6,842 
+35,476 
+32,594 
+28,966 
+24,670 
+19,672 
+13,947 
+8,609 
+1,886 
+Total Liabilities
+12,489 
+35,476 
+6,842 
+41,123 
+38,404 
+35,142 
+31,285 
+26,680 
+21,282 
+16,366 
+9,986 
+EQUITY
+Old Equity (eliminated)
+8,443 
+8,443 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Seller Debt II
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Retained Earnings
+- 
+- 
+3,623 
+7,917 
+12,925 
+18,650 
+25,129 
+32,663 
+41,192 
+Rollover Equity
+- 
+8,868 
+8,868 
+8,868 
+8,868 
+8,868 
+8,868 
+8,868 
+8,868 
+8,868 
+New Equity (Sponsor Preferred + Common)
+- 
+14,239 
+14,239 
+14,239 
+14,239 
+14,239 
+14,239 
+14,239 
+14,239 
+14,239 
+Total Equity
+8,443 
+23,107 
+8,443 
+23,107 
+26,730 
+31,024 
+36,032 
+41,757 
+48,236 
+55,770 
+64,299 
+Total Liabilities & Equity
+20,932 
+58,583 
+15,285 
+64,230 
+65,134 
+66,166 
+67,317 
+68,437 
+69,519 
+72,136 
+74,286 
+Check: Assets - Liabilities & Equity (must be 0.000)
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+(1) Sponsor estimate based on interim balance sheets provided by the Company; subject to closing working capital adjustment.
+(2) Actual goodwill / intangibles split subject to purchase price allocation (PPA).
+[PAGE 6]
+ C:\Users\deal.team\Halvern Sync\Deals\Project Kestrel\Model\Kestrel Model_9-14-26_vF.xlsx
+ 6
+Project Kestrel
+9/14/2026 4:47 PM
+Projected Cash Flow Statement
+Operating Case Running: Management Case - Tax rate: 26%
+($ in 000s)
+Capital Structure Case: Base Case - Senior + Mezz w/ Seller Paper (3.0x Senior)
+PROJECTED CASH FLOW STATEMENT
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+FY2031E
+FY2032E
+Net Income
+3,623 
+4,294 
+5,008 
+5,725 
+6,479 
+7,534 
+8,530 
+Depreciation & Amortization
+1,243 
+1,332 
+1,419 
+1,504 
+1,587 
+1,666 
+1,741 
+Amortization of Financing / Transaction Costs
+480 
+480 
+480 
+480 
+480 
+- 
+- 
+PIK Interest - Mezzanine
+157 
+161 
+164 
+167 
+170 
+172 
+59 
+PIK Interest - Seller Note
+240 
+254 
+270 
+286 
+303 
+321 
+340 
+PIK Interest - Sub. Notes / Other
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total PIK Interest
+397 
+415 
+433 
+453 
+473 
+493 
+399 
+Deferred Taxes
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Operating Cash Flow
+5,743 
+6,522 
+7,341 
+8,162 
+9,019 
+9,693 
+10,670 
+(Inc)/Dec in Accounts Receivable
+(371)
+(336)
+(459)
+(384)
+(374)
+(189)
+(508)
+(Inc)/Dec in Inventory
+(171)
+(305)
+(379)
+(386)
+(328)
+(324)
+(238)
+(Inc)/Dec in Prepaid
+20 
+(43)
+(42)
+(41)
+(40)
+(38)
+(36)
+(Inc)/Dec in Other Current Assets
+3 
+(13)
+(13)
+(13)
+(12)
+(12)
+(11)
+Inc/(Dec) in Accounts Payable
+3 
+131 
+211 
+168 
+111 
+213 
+146 
+Inc/(Dec) in Accrued Expenses
+120 
+182 
+176 
+173 
+169 
+162 
+153 
+Inc/(Dec) in Accrued Product Liability
+29 
+33 
+32 
+32 
+31 
+29 
+28 
+Inc/(Dec) in Other Current Liabilities
+10 
+20 
+19 
+19 
+18 
+18 
+17 
+Total Changes in Working Capital
+(357)
+(332)
+(453)
+(432)
+(425)
+(142)
+(450)
+Capital Expenditures
+(1,289)
+(1,382)
+(1,472)
+(1,560)
+(1,646)
+(1,728)
+(1,806)
+Change in Other Assets
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Change in Other Liabilities
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Cash For Debt Service
+4,097 
+4,808 
+5,416 
+6,170 
+6,948 
+7,823 
+8,415 
+   Cumulative
+4,097 
+8,905 
+14,321 
+20,492 
+27,440 
+35,263 
+43,677 
+Total Scheduled Amortization:
+   Revolver
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Term Loan A
+(2,361)
+(2,361)
+(2,361)
+(2,361)
+(2,361)
+- 
+- 
+   Term Loan B
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Second Lien
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Senior Notes
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Mezzanine
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Seller Note
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Sub. Notes / Other
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total Scheduled Amortization
+(2,361)
+(2,361)
+(2,361)
+(2,361)
+(2,361)
+- 
+- 
+Earnout / Other Non-Recurring
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Excess Cash Flow (1)
+1,837 
+3,365 
+4,738 
+6,179 
+7,677 
+11,661 
+14,245 
+Voluntary Debt (Redemption) / Borrowing (1):
+   Revolver Borrowing / (Repayment)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Term Loan A
+(918)
+(1,683)
+(2,369)
+(3,089)
+(3,744)
+- 
+- 
+   Term Loan B
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Second Lien
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Senior Notes
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+   Mezzanine
+- 
+- 
+- 
+- 
+(94)
+(5,831)
+(2,935)
+   Seller Note (prepaid last, after mezzanine)
+- 
+- 
+- 
+- 
+- 
+- 
+(4,188)
+   Sub. Notes / Other (no prepayment)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total Voluntary Debt (Redemption) / Borrowing
+(918)
+(1,683)
+(2,369)
+(3,089)
+(3,838)
+(5,831)
+(7,123)
+Net Cash Flow
+818 
+764 
+686 
+720 
+749 
+1,992 
+1,292 
+Beginning Cash Balance
+1,100 
+1,918 
+2,683 
+3,369 
+4,089 
+4,838 
+6,831 
+Cash Balance (End of Period)
+1,918 
+2,683 
+3,369 
+4,089 
+4,838 
+6,831 
+8,123 
+   Memo: Minimum Cash Balance
+1,000 
+1,000 
+1,000 
+1,000 
+1,000 
+1,000 
+1,000 
+(1) Reflects 50% excess cash flow sweep assumption (switch and % on Assump_CapStructure); applied to revolver, then term loans, then mezzanine, then the seller 
+note.
+
+[PAGE 7]
+ C:\Users\deal.team\Halvern Sync\Deals\Project Kestrel\Model\Kestrel Model_9-14-26_vF.xlsx
+ 7
+Project Kestrel
+9/14/2026 4:47 PM
+Gross Returns Summary
+Operating Case Running: Management Case - Tax rate: 26%
+($ in 000s)
+Capital Structure Case: Base Case - Senior + Mezz w/ Seller Paper (3.0x Senior)
+GROSS RETURNS SUMMARY - EXIT IN YEAR 5 (FY2030E)
+Exit Year EBITDA (FY2030E)
+11,755 
+Assumed Exit Multiple (x LTM EBITDA)
+6.0x
+6.5x
+7.0x
+7.5x
+8.0x
+Enterprise Value
+70,528 
+76,405 
+82,283 
+88,160 
+94,037 
+Less: Total Debt (excl. Seller Note)
+(8,594)
+(8,594)
+(8,594)
+(8,594)
+(8,594)
+Less: Seller Debt (Accreted Balance)
+(5,353)
+(5,353)
+(5,353)
+(5,353)
+(5,353)
+Less: Preferred Equity (Accreted Balance)
+(30,557)
+(30,557)
+(30,557)
+(30,557)
+(30,557)
+Plus: Cash
+4,838 
+4,838 
+4,838 
+4,838 
+4,838 
+   Memo: Net Debt (incl. Seller Note)
+9,108 
+9,108 
+9,108 
+9,108 
+9,108 
+Equity Proceeds (before Preferred)
+61,420 
+67,297 
+73,174 
+79,052 
+84,929 
+Less: Preferred Return of Capital & Pfd Return
+(30,557)
+(30,557)
+(30,557)
+(30,557)
+(30,557)
+Common Equity Proceeds
+30,863 
+36,740 
+42,618 
+48,495 
+54,372 
+PRE-OWNERSHIP: Less Rollover Common - Return of Capital
+(887)
+(887)
+(887)
+(887)
+(887)
+PRE-OWNERSHIP: Less New Common - Return of Capital
+(1,424)
+(1,424)
+(1,424)
+(1,424)
+(1,424)
+Profit Distribution
+28,552 
+34,430 
+40,307 
+46,184 
+52,062 
+Allocation of Common Equity Proceeds:
+   Rollover Common Equity
+10,749 
+12,779 
+14,809 
+16,839 
+18,869 
+      % of Common Proceeds
+34.8% 
+34.8% 
+34.7% 
+34.7% 
+34.7% 
+   Management Common Equity (MEIP 10% of profits)
+2,855 
+3,443 
+4,031 
+4,618 
+5,206 
+      % of Common Proceeds
+9.3% 
+9.4% 
+9.5% 
+9.5% 
+9.6% 
+   New Common Equity (Before Carry)
+17,259 
+20,518 
+23,778 
+27,037 
+30,297 
+      % of Common Proceeds
+55.9% 
+55.8% 
+55.8% 
+55.8% 
+55.7% 
+Total Common Equity Proceeds
+30,863 
+36,740 
+42,618 
+48,495 
+54,372 
+1
+2
+3
+4
+5
+6
+New Common Equity Gross IRR (Before Carry) - by exit multiple and exit year
+Cmn Equity Invested
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+FY2031E
+   @ 6.0x exit multiple
+1,424 
+n.m.
+63.5% 
+78.3% 
+72.2% 
+64.7% 
+57.7% 
+   @ 6.5x exit multiple
+1,424 
+54.7% 
+112.8% 
+97.3% 
+81.9% 
+70.5% 
+61.6% 
+   @ 7.0x exit multiple
+1,424 
+225.1% 
+152.6% 
+113.2% 
+90.2% 
+75.6% 
+65.0% 
+   @ 7.5x exit multiple
+1,424 
+395.4% 
+187.0% 
+127.0% 
+97.6% 
+80.2% 
+68.2% 
+   @ 8.0x exit multiple
+1,424 
+565.7% 
+217.7% 
+139.3% 
+104.2% 
+84.3% 
+71.0% 
+New Common Equity Gross IRR (Before Carry) - Year 5 (FY2030E) exit
+64.7% 
+70.5% 
+75.6% 
+80.2% 
+84.3% 
+New Common Equity MoIC (Before Carry) - Year 5 (FY2030E) exit
+12.12x
+14.41x
+16.70x
+18.99x
+21.28x
+New Investor Common Equity Invested
+1,424 
+1,424 
+1,424 
+1,424 
+1,424 
+New Investor Common Equity Proceeds
+17,259 
+20,518 
+23,778 
+27,037 
+30,297 
+   Common Equity IRR
+64.7% 
+70.5% 
+75.6% 
+80.2% 
+84.3% 
+   Common Equity MoIC
+12.12x
+14.41x
+16.70x
+18.99x
+21.28x
+New Investor Preferred Equity Invested
+12,815 
+12,815 
+12,815 
+12,815 
+12,815 
+New Investor Preferred Equity Proceeds
+18,829 
+18,829 
+18,829 
+18,829 
+18,829 
+   Preferred Equity IRR
+8.0% 
+8.0% 
+8.0% 
+8.0% 
+8.0% 
+   Preferred Equity MoIC
+1.47x
+1.47x
+1.47x
+1.47x
+1.47x
+New Investor Total Equity Invested (Pfd + Cmn)
+14,239 
+14,239 
+14,239 
+14,239 
+14,239 
+New Investor Total Equity Proceeds (Pfd + Cmn)
+36,088 
+39,348 
+42,607 
+45,867 
+49,126 
+   Total New Investor Equity Gross IRR (Before Carry)
+20.4% 
+22.5% 
+24.5% 
+26.4% 
+28.1% 
+   Total New Investor Equity MoIC (Before Carry)
+2.53x
+2.76x
+2.99x
+3.22x
+3.45x
+
+[PAGE 8]
+ C:\Users\deal.team\Halvern Sync\Deals\Project Kestrel\Model\Kestrel Model_9-14-26_vF.xlsx
+ 8
+Project Kestrel
+9/14/2026 4:47 PM
+Working Capital
+Operating Case Running: Management Case - Tax rate: 26%
+($ in 000s)
+Capital Structure Case: Base Case - Senior + Mezz w/ Seller Paper (3.0x Senior)
+WORKING CAPITAL
+FY2026E
+FY2027E
+FY2028E
+FY2029E
+FY2030E
+FY2031E
+Accounts Receivable
+5,612 
+5,949 
+6,408 
+6,792 
+7,166 
+7,355 
+   Days
+44.5 
+44.0 
+44.5 
+44.5 
+44.5 
+43.5 
+   % of Revenue
+12.2% 
+12.1% 
+12.2% 
+12.2% 
+12.2% 
+11.9% 
+Inventory
+5,083 
+5,388 
+5,767 
+6,153 
+6,481 
+6,805 
+   Days (on COGS)
+62.0 
+61.5 
+62.0 
+62.5 
+62.5 
+62.5 
+Prepaid and Other Advances
+598 
+642 
+683 
+724 
+764 
+802 
+   % of Revenue
+1.3% 
+1.3% 
+1.3% 
+1.3% 
+1.3% 
+1.3% 
+Other Current Assets
+184 
+197 
+210 
+223 
+235 
+247 
+   % of Revenue
+0.4% 
+0.4% 
+0.4% 
+0.4% 
+0.4% 
+0.4% 
+Total Current Assets
+11,478 
+12,176 
+13,068 
+13,892 
+14,646 
+15,209 
+Accounts Payable
+2,541 
+2,672 
+2,884 
+3,052 
+3,163 
+3,375 
+   Days (on COGS)
+31.0 
+30.5 
+31.0 
+31.0 
+30.5 
+31.0 
+Accrued Expenses
+2,532 
+2,714 
+2,891 
+3,064 
+3,233 
+3,394 
+   % of Revenue
+5.5% 
+5.5% 
+5.5% 
+5.5% 
+5.5% 
+5.5% 
+Accrued Product Liability
+460 
+493 
+526 
+557 
+588 
+617 
+   % of Revenue
+1.0% 
+1.0% 
+1.0% 
+1.0% 
+1.0% 
+1.0% 
+Other Current Liabilities
+276 
+296 
+315 
+334 
+353 
+370 
+   % of Revenue
+0.6% 
+0.6% 
+0.6% 
+0.6% 
+0.6% 
+0.6% 
+Total Current Liabilities
+5,810 
+6,176 
+6,615 
+7,007 
+7,336 
+7,757 
+Net Working Capital
+5,668 
+6,000 
+6,453 
+6,885 
+7,310 
+7,452 
+Change in NWC (increase = use of cash) (1)
+540 
+332 
+453 
+432 
+425 
+142 
+   % of Revenue
+12.3% 
+12.2% 
+12.3% 
+12.4% 
+12.4% 
+12.1% 
+TAXES
+Pre Tax Income Prior to Step Up and NOL Utilization
+3,961 
+4,869 
+5,833 
+6,802 
+7,821 
+9,246 
+Less: Step Up Amortization Tax Shield (goodwill / 15 yrs)
+(2,660)
+(2,660)
+(2,660)
+(2,660)
+(2,660)
+(2,660)
+Less: NOL Utilization
+- 
+- 
+- 
+- 
+- 
+- 
+Net Adjusted Pre Tax Income
+1,301 
+2,209 
+3,174 
+4,142 
+5,161 
+6,586 
+Federal & State Taxes
+338 
+574 
+825 
+1,077 
+1,342 
+1,712 
+Summary of NOL Carryforwards:
+   NOL - Beginning of Year
+- 
+- 
+- 
+- 
+- 
+- 
+   Additions (pre-tax losses)
+- 
+- 
+- 
+- 
+- 
+- 
+   Subtractions (utilization)
+- 
+- 
+- 
+- 
+- 
+- 
+   NOL - End of Year
+- 
+- 
+- 
+- 
+- 
+- 
+CALCULATION OF GOODWILL
+Equity Purchase Price
+48,341 
+Less: Book Equity Acquired
+(8,443)
+Goodwill (2)
+39,898 
+Goodwill Tax Amortization (15 yrs, annual)
+2,660 
+692 <- Annual Step Up Amort Tax Shield
+Tax Savings from Step Up
+692 
+692 
+692 
+692 
+692 
+692 
+   Cumulative Tax Savings
+692 
+1,383 
+2,075 
+2,766 
+3,458 
+4,149 
+(1) Full fiscal-year change versus FY2025A net working capital of 5,128; the Free Cash Flow and Cash Flow Statement pages show the post-closing change versus the 
+31-Jul-26 closing balance sheet (5,311), i.e. (357) in FY2026E.
+(2) Goodwill vs. identifiable intangibles split to be determined in opening balance sheet accounting; shown in goodwill for simplicity (see Closing and Projected Balance 
+Sheets).
+
